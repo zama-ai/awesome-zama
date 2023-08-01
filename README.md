@@ -5,10 +5,10 @@
 
 
 ## Contents
-- [Libraries](#toolkits)
-- [Tutorials and demos](#databases)
-- [Blog posts](#libraries)
-- [Research papers](#applications)
+- [Libraries](#libraries)
+- [Tutorials and demos](#tutorials_and_demos)
+- [Blog posts](#blog_posts)
+- [Research papers](#research_papers)
 
 ## Librarires
 List of the main Zama github FHE libraries. 
