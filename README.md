@@ -37,7 +37,7 @@ List of the main Zama tutorials and demos sorted by dates
 - [Sentiment analysis over encrypted data](https://huggingface.co/blog/sentiment-analysis-fhe) - Tutorial
 
 ## Blog Posts
-List of the main and most readed Zama blog posts sorted by dates
+List of the main and most read Zama blog posts sorted by dates
 - [Zama product releases July 2023](https://www.zama.ai/post/zama-product-releases-july-2023)
 - [On-chain blind auctions using FHE](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption)
 - [Confidential ERC-20 tokens using FHE](https://www.zama.ai/post/confidential-erc-20-tokens-using-homomorphic-encryption)
