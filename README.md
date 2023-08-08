@@ -13,29 +13,35 @@
 
 ## Libraries and solutions
 List of the main Zama github FHE libraries. 
-- [TFHE-rs](https://github.com/zama-ai): A Pure Rust implementation of the TFHE Scheme for Boolean and Integer Arithmetics Over Encrypted Data.
-- [Concrete](https://github.com/zama-ai): TFHE Compiler that converts python programs into FHE equivalent.
-- [Concrete ML](https://github.com/zama-ai): Concrete ML: Privacy Preserving ML framework built on top of Concrete, with bindings to traditional ML frame.
+- [TFHE-rs](https://github.com/zama-ai/tfhe-rs): A Pure Rust implementation of the TFHE Scheme for Boolean and Integer Arithmetics Over Encrypted Data.
+- [Concrete](https://github.com/zama-ai/concrete): TFHE Compiler that converts python programs into FHE equivalent.
+- [Concrete ML](https://github.com/zama-ai/concrete-ml): Concrete ML: Privacy Preserving ML framework built on top of Concrete, with bindings to traditional ML frame.
 - [fhEVM](docs.zama.ai/fhevm): A confidential smart contracts protocol using homomorphic encryption.
-- [Zama Bounty Program](https://github.com/zama-ai): Contribute to Zama's open source libraries and get rewarded. More than €500,000 in prize.
+- [Zama Bounty Program](https://github.com/zama-ai/bounyt-program): Contribute to Zama's open source libraries and get rewarded. More than €500,000 in prize.
 
 ## Tutorials and demos
 List of the main Zama tutorials and demos.
-- [Sentiment analysis over encrypted data using FHE](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis)
-- [Encrypted image filtering using FHE](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis)
-- [Dark market application using TFHE-rs](https://www.zama.ai/post/dark-market-tfhe-rs)
-- [Boolean SHA256 using TFHE-rs](https://www.zama.ai/post/boolean-sha256-tfhe-rs)
-- (...)
+- [Encrypted health prediction using fHE](https://huggingface.co/spaces/zama-fhe/encrypted_health_prediction) - Demo
+- [How to get started with Concrete: Zama's FHE compiler](https://www.zama.ai/post/how-to-started-with-concrete-zama-fully-homomorphic-encryption-compiler) - Video tutorial
+- [Boolean SHA256 using TFHE-rs](https://www.zama.ai/post/boolean-sha256-tfhe-rs) - Tutorial
+- [Dark market application using TFHE-rs](https://www.zama.ai/post/dark-market-tfhe-rs) - Tutorial
+- [Regular Expression Engine with TFHE-rs](https://www.zama.ai/post/regex-engine-tfhe-rs) - Tutorial
+- [Linear Regression Over Encrypted Data With Homomorphic Encryption](https://www.zama.ai/post/linear-regression-using-linear-svr-and-concrete-ml-homomorphic-encryption) - Tutorial
+- [Comparison of Concrete ML regressors](https://www.zama.ai/post/comparison-of-concrete-ml-regressors) - Tutorial
+- [How to convert a Scikit-learn model into its homomorphic equivalent](https://www.zama.ai/post/how-to-convert-a-scikit-learn-model-into-its-homomorphic-equivalent) - Video tutorial
+- [How to deploy a machine learning model with Concrete ML](https://www.zama.ai/post/how-to-deploy-machine-learning-models-with-concrete-ml) - Tutorial
+- [Encrypted Key-value Database Using Homomorphic Encryption](https://www.zama.ai/post/encrypted-key-value-database-using-homomorphic-encryption) - Tutorial
+- [Encrypted image filtering using homomorphic encryption](https://www.zama.ai/post/encrypted-image-filtering-using-homomorphic-encryption) - Tutorial
+- [Encrypted image filtering using homomorphic encryption](https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering) - Demo
+- [Encrypted sentiment analysis using Homomorphic Encryption](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis) - Demo
+- [Sentiment analysis over encrypted data](https://huggingface.co/blog/sentiment-analysis-fhe) - Tutorial
 
-  
 ## Blog Posts
 List of the main and most readed Zama blog posts.
 - [TFHE Deep dive part 1](https://www.zama.ai/post/tfhe-deep-dive-part-1)
 - [TFHE Deep dive part 2](https://www.zama.ai/post/tfhe-deep-dive-part-1)
 - [TFHE Deep dive part 3](https://www.zama.ai/post/tfhe-deep-dive-part-1)
 - [TFHE Deep dive part 4](https://www.zama.ai/post/tfhe-deep-dive-part-1)
-- (...)
-
 
 ## Research papers and publications
 List of the main and most cited Zama research papers.
