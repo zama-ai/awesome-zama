@@ -16,7 +16,7 @@ List of the main Zama github FHE libraries and solutions.
 - [TFHE-rs](https://github.com/zama-ai/tfhe-rs): A Pure Rust implementation of the TFHE Scheme for Boolean and Integer Arithmetics Over Encrypted Data.
 - [Concrete](https://github.com/zama-ai/concrete): TFHE Compiler that converts python programs into FHE equivalents.
 - [Concrete ML](https://github.com/zama-ai/concrete-ml): Concrete ML: Privacy Preserving ML framework built on top of Concrete, with bindings to traditional ML frameworks.
-- [fhEVM](docs.zama.ai/fhevm): A confidential smart contracts protocol for the EVM using homomorphic encryption.
+- [fhEVM](https://docs.zama.ai/fhevm): A confidential smart contracts protocol for the EVM using homomorphic encryption.
 - [Zama Bounty Program](https://github.com/zama-ai/bounyt-program): Contribute to Zama's open source libraries and get rewarded. More than €500,000 in prize.
 
 ## Tutorials and demos
