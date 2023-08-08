@@ -20,7 +20,7 @@ List of the main Zama github FHE libraries.
 - [Zama Bounty Program](https://github.com/zama-ai/bounyt-program): Contribute to Zama's open source libraries and get rewarded. More than €500,000 in prize.
 
 ## Tutorials and demos
-List of the main Zama tutorials and demos.
+List of the main Zama tutorials and demos sorted by dates
 - [Encrypted health prediction using fHE](https://huggingface.co/spaces/zama-fhe/encrypted_health_prediction) - Demo
 - [How to get started with Concrete: Zama's FHE compiler](https://www.zama.ai/post/how-to-started-with-concrete-zama-fully-homomorphic-encryption-compiler) - Video tutorial
 - [Boolean SHA256 using TFHE-rs](https://www.zama.ai/post/boolean-sha256-tfhe-rs) - Tutorial
@@ -37,7 +37,7 @@ List of the main Zama tutorials and demos.
 - [Sentiment analysis over encrypted data](https://huggingface.co/blog/sentiment-analysis-fhe) - Tutorial
 
 ## Blog Posts
-List of the main and most readed Zama blog posts.
+List of the main and most readed Zama blog posts sorted by dates
 - [Zama product releases July 2023](https://www.zama.ai/post/zama-product-releases-july-2023)
 - [On-chain blind auctions using FHE](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption)
 - [Confidential ERC-20 tokens using FHE](https://www.zama.ai/post/confidential-erc-20-tokens-using-homomorphic-encryption)
@@ -63,7 +63,7 @@ List of the main and most readed Zama blog posts.
 - [People should not care about privacy](https://www.zama.ai/post/people-should-not-care-about-privacy)
 
 ## Research papers and publications
-List of the main and most cited Zama research papers.
+List of the main and most cited Zama research papers sorted by dates
 - [Parameter optimization & larger precision for (T)FHE](https://link.springer.com/article/10.1007/s00145-023-09463-5) - ‍June 2023 — Journal of Cryptology
 - [Topical Collection on Computing on Encrypted Data](https://link.springer.com/article/10.1007/s00145-023-09444-8) - June 2023 — Journal of Cryptology
 - [POLKA: Towards leakage-resistant post-quantum CCA-secure public-key encryption](https://link.springer.com/chapter/10.1007/978-3-031-31368-4_5) - ‍May 2023 — PKC 2023
