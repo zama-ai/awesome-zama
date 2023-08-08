@@ -6,7 +6,7 @@
 
 
 ## Contents
-- [Libraries and solutions](#libraries_and_solutions)
+- [Libraries and solutions](#libraries-and-solutions)
 - [Tutorials and demos](#tutorials_and_demos)
 - [Blog posts](#blog_posts)
 - [Research papers](#research_papers)
