@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/zama-ai/awesome-zama/assets/5758427/2d7c318d-9e16-4fba-8c5f-3d9a998e5af3" width="300px">
   <br>
-  <br/>A curated list of amazing <b>Fully Homomorphic Encryption (FHE)</b> blog posts, libraries, research papers and tutorials by the team at Zama.
+  <br/>A curated list of amazing <b>Fully Homomorphic Encryption (FHE)</b> blog posts, libraries, research papers and tutorials by the team at [https://zama.ai](Zama).
 </p>
 
 
