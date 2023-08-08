@@ -9,7 +9,7 @@
 - [Libraries and solutions](#libraries-and-solutions)
 - [Tutorials and demos](#tutorials-and-demos)
 - [Blog posts](#blog-posts)
-- [Research papers](#research-papers-and-publications)
+- [Research papers and publications](#research-papers-and-publications)
 
 ## Libraries and solutions
 List of the main Zama github FHE libraries. 
