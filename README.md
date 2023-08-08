@@ -38,10 +38,29 @@ List of the main Zama tutorials and demos.
 
 ## Blog Posts
 List of the main and most readed Zama blog posts.
-- [TFHE Deep dive part 1](https://www.zama.ai/post/tfhe-deep-dive-part-1)
-- [TFHE Deep dive part 2](https://www.zama.ai/post/tfhe-deep-dive-part-1)
-- [TFHE Deep dive part 3](https://www.zama.ai/post/tfhe-deep-dive-part-1)
-- [TFHE Deep dive part 4](https://www.zama.ai/post/tfhe-deep-dive-part-1)
+- [Zama product releases July 2023](https://www.zama.ai/post/zama-product-releases-july-2023)
+- [On-chain blind auctions using FHE](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption)
+- [Confidential ERC-20 tokens using FHE](https://www.zama.ai/post/confidential-erc-20-tokens-using-homomorphic-encryption)
+- [Private smart contract using FHE](https://www.zama.ai/post/private-smart-contracts-using-homomorphic-encryption)
+- [Concrete - Zama's FHE compiler](https://www.zama.ai/post/zama-concrete-fully-homomorphic-encryption-compiler)
+- [Making chatGPT encrypted end-to-end](https://www.zama.ai/post/chatgpt-privacy-with-homomorphic-encryption)
+- [Zama product releases april 2023](https://www.zama.ai/post/zama-product-announcement-april-2023)
+- [Presenting Concrete ML at Google tech talks](https://www.zama.ai/post/zama-concrete-ml-at-google-tech-talks)
+- [Zama product releases January 2023](https://www.zama.ai/post/zama-product-announcement-january-2023)
+- [360 privacy for machine learning with FHE](https://www.zama.ai/post/360-privacy-for-machine-learning-with-homomorphic-encryption)
+- [Bootstrapping for dummies](https://www.zama.ai/post/what-is-bootstrapping-homomorphic-encryption)
+- [Zama product releases october 2022](https://www.zama.ai/post/zama-product-announcement-october-2022)
+- [FHE and quantum cryptography](https://www.zama.ai/post/fully-homomorphic-encryption-and-post-quantum-cryptography)
+- [Titanic competition with privacy preveserving machine learning](https://www.zama.ai/post/titanic-competition-with-privacy-preserving-machine-learning-using-concrete-ml)
+- [How we monetize open source at Zama](https://www.zama.ai/post/open-source)
+- [FHE as a puzzle piece](https://www.zama.ai/post/fhe-as-a-puzzle-piece)
+- [TFHE deep dive part 4](https://www.zama.ai/post/tfhe-deep-dive-part-4)
+- [TFHE deep dive part 3](https://www.zama.ai/post/tfhe-deep-dive-part-3)
+- [TFHE deep dive part 2](https://www.zama.ai/post/tfhe-deep-dive-part-2)
+- [TFHE deep dive part 1](https://www.zama.ai/post/tfhe-deep-dive-part-1)
+- [Estimating the security of homomorphic encryption schemes](https://www.zama.ai/post/estimating-the-security-of-homomorphic-schemes)
+- [How we hire at Zama](https://www.zama.ai/post/how-we-hire-at-zama)
+- [People should not care about privacy](https://www.zama.ai/post/people-should-not-care-about-privacy)
 
 ## Research papers and publications
 List of the main and most cited Zama research papers.
@@ -65,7 +84,7 @@ List of the main and most cited Zama research papers.
 - [Hybrid attacks on LWE and the lattice estimator](https://github.com/zama-ai/publications/raw/main/papers/2022/estimator.pdf) - May 2022 — FHE.org
 - [Fast, easy, and accessible FHE with Concrete and specialized accelerators](https://github.com/zama-ai/publications/raw/main/papers/2022/concreteacc.pdf) - May 2022 — FHE.org
 - [Concrete ML: A data-scientist-friendly toolkit for machine learning over encrypted data](https://github.com/zama-ai/publications/raw/main/papers/2022/cml.pdf) - May 2022 — FHE.org
-- [Performance of hierarchical transforms in homomorphic encryption: A case study on logistic regression inference](May 2022 — FHE.org) - May 2022 — FHE.org
+- [Performance of hierarchical transforms in homomorphic encryption: A case study on logistic regression inference](https://github.com/zama-ai/publications/raw/main/papers/2022/logreg.pdf) - May 2022 — FHE.org
 - [A pairing-free signature scheme from correlation intractable hash function and strong Diffie-Hellman assumption](https://link.springer.com/chapter/10.1007/978-3-030-95312-6_2) - January 2022 — CT-RSA
 - [Improved programmable bootstrapping with larger precision and efficient arithmetic circuits for TFHE](https://link.springer.com/chapter/10.1007/978-3-030-92078-4_23) - December 2021 — ASIACRYPT
 - [Grafting key trees: Efficient key management for overlapping groups](https://link.springer.com/chapter/10.1007/978-3-030-90456-2_8) - November 2021 — ASIACRYPT
