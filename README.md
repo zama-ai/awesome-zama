@@ -6,12 +6,12 @@
 
 
 ## Contents
-- [Libraries](#libraries)
+- [Libraries and solutions](#libraries_and_solutions)
 - [Tutorials and demos](#tutorials_and_demos)
 - [Blog posts](#blog_posts)
 - [Research papers](#research_papers)
 
-## Librarires
+## Libraries and solutions
 List of the main Zama github FHE libraries. 
 - [TFHE-rs](https://github.com/zama-ai): A Pure Rust implementation of the TFHE Scheme for Boolean and Integer Arithmetics Over Encrypted Data.
 - [Concrete](https://github.com/zama-ai): TFHE Compiler that converts python programs into FHE equivalent.
