@@ -12,7 +12,7 @@
 - [Research papers and publications](#research-papers-and-publications)
 
 ## Libraries and solutions
-List of the main Zama github FHE libraries. 
+List of the main Zama github FHE libraries and solutions. 
 - [TFHE-rs](https://github.com/zama-ai/tfhe-rs): A Pure Rust implementation of the TFHE Scheme for Boolean and Integer Arithmetics Over Encrypted Data.
 - [Concrete](https://github.com/zama-ai/concrete): TFHE Compiler that converts python programs into FHE equivalent.
 - [Concrete ML](https://github.com/zama-ai/concrete-ml): Concrete ML: Privacy Preserving ML framework built on top of Concrete, with bindings to traditional ML frame.
@@ -63,7 +63,7 @@ List of the main and most readed Zama blog posts sorted by dates
 - [People should not care about privacy](https://www.zama.ai/post/people-should-not-care-about-privacy)
 
 ## Research papers and publications
-List of the main and most cited Zama research papers sorted by dates
+List of the main and most cited Zama research papers and publications sorted by dates
 - [Parameter optimization & larger precision for (T)FHE](https://link.springer.com/article/10.1007/s00145-023-09463-5) - ‍June 2023 — Journal of Cryptology
 - [Topical Collection on Computing on Encrypted Data](https://link.springer.com/article/10.1007/s00145-023-09444-8) - June 2023 — Journal of Cryptology
 - [POLKA: Towards leakage-resistant post-quantum CCA-secure public-key encryption](https://link.springer.com/chapter/10.1007/978-3-031-31368-4_5) - ‍May 2023 — PKC 2023
