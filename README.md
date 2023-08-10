@@ -24,10 +24,10 @@ List of the main Zama FHE libraries and solutions.
 
 ## Tutorials and demos
 List of the main Zama tutorials and demos sorted by date.
-- [Encrypted health prediction using fHE](https://huggingface.co/spaces/zama-fhe/encrypted_health_prediction) - Demo
+- [Encrypted health prediction using FHE](https://huggingface.co/spaces/zama-fhe/encrypted_health_prediction) - Demo
+- [On-chain blind auctions using FHE](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption) - Tutorial
 - [Dark market application using TFHE-rs](https://www.zama.ai/post/dark-market-tfhe-rs) - Tutorial
 - [Regular expression engine with TFHE-rs](https://www.zama.ai/post/regex-engine-tfhe-rs) - Tutorial
-- [How to deploy a machine learning model with Concrete ML](https://www.zama.ai/post/how-to-deploy-machine-learning-models-with-concrete-ml) - Tutorial
 - [Encrypted image filtering using homomorphic encryption](https://www.zama.ai/post/encrypted-image-filtering-using-homomorphic-encryption) - Tutorial
 
 <details><summary>
@@ -36,6 +36,7 @@ View all
 <br/>
   
 - [Encrypted health prediction using fHE](https://huggingface.co/spaces/zama-fhe/encrypted_health_prediction) - Demo
+- [On-chain blind auctions using FHE](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption) - Tutorial
 - [How to get started with Concrete: Zama's FHE compiler](https://www.zama.ai/post/how-to-started-with-concrete-zama-fully-homomorphic-encryption-compiler) - Video tutorial
 - [Boolean SHA256 using TFHE-rs](https://www.zama.ai/post/boolean-sha256-tfhe-rs) - Tutorial
 - [Dark market application using TFHE-rs](https://www.zama.ai/post/dark-market-tfhe-rs) - Tutorial
