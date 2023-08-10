@@ -33,6 +33,7 @@ List of the main Zama tutorials and demos sorted by date.
 <details><summary>
 View all
 </summary>
+<br/>
   
 - [Encrypted health prediction using fHE](https://huggingface.co/spaces/zama-fhe/encrypted_health_prediction) - Demo
 - [How to get started with Concrete: Zama's FHE compiler](https://www.zama.ai/post/how-to-started-with-concrete-zama-fully-homomorphic-encryption-compiler) - Video tutorial
@@ -62,6 +63,7 @@ List of the main Zama research papers and publications sorted by date.
 <details><summary>
 View all
 </summary>
+<br/>
   
 - [Practical and efficient FHE-based MPC](https://ia.cr/2023/981) - June 2023 — ePrint Archive
 - [Trivial transciphering with Trivium and TFHE](https://ia.cr/2023/980) - June 2023 — ePrint Archive
@@ -108,6 +110,7 @@ List of the main Zama blog posts sorted by date.
 <details><summary>
  View all
 </summary>
+<br/>
   
 - [Zama product releases July 2023](https://www.zama.ai/post/zama-product-releases-july-2023) - July 2023
 - [On-chain blind auctions using FHE](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption) - July 2023
@@ -145,6 +148,7 @@ List of the main Zama talks and posters sorted by date.
 <details><summary>
  View all
 </summary>
+<br/>
 
 - [Recent advances in homomorphic compilation](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/homomorphic-compilation.pdf) - ‍‍March 2023 — FHE.org 
 - [On NTRU -ν-um modulo Xᴺ-1](https://eprint.iacr.org/2022/1092) - ‍March 2023 — FHE.org
