@@ -84,7 +84,7 @@ View all
 - [Differential fault analysis](https://doi.org/10.1007/978-3-642-27739-9_1707-1) ‍‍‍- March 2023 — CT-RSA 2023
 - [Privacy-Preserving Tree-Based Inference with TFHE](https://doi.org/10.1007/978-3-031-34671-2_34) [[arXiv version](https://arxiv.org/abs/2303.01254)] - March 2023 — CSCML 2023
 - Deep Neural Networks for Encrypted Inference with TFHE [[ePrint version](https://eprint.iacr.org/2023/257)] - February 2023 — ePrint Archive
-- MPC With Delayed Parties Over Star-Like Networks [ePrint version](https://eprint.iacr.org/2023/096)] - January 2023 - ePrint Archive
+- MPC With Delayed Parties Over Star-Like Networks [[ePrint version](https://eprint.iacr.org/2023/096)] - January 2023 - ePrint Archive
 - [On-Line/Off-Line DCR-based Homomorphic Encryption and Applications](https://doi.org/10.1007/978-3-031-30872-7_5) [[ePrint version](https://eprint.iacr.org/2023/048)] - January 2023 - CT-RSA 2023
 - [Improving convergence and practicality of slide-type reductions](https://doi.org/10.1016/j.ic.2023.105012) [[ePrint version](https://eprint.iacr.org/2023/140)] - December 2022 — Information and Computation 2023
 - [FINAL: Faster FHE Instantiated with NTRU and LWE](https://doi.org/10.1007/978-3-031-22966-4_7) [[ePrint version](https://eprint.iacr.org/2022/074)] - ‍December 2022 — ASIACRYPT 2022
