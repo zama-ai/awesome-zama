@@ -61,7 +61,7 @@ List of Zama research papers and publications sorted by date.
 
 - Practical and efficient FHE-based MPC [[ePrint version](https://ia.cr/2023/981)] - June 2023 — ePrint Archive
 - Faster secret keys for (T)FHE [[ePrint version](https://ia.cr/2023/979)] - June 2023 — ePrint Archive
-- [Parameter optimization & larger precision for (T)FHE]((https://doi.org/10.1007/s00145-023-09463-5)) [[ePrint version](https://eprint.iacr.org/2022/704)] - ‍June 2023 — Journal of Cryptology 2023
+- [Parameter optimization & larger precision for (T)FHE](https://doi.org/10.1007/s00145-023-09463-5) [[ePrint version](https://eprint.iacr.org/2022/704)] - ‍June 2023 — Journal of Cryptology 2023
 - [Guide to Fully Homomorphic Encryption over the [Discretized] Torus](https://doi.org/10.46586/tches.v2022.i4.661-692) [[ePrint version](https://eprint.iacr.org/2021/1402)] - September 2022 — CHES 2022
 - [Improved programmable bootstrapping with larger precision and efficient arithmetic circuits for TFHE](https://doi.org/10.1007/978-3-030-92078-4_23)  [[ePrint version](https://eprint.iacr.org/2021/729)] - December 2021 — ASIACRYPT 2021
 
