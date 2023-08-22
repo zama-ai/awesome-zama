@@ -75,7 +75,7 @@ View all
 - [Topical Collection on Computing on Encrypted Data](https://doi.org/10.1007/s00145-023-09444-8) - June 2023 — Journal of Cryptology 2023
 - [Parameter optimization & larger precision for (T)FHE](https://doi.org/10.1007/s00145-023-09463-5) [[ePrint version](https://eprint.iacr.org/2022/704)] - ‍June 2023 — Journal of Cryptology 2023
 - Faster secret keys for (T)FHE [[ePrint version](https://ia.cr/2023/979)] - June 2023 — ePrint Archive
-- Attribute-based single sign-On: Secure, private, and efficient[https://doi.org/10.56553/popets-2023-0097] [[ePrint version](https://ia.cr/2023/915)] - June 2023 — PoPETs 2023
+- [Attribute-based single sign-On: Secure, private, and efficient](https://doi.org/10.56553/popets-2023-0097) [[ePrint version](https://ia.cr/2023/915)] - June 2023 — PoPETs 2023
 - Noah's Ark: Efficient Threshold-FHE Using Noise Flooding [[ePrint version](https://eprint.iacr.org/2023/815)] - June 2023 — ePrint Archive
 - Vector commitments with short proofs of smallness [[ePrint version](https://ia.cr/2023/800)] - May 2023 — ePrint Archive
 - Computing e-th roots in number fields [[arXiv version](https://arxiv.org/abs/2305.17425)] - May 2023 — arXiv preprint
