@@ -72,7 +72,7 @@ View all
 - Practical and efficient FHE-based MPC [[ePrint version](https://ia.cr/2023/981)] - June 2023 — ePrint Archive
 - Trivial transciphering with Trivium and TFHE [[ePrint version](https://ia.cr/2023/980)] - June 2023 — ePrint Archive
 - [Topical Collection on Computing on Encrypted Data](https://doi.org/10.1007/s00145-023-09444-8) - June 2023 — Journal of Cryptology 2023
-- [Parameter optimization & larger precision for (T)FHE]((https://doi.org/10.1007/s00145-023-09463-5)) [[ePrint version](https://eprint.iacr.org/2022/704)] - ‍June 2023 — Journal of Cryptology 2023
+- [Parameter optimization & larger precision for (T)FHE](https://doi.org/10.1007/s00145-023-09463-5) [[ePrint version](https://eprint.iacr.org/2022/704)] - ‍June 2023 — Journal of Cryptology 2023
 - Faster secret keys for (T)FHE [[ePrint version](https://ia.cr/2023/979)] - June 2023 — ePrint Archive
 - Attribute-based single sign-On: Secure, private, and efficient [[ePrint version](https://ia.cr/2023/915)] - June 2023 — ePrint Archive
 - Noah's Ark: Efficient Threshold-FHE Using Noise Flooding [[ePrint version](https://eprint.iacr.org/2023/815)] - June 2023 — ePrint Archive
