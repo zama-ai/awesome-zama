@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/zama-ai/awesome-zama/assets/5758427/2d7c318d-9e16-4fba-8c5f-3d9a998e5af3" width="200px">
   <br><br/>
-  A curated list of amazing <b>Fully Homomorphic Encryption (FHE)</b> blog posts, libraries, research papers and tutorials by the team at Zama.
+  A curated list by the team at Zama of blog posts, libraries, research papers, and tutorials on <b>Fully Homomorphic Encryption (FHE)</b>.
 </p>
 
 ## Contents
@@ -14,7 +14,7 @@
 
 ## Libraries and solutions
 
-List of Zama FHE libraries and solutions.
+Zama's FHE libraries and solutions.
 
 - [TFHE-rs](https://github.com/zama-ai/tfhe-rs): A Pure Rust implementation of the TFHE Scheme for Boolean and Integer Arithmetics Over Encrypted Data.
 - [Concrete](https://github.com/zama-ai/concrete): TFHE Compiler that converts python programs into FHE equivalents.
@@ -24,7 +24,7 @@ List of Zama FHE libraries and solutions.
 
 ## Tutorials and demos
 
-List of Zama tutorials and demos sorted by date.
+Tutorials and demos by the Zama team sorted by date.
 
 - [Encrypted health prediction using FHE](https://huggingface.co/spaces/zama-fhe/encrypted_health_prediction) - Demo
 - [On-chain blind auctions using FHE](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption) - Tutorial
@@ -57,7 +57,7 @@ View all
 
 ## Research papers and publications
 
-List of Zama research papers and publications sorted by date.
+Research papers and publications by the Zama team sorted by date.
 
 - Practical and efficient FHE-based MPC [[ePrint version](https://ia.cr/2023/981)] - June 2023 — ePrint Archive
 - Faster secret keys for (T)FHE [[ePrint version](https://ia.cr/2023/979)] - June 2023 — ePrint Archive
@@ -113,7 +113,7 @@ View all
 
 ## Blog Posts
 
-List of Zama blog posts sorted by date.
+Zama's blog posts sorted by date.
 
 - [Zama product releases July 2023](https://www.zama.ai/post/zama-product-releases-july-2023) - July 2023
 - [On-chain blind auctions using FHE](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption) - July 2023
@@ -155,7 +155,7 @@ List of Zama blog posts sorted by date.
 
 ## Talks and posters
 
-List of Zama talks and posters sorted by date.
+Talks and posters by the Zama team sorted by date.
 
 - [Privacy Preserving Machine Learning With Fully Homomorphic Encryption](https://www.youtube.com/watch?v=nL2TUznAMcw&t=909s) - April 2023 -- Stanford Security Seminar
 - [Recent advances in homomorphic compilation](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/homomorphic-compilation.pdf) - ‍‍March 2023 — FHE.org 2023
