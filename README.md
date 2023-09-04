@@ -10,7 +10,7 @@
 - [Tutorials and demos](#tutorials-and-demos)
 - [Blog posts](#blog-posts)
 - [Research papers and publications](#research-papers-and-publications)
-- [Contributed talks and posters](#contributed-talks-and-posters)
+- [Talks and posters](#talks-and-posters)
 
 ## Libraries and solutions
 
@@ -153,14 +153,14 @@ List of Zama blog posts sorted by date.
 
 </details>
 
-## Contributed talks and posters
+## Talks and posters
 
 List of Zama talks and posters sorted by date.
 
+- [Privacy Preserving Machine Learning With Fully Homomorphic Encryption](https://www.youtube.com/watch?v=nL2TUznAMcw&t=909s) - April 2023 -- Stanford Security Seminar
 - [Recent advances in homomorphic compilation](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/homomorphic-compilation.pdf) - ‍‍March 2023 — FHE.org 2023
 - [Private smart contracts using homomorphic encryption](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/private-smart-contracts.pdf) - ‍March 2023 — FHE.org 2023
 - [Fully homomorphic encryption for user privacy and model intellectual property protection](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/user-privacy-model-protection.pdf) - ‍March 2023 — FHE.org 2023
-- [Concrete ML: A data-scientist-friendly toolkit for machine learning over encrypted data](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2022/media/concrete-ml.pdf) - May 2022 — FHE.org 2022
 - [Hybrid attacks on LWE and the lattice estimator](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2022/media/hybrid-attacks.pdf) - May 2022 — FHE.org 2022
 
 <details><summary>
@@ -168,6 +168,7 @@ List of Zama talks and posters sorted by date.
 </summary>
 <br/>
 
+- [Privacy Preserving Machine Learning With Fully Homomorphic Encryption](https://www.youtube.com/watch?v=nL2TUznAMcw&t=909s) - April 2023 -- Stanford Security Seminar
 - [Recent advances in homomorphic compilation](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/homomorphic-compilation.pdf) - ‍‍March 2023 — FHE.org 2023
 - [On NTRU -ν-um modulo Xᴺ-1](https://eprint.iacr.org/2022/1092) - ‍March 2023 — FHE.org 2023
 - [Private smart contracts using homomorphic encryption](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/private-smart-contracts.pdf) - ‍March 2023 — FHE.org 2023
