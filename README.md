@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/zama-ai/awesome-zama/assets/5758427/2d7c318d-9e16-4fba-8c5f-3d9a998e5af3" width="200px">
+  <img src="https://github.com/zama-ai/awesome-zama/assets/5758427/3fcf431a-68fb-47fd-8b6f-670389cce5cc" width="200px">
   <br><br/>
   A curated list by the team at Zama of blog posts, libraries, research papers, and tutorials on <b>Fully Homomorphic Encryption (FHE)</b>.
 </p>
