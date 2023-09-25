@@ -37,7 +37,7 @@ View all
 </summary>
 <br/>
   
-- [Encrypted health prediction using fHE](https://huggingface.co/spaces/zama-fhe/encrypted_health_prediction) - Demo
+- [Encrypted health prediction using FHE](https://huggingface.co/spaces/zama-fhe/encrypted_health_prediction) - Demo
 - [On-chain blind auctions using FHE](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption) - Tutorial
 - [How to get started with Concrete: Zama's FHE compiler](https://www.zama.ai/post/how-to-started-with-concrete-zama-fully-homomorphic-encryption-compiler) - Video tutorial
 - [Boolean SHA256 using TFHE-rs](https://www.zama.ai/post/boolean-sha256-tfhe-rs) - Tutorial
@@ -59,55 +59,61 @@ View all
 
 Research papers and publications by the Zama team sorted by date.
 
-- Practical and efficient FHE-based MPC [[ePrint version](https://ia.cr/2023/981)] - June 2023 — ePrint Archive
-- Faster secret keys for (T)FHE [[ePrint version](https://ia.cr/2023/979)] - June 2023 — ePrint Archive
-- [Parameter optimization & larger precision for (T)FHE](https://doi.org/10.1007/s00145-023-09463-5) [[ePrint version](https://eprint.iacr.org/2022/704)] - ‍June 2023 — Journal of Cryptology 2023
-- [SoK: Fully Homomorphic Encryption over the [Discretized] Torus](https://doi.org/10.46586/tches.v2022.i4.661-692) [[ePrint version](https://eprint.iacr.org/2021/1402)] - September 2022 — CHES 2022
-- [Improved programmable bootstrapping with larger precision and efficient arithmetic circuits for TFHE](https://doi.org/10.1007/978-3-030-92078-4_23)  [[ePrint version](https://eprint.iacr.org/2021/729)] - December 2021 — ASIACRYPT 2021
+- Practical and efficient FHE-based MPC [[ePrint version](https://ia.cr/2023/981)] - June 2023 - ePrint Archive
+- [Parameter optimization & larger precision for (T)FHE](https://doi.org/10.1007/s00145-023-09463-5) [[ePrint version](https://ia.cr/2022/704)] - ‍June 2023 - Journal of Cryptology 2023
+- [SoK: Fully homomorphic encryption over the [discretized] torus](https://doi.org/10.46586/tches.v2022.i4.661-692) [[ePrint version](https://ia.cr/2021/1402)] - September 2022 - CHES 2022
+- [Improved programmable bootstrapping with larger precision and efficient arithmetic circuits for TFHE](https://doi.org/10.1007/978-3-030-92078-4_23)  [[ePrint version](https://ia.cr/2021/729)] - December 2021 - ASIACRYPT 2021
+- [Programmable bootstrapping enables efficient homomorphic inference of deep neural networks](https://doi.org/10.1007/978-3-030-78086-9_1) [[ePrint version](https://ia.cr/2021/091)] - July 2021 - CSCML 2021
 
 <details><summary>
 View all
 </summary>
-  
-- Practical and efficient FHE-based MPC [[ePrint version](https://ia.cr/2023/981)] - June 2023 — ePrint Archive
-- Trivial transciphering with Trivium and TFHE [[ePrint version](https://ia.cr/2023/980)] - June 2023 — ePrint Archive
-- [Computing on Encrypted Data](https://ieeexplore.ieee.org/document/10194492) - July 2023 - IEEE Security & Privacy 2023
-- [Topical Collection on Computing on Encrypted Data](https://doi.org/10.1007/s00145-023-09444-8) - June 2023 — Journal of Cryptology 2023
-- [Parameter optimization & larger precision for (T)FHE](https://doi.org/10.1007/s00145-023-09463-5) [[ePrint version](https://eprint.iacr.org/2022/704)] - ‍June 2023 — Journal of Cryptology 2023
-- Faster secret keys for (T)FHE [[ePrint version](https://ia.cr/2023/979)] - June 2023 — ePrint Archive
-- [Attribute-based single sign-On: Secure, private, and efficient](https://doi.org/10.56553/popets-2023-0097) [[ePrint version](https://ia.cr/2023/915)] - June 2023 — PoPETs 2023
-- Noah's Ark: Efficient Threshold-FHE Using Noise Flooding [[ePrint version](https://eprint.iacr.org/2023/815)] - June 2023 — ePrint Archive
-- Vector commitments with short proofs of smallness [[ePrint version](https://ia.cr/2023/800)] - May 2023 — ePrint Archive
-- Computing e-th roots in number fields [[arXiv version](https://arxiv.org/abs/2305.17425)] - May 2023 — arXiv preprint
-- [POLKA: Towards leakage-resistant post-quantum CCA-secure public-key encryption](https://doi.org/10.1007/978-3-031-31368-4_5) [[ePrint version](https://eprint.iacr.org/2022/873)] - ‍May 2023 — PKC 2023
-- TFHE public-key encryption revisited [[ePrint version](https://ia.cr/2023/603)] - April 2023 — ePrint Archive
-- Lightweight Asynchronous Verifiable Secret Sharing with Optimal Resilience [[ePrint version](https://eprint.iacr.org/2023/536)] - April 2023 — ePrint Archive
-- [Differential fault analysis](https://doi.org/10.1007/978-3-642-27739-9_1707-1) ‍‍‍- March 2023 — CT-RSA 2023
-- [Privacy-Preserving Tree-Based Inference with TFHE](https://doi.org/10.1007/978-3-031-34671-2_34) [[arXiv version](https://arxiv.org/abs/2303.01254)] - March 2023 — CSCML 2023
-- [Deep Neural Networks for Encrypted Inference with TFHE](https://doi.org/10.1007/978-3-031-34671-2_34) [[ePrint version](https://eprint.iacr.org/2023/257)] - February 2023 — CSCML 2023
-- MPC With Delayed Parties Over Star-Like Networks [[ePrint version](https://eprint.iacr.org/2023/096)] - January 2023 - ePrint Archive
-- [On-Line/Off-Line DCR-based Homomorphic Encryption and Applications](https://doi.org/10.1007/978-3-031-30872-7_5) [[ePrint version](https://eprint.iacr.org/2023/048)] - January 2023 - CT-RSA 2023
-- [Improving convergence and practicality of slide-type reductions](https://doi.org/10.1016/j.ic.2023.105012) [[ePrint version](https://eprint.iacr.org/2023/140)] - December 2022 — Information and Computation 2023
-- [FINAL: Faster FHE Instantiated with NTRU and LWE](https://doi.org/10.1007/978-3-031-22966-4_7) [[ePrint version](https://eprint.iacr.org/2022/074)] - ‍December 2022 — ASIACRYPT 2022
-- [Liberating TFHE: Programmable bootstrapping with general quotient polynomials](https://doi.org/10.1145/3560827.3563376) [[ePrint version](https://eprint.iacr.org/2022/1177)] - November 2022 — WAHC 2022
-- [SoK: Fully Homomorphic Encryption over the [Discretized] Torus](https://doi.org/10.46586/tches.v2022.i4.661-692) [[ePrint version](https://eprint.iacr.org/2021/1402)] - September 2022 — CHES 2022
-- [Scooby: Improved multi-party homomorphic secret sharing based on FHE](https://doi.org/10.1007/978-3-031-14791-3_24) [[ePrint version](https://eprint.iacr.org/2022/862)] - September 2022 — SCN 2022
-- [Fast computation of the octic residue symbol](https://marcjoye.github.io/papers/Joy22octic.pdf) - ‍August 2022 — NutMiC 2022
-- [Blind rotation in fully homomorphic encryption with extended keys](https://doi.org/10.1007/978-3-031-14791-3_24) - June 2022 — CSCML 2022
-- [CoCoA: Concurrent continuous group key agreement](https://dx.doi.org/10.1007/978-3-031-07085-3_28) [[ePrint version](https://eprint.iacr.org/2022/251)] - May 2022 — Eurocrypt 2022
-- On the precision loss in approximate homomorphic encryption [[ePrint version](https://eprint.iacr.org/2022/162)] - February 2022 - SAC 2023
-- [A pairing-free signature scheme from correlation intractable hash function and strong Diffie-Hellman assumption](https://doi.org/10.1007/978-3-030-95312-6_2) [[ePrint version](https://eprint.iacr.org/2022/1480)] - January 2022 — CT-RSA 2022
-- [Improved programmable bootstrapping with larger precision and efficient arithmetic circuits for TFHE](https://doi.org/10.1007/978-3-030-92078-4_23) [[ePrint version](https://eprint.iacr.org/2021/729)] - December 2021 — ASIACRYPT 2021
-- [Ultrafast homomorphic encryption models enable secure outsourcing of genotype imputation](https://doi.org/10.1016/j.cels.2021.07.010) - December 2021 — CELL SYSTEMS 2021
-- [Grafting key trees: Efficient key management for overlapping groups](https://doi.org/10.1007/978-3-030-90456-2_8) [[ePrint version](https://eprint.iacr.org/2021/1158)] - November 2021 — ASIACRYPT 2021
-- [The cost of adaptivity in security games on graphs](https://doi.org/10.1007/978-3-030-90453-1_19) [[ePrint version](https://eprint.iacr.org/2021/059)] - November 2021 — TCC 2021
-- [Balanced Non-Adjacent Forms](https://doi.org/10.1007/978-3-030-92078-4_19) [[ePrint version](https://eprint.iacr.org/2021/1161)] - September 2021 — ASIACRYPT 2021
-- Primary Elements in Cyclotomic Fields with Applications to Power Residue Symbols, and More [[ePrint version](https://eprint.iacr.org/2021/1106)] - August 2021 — ePrint Archive
-- [Programmable bootstrapping enables efficient homomorphic inference of deep neural networks](https://doi.org/10.1007/978-3-030-78086-9_1) [[ePrint version](https://eprint.iacr.org/2021/091)] - July 2021 — CSCML 2021
-- [CONCRETE: Concrete Operates oN Ciphertexts Rapidly by Extending TfhE](https://doi.org/10.25835/0072999) - December 2020 — WAHC 2020
-- [New challenges for fully homomorphic encryption](https://ppml-workshop.github.io/ppml20/pdfs/Chillotti_et_al.pdf) - December 2020 — PPML 2020
-- [The eleventh power residue symbol](https://doi.org/10.1515/jmc-2020-0077) [[ePrint version](https://eprint.iacr.org/2019/870.pdf)] - November 2020 — Journal of Mathematical Cryptology 2020
-- [SANNS: Scaling up secure approximate k-nearest neighbors search](https://www.usenix.org/conference/usenixsecurity20/presentation/chen-hao) - August 2020 — USENIX 2020
+<br/>
+
+- [ZK-for-Z2K: MPC-in-the-head zero-knowledge proofs for Z_{2^k}](https://ia.cr/2023/1057) - July 2023 - ePrint Archive
+- [Attribute-based single sign-on: Secure, private, and efficient](https://doi.org/10.56553/popets-2023-0097) [[ePrint version](https://ia.cr/2023/915)] - July 2023 - PoPETs 2023
+- [Computing on encrypted data](https://doi.org/10.1109/MSEC.2023.3279517) - July 2023 - IEEE Security & Privacy
+- Practical and efficient FHE-based MPC [[ePrint version](https://ia.cr/2023/981)] - June 2023 - ePrint Archive
+- Trivial transciphering with Trivium and TFHE [[ePrint version](https://ia.cr/2023/980)] - June 2023 - ePrint Archive
+- Faster secret keys for (T)FHE [[ePrint version](https://ia.cr/2023/979)] - June 2023 - ePrint Archive
+- [Deep neural networks for encrypted inference with TFHE](https://doi.org/10.1007/978-3-031-34671-2_34) [[ePrint version](https://ia.cr/2023/257)] - June 2023 - CSCML 2023
+- [Parameter optimization & larger precision for (T)FHE](https://doi.org/10.1007/s00145-023-09463-5) [[ePrint version](https://ia.cr/2022/704)] - ‍June 2023 - Journal of Cryptology
+- [Topical Collection on Computing on Encrypted Data](https://doi.org/10.1007/s00145-023-09444-8) - June 2023 - Journal of Cryptology
+- Noah's ark: Efficient threshold-FHE using noise flooding [[ePrint version](https://ia.cr/2023/815)] - June 2023 — ePrint Archive
+- Vector commitments with short proofs of smallness [[ePrint version](https://ia.cr/2023/800)] - May 2023 - ePrint Archive
+- Computing e-th roots in number fields [[arXiv version](https://arxiv.org/abs/2305.17425)] - May 2023 - arXiv preprint
+- [POLKA: Towards leakage-resistant post-quantum CCA-secure public-key encryption](https://doi.org/10.1007/978-3-031-31368-4_5) [[ePrint version](https://eprint.iacr.org/2022/873)] - ‍May 2023 - PKC 2023
+- [On-line/Off-line DCR-based homomorphic encryption and applications](https://doi.org/10.1007/978-3-031-30872-7_5) [[ePrint version](https://ia.cr/2023/048)] - April 2023 - CT-RSA 2023
+- TFHE public-key encryption revisited [[ePrint version](https://ia.cr/2023/603)] - April 2023 - ePrint Archive
+- Lightweight asynchronous verifiable secret sharing with optimal resilience [[ePrint version](https://ia.cr/2023/536)] - April 2023 - ePrint Archive
+- [Differential fault analysis](https://doi.org/10.1007/978-3-642-27739-9_1707-1) ‍‍‍- March 2023 - Encyclopedia of Cryptography, Security and Privacy
+- [Improving convergence and practicality of slide-type reductions](https://doi.org/10.1016/j.ic.2023.105012) [[ePrint version](https://ia.cr/2023/140)] - March 2023 - Information and Computation
+- Privacy-preserving tree-based inference with TFHE [[ePrint version](https://ia.cr/2023/258)] - February 2023 - ePrint Archive
+- MPC with delayed parties over star-like networks [[ePrint version](https://ia.cr/2023/096)] - January 2023 - ePrint Archive
+- On side-channel and CVO attacks against TFHE and FHEW [[ePrint version](https://ia.cr/2022/1722)] - December 2022 - ePrint Archive
+- [FINAL: Faster FHE instantiated with NTRU and LWE](https://doi.org/10.1007/978-3-031-22966-4_7) [[ePrint version](https://ia.cr/2022/074)] - ‍December 2022 - ASIACRYPT 2022
+- The key lattice framework for concurrent group messaging [[ePrint version](https://ia.cr/2022/1531)] - November 2022 - ePrint Archive
+- [Liberating TFHE: Programmable bootstrapping with general quotient polynomials](https://doi.org/10.1145/3560827.3563376) [[ePrint version](https://ia.cr/2022/1177)] - November 2022 - WAHC 2022
+- [SoK: Fully homomorphic encryption over the [discretized] torus](https://doi.org/10.46586/tches.v2022.i4.661-692) [[ePrint version](https://ia.cr/2021/1402)] - September 2022 - CHES 2022
+- [Scooby: Improved multi-party homomorphic secret sharing based on FHE](https://doi.org/10.1007/978-3-031-14791-3_24) [[ePrint version](https://ia.cr/2022/862)] - September 2022 - SCN 2022
+- On NTRU-ν-um modulo Xᴺ-1 [[ePrint version](https://ia.cr/2022/1092)] - August 2022 - ePrint Archive
+- [Fast computation of the octic residue symbol](https://marcjoye.github.io/papers/Joy22octic.pdf) - ‍August 2022 - NutMiC 2022
+- Secure branching program evaluation [[ePrint version](https://ia.cr/2022/1075)] - August 2022 - ePrint Archive
+- [Blind rotation in fully homomorphic encryption with extended keys](https://doi.org/10.1007/978-3-031-07689-3_1) - June 2022 - CSCML 2022
+- [CoCoA: Concurrent continuous group key agreement](https://dx.doi.org/10.1007/978-3-031-07085-3_28) [[ePrint version](https://ia.cr/2022/251)] - May 2022 - Eurocrypt 2022
+- Towards globally optimized hybrid homomorphic encryption: Featuring the Elisabeth stream cipher [[ePrint version](https://ia.cr/2022/180)] - February 2022 - ePrint Archive
+- On the precision loss in approximate homomorphic encryption [[ePrint version](https://ia.cr/2022/162)] - February 2022 - ePrint Archive
+- [A pairing-free signature scheme from correlation intractable hash function and strong Diffie-Hellman assumption](https://doi.org/10.1007/978-3-030-95312-6_2) [[ePrint version](https://ia.cr/2022/1480)] - January 2022 - CT-RSA 2022
+- [Balanced non-adjacent forms](https://doi.org/10.1007/978-3-030-92078-4_19) [[ePrint version](https://ia.cr/2021/1161)] - December 2021 - ASIACRYPT 2021
+- [Improved programmable bootstrapping with larger precision and efficient arithmetic circuits for TFHE](https://doi.org/10.1007/978-3-030-92078-4_23) [[ePrint version](https://ia.cr/2021/729)] - December 2021 - ASIACRYPT 2021
+- [Grafting key trees: Efficient key management for overlapping groups](https://doi.org/10.1007/978-3-030-90456-2_8) [[ePrint version](https://ia.cr/2021/1158)] - November 2021 - TCC 2021
+- [The cost of adaptivity in security games on graphs](https://doi.org/10.1007/978-3-030-90453-1_19) [[ePrint version](https://ia.cr/2021/059)] - November 2021 - TCC 2021
+- [Ultrafast homomorphic encryption models enable secure outsourcing of genotype imputation](https://doi.org/10.1016/j.cels.2021.07.010) [[bioRxiv version](https://doi.org/10.1101/2020.07.02.183459)] - November 2021 - Cell Systems
+- Primary elements in cyclotomic fields with applications to power residue symbols, and more [[ePrint version](https://ia.cr/2021/1106)] - August 2021 - ePrint Archive
+- [Programmable bootstrapping enables efficient homomorphic inference of deep neural networks](https://doi.org/10.1007/978-3-030-78086-9_1) [[ePrint version](https://ia.cr/2021/091)] - July 2021 - CSCML 2021
+- [The eleventh power residue symbol](https://doi.org/10.1515/jmc-2020-0077) [[ePrint version](https://ia.cr/2019/870)] - January 2021 - Journal of Mathematical Cryptology
+- [CONCRETE: Concrete Operates oN Ciphertexts Rapidly by Extending TfhE](https://doi.org/10.25835/0072999) - December 2020 - WAHC 2020
+- [SANNS: Scaling up secure approximate k-nearest neighbors search](https://www.usenix.org/conference/usenixsecurity20/presentation/chen-hao) - August 2020 - USENIX 2020
 
 </details>
 
@@ -168,14 +174,16 @@ Talks and posters by the Zama team sorted by date.
 </summary>
 <br/>
 
+- Privacy-preserving tree-based inference with TFHE - August 2023 - PPML 2023
 - [Privacy Preserving Machine Learning With Fully Homomorphic Encryption](https://www.youtube.com/watch?v=nL2TUznAMcw&t=909s) - April 2023 — Stanford Security Seminar
 - [Recent advances in homomorphic compilation](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/homomorphic-compilation.pdf) - ‍‍March 2023 — FHE.org 2023
-- [On NTRU -ν-um modulo Xᴺ-1](https://eprint.iacr.org/2022/1092) - ‍March 2023 — FHE.org 2023
+- [On NTRU-ν-um modulo Xᴺ-1](https://eprint.iacr.org/2022/1092) - ‍March 2023 — FHE.org 2023
 - [Private smart contracts using homomorphic encryption](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/private-smart-contracts.pdf) - ‍March 2023 — FHE.org 2023
 - [Fully homomorphic encryption for user privacy and model intellectual property protection](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/user-privacy-model-protection.pdf) - ‍March 2023 — FHE.org 2023
 - [Fast, easy, and accessible FHE with Concrete and specialized accelerators](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2022/media/concrete-and-specialized-accelerators.pdf) - May 2022 — FHE.org 2022
 - [Concrete ML: A data-scientist-friendly toolkit for machine learning over encrypted data](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2022/media/concrete-ml.pdf) - May 2022 — FHE.org 2022
 - [Performance of hierarchical transforms in homomorphic encryption: A case study on logistic regression inference](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2022/media/hierarchical-transforms-he.pdf) - May 2022 — FHE.org 2022
 - [Hybrid attacks on LWE and the lattice estimator](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2022/media/hybrid-attacks.pdf) - May 2022 — FHE.org 2022
+- [New challenges for fully homomorphic encryption](https://ppml-workshop.github.io/ppml20/pdfs/Chillotti_et_al.pdf) - December 2020 — PPML 2020
 
 </details>
