@@ -126,18 +126,18 @@ View all
 
 Zama's blog posts sorted by date.
 
+- [Programmable Privacy and Onchain Compliance using Homomorphic Encryption](https://www.zama.ai/post/programmable-privacy-and-onchain-compliance-using-homomorphic-encryption) - November 2023
 - [Hybrid Large Language Models To Improve On-premise Deployments with Concrete ML](https://www.zama.ai/post/hybrid-large-language-models-to-improve-on-premise-deployments-with-concrete-ml) - October 2023
 - [Zama Product Releases - October 2023](https://www.zama.ai/post/zama-product-releases-october-2023) - October 2023
 - [Confidential DAO Voting Using Homomorphic Encryption](https://www.zama.ai/post/confidential-dao-voting-using-homomorphic-encryption) - October 2023
 - [The Architecture of Concrete, Zama's Fully Homomorphic Encryption Compiler Leveraging MLIR](https://www.zama.ai/post/the-architecture-of-concrete-zama-fully-homomorphic-encryption-compiler-leveraging-mlir) - October 2023
-- [Zama Bounty Program: New Bounties Available](https://www.zama.ai/post/launching-the-zama-bounty-program-season-4) - September 2023
-
 
 <details><summary>
  View all
 </summary>
 <br/>
-  
+
+- [Programmable Privacy and Onchain Compliance using Homomorphic Encryption](https://www.zama.ai/post/programmable-privacy-and-onchain-compliance-using-homomorphic-encryption) - November 2023
 - [Hybrid Large Language Models To Improve On-premise Deployments with Concrete ML](https://www.zama.ai/post/hybrid-large-language-models-to-improve-on-premise-deployments-with-concrete-ml) - October 2023
 - [Zama Product Releases - October 2023](https://www.zama.ai/post/zama-product-releases-october-2023) - October 2023
 - [Confidential DAO Voting Using Homomorphic Encryption](https://www.zama.ai/post/confidential-dao-voting-using-homomorphic-encryption) - October 2023
