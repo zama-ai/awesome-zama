@@ -83,7 +83,6 @@ View all
 - Updatable privacy-preserving blueprints [[ePrint version](https://ia.cr/2023/1787)] - November 2023 - ePrint Archive
 - [SoK: Privacy-enhancing technologies in finance](https://doi.org/10.4230/LIPIcs.AFT.2023.12) [[ePrint version](https://ia.cr/2023/122)] - October 2023 - AFT 2023
 - [fhEVM - Confidential EVM Smart Contracts using Fully Homomorphic Encryption](https://github.com/zama-ai/fhevm/blob/main/fhevm-whitepaper.pdf) - September 2023 - White paper
-- [ZK-for-Z2K: MPC-in-the-head zero-knowledge proofs for Z_{2^k}](https://ia.cr/2023/1057) - July 2023 - ePrint Archive
 - [Attribute-based single sign-on: Secure, private, and efficient](https://doi.org/10.56553/popets-2023-0097) [[ePrint version](https://ia.cr/2023/915)] - July 2023 - PoPETs 2023
 - [Computing on encrypted data](https://doi.org/10.1109/MSEC.2023.3279517) - July 2023 - IEEE Security & Privacy
 - Practical and efficient FHE-based MPC [[ePrint version](https://ia.cr/2023/981)] - June 2023 - ePrint Archive
