@@ -74,17 +74,21 @@ View all
 </summary>
 <br/>
 
+- [MPC with delayed parties over star-like networks](https://doi.org/10.1007/978-981-99-8721-4_6) [[ePrint version](https://ia.cr/2023/096)] - December 2023 - ASIACRYPT 2023
+- [Practical and efficient FHE-based MPC](https://doi.org/10.1007/978-3-031-47818-5_14) - December 2023 - IMACC 2023
+- [ZK-for-Z2K: MPC-in-the-head zero-knowledge proofs for Z_{2^k}](https://doi.org/10.1007/978-3-031-47818-5_8) [[ePrint version](https://ia.cr/2023/1057)] - December 2023 - IMACC 2023
+- [Trivial transciphering with Trivium and TFHE](https://doi.org/10.1145/3605759.3625255) [[ePrint version](https://ia.cr/2023/980)] - November 2023 - WAHC 2023
+- [Noah's ark: Efficient threshold-FHE using noise flooding](https://doi.org/10.1145/3605759.3625259) [[ePrint version](https://ia.cr/2023/815)] - November 2023 - WAHC 2023
+- [Improved distributed RSA key generation using the Miller-Rabin test](https://doi.org/10.1145/3576915.3623163) - November 2023 - CCS 2023
+- Updatable privacy-preserving blueprints [[ePrint version](https://ia.cr/2023/1787)] - November 2023 - ePrint Archive
 - [SoK: Privacy-enhancing technologies in finance](https://doi.org/10.4230/LIPIcs.AFT.2023.12) [[ePrint version](https://ia.cr/2023/122)] - October 2023 - AFT 2023
-- [ZK-for-Z2K: MPC-in-the-head zero-knowledge proofs for Z_{2^k}](https://ia.cr/2023/1057) - July 2023 - ePrint Archive
 - [Attribute-based single sign-on: Secure, private, and efficient](https://doi.org/10.56553/popets-2023-0097) [[ePrint version](https://ia.cr/2023/915)] - July 2023 - PoPETs 2023
 - [Computing on encrypted data](https://doi.org/10.1109/MSEC.2023.3279517) - July 2023 - IEEE Security & Privacy
 - Practical and efficient FHE-based MPC [[ePrint version](https://ia.cr/2023/981)] - June 2023 - ePrint Archive
-- Trivial transciphering with Trivium and TFHE [[ePrint version](https://ia.cr/2023/980)] - June 2023 - ePrint Archive
 - Faster secret keys for (T)FHE [[ePrint version](https://ia.cr/2023/979)] - June 2023 - ePrint Archive
 - [Deep neural networks for encrypted inference with TFHE](https://doi.org/10.1007/978-3-031-34671-2_34) [[ePrint version](https://ia.cr/2023/257)] - June 2023 - CSCML 2023
 - [Parameter optimization & larger precision for (T)FHE](https://doi.org/10.1007/s00145-023-09463-5) [[ePrint version](https://ia.cr/2022/704)] - ‍June 2023 - Journal of Cryptology
 - [Topical Collection on Computing on Encrypted Data](https://doi.org/10.1007/s00145-023-09444-8) - June 2023 - Journal of Cryptology
-- Noah's ark: Efficient threshold-FHE using noise flooding [[ePrint version](https://ia.cr/2023/815)] - June 2023 — ePrint Archive
 - Vector commitments with short proofs of smallness [[ePrint version](https://ia.cr/2023/800)] - May 2023 - ePrint Archive
 - Computing e-th roots in number fields [[arXiv version](https://arxiv.org/abs/2305.17425)] - May 2023 - arXiv preprint
 - [POLKA: Towards leakage-resistant post-quantum CCA-secure public-key encryption](https://doi.org/10.1007/978-3-031-31368-4_5) [[ePrint version](https://eprint.iacr.org/2022/873)] - ‍May 2023 - PKC 2023
@@ -94,7 +98,6 @@ View all
 - [Differential fault analysis](https://doi.org/10.1007/978-3-642-27739-9_1707-1) ‍‍‍- March 2023 - Encyclopedia of Cryptography, Security and Privacy
 - [Improving convergence and practicality of slide-type reductions](https://doi.org/10.1016/j.ic.2023.105012) [[ePrint version](https://ia.cr/2023/140)] - March 2023 - Information and Computation
 - Privacy-preserving tree-based inference with TFHE [[ePrint version](https://ia.cr/2023/258)] - February 2023 - ePrint Archive
-- MPC with delayed parties over star-like networks [[ePrint version](https://ia.cr/2023/096)] - January 2023 - ePrint Archive
 - On side-channel and CVO attacks against TFHE and FHEW [[ePrint version](https://ia.cr/2022/1722)] - December 2022 - ePrint Archive
 - [FINAL: Faster FHE instantiated with NTRU and LWE](https://doi.org/10.1007/978-3-031-22966-4_7) [[ePrint version](https://ia.cr/2022/074)] - ‍December 2022 - ASIACRYPT 2022
 - The key lattice framework for concurrent group messaging [[ePrint version](https://ia.cr/2022/1531)] - November 2022 - ePrint Archive
