@@ -13,7 +13,6 @@
 - [Talks and posters](#talks-and-posters)
 
 ## Libraries and solutions
-
 Zama's FHE libraries and solutions.
 
 - [TFHE-rs](https://github.com/zama-ai/tfhe-rs): A Pure Rust implementation of the TFHE Scheme for Boolean and Integer Arithmetics Over Encrypted Data.
@@ -23,20 +22,9 @@ Zama's FHE libraries and solutions.
 - [Zama Bounty Program](https://github.com/zama-ai/bounty-program): Contribute to Zama's open source libraries and get rewarded. More than €500,000 available in prizes.
 
 ## Tutorials and demos
-
 Tutorials and demos by the Zama team sorted by date.
 
 - [Encrypted Credit Card Approval Prediction using FHE](https://huggingface.co/spaces/zama-fhe/credit_card_approval_prediction) - Demo
-- [[Video tutorial] How to Write Confidential Smart Contracts Using Zama's fhEVM](https://www.zama.ai/post/video-tutorial-how-to-write-confidential-smart-contracts-using-zamas-fhevm) - Tutorial
-- [[Video tutorial] Dive into Concrete - Zama's Fully Homomorphic Encryption Compiler](https://www.zama.ai/post/video-tutorial-dive-into-concrete-zamas-fully-homomorphic-encryption-compiler) - Tutorial
-- [[Video tutorial] How To Get Started With Concrete - Zama's Fully Homomorphic Encryption Compiler](https://www.zama.ai/post/how-to-started-with-concrete-zama-fully-homomorphic-encryption-compiler) - Tutorial
-- [Encrypted health prediction using FHE](https://huggingface.co/spaces/zama-fhe/encrypted_health_prediction) - Demo
-
-<details><summary>
-View all
-</summary>
-<br/>
-
 - [On-chain blind auctions using FHE](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption) - Tutorial
 - [[Video tutorial] How to Write Confidential Smart Contracts Using Zama's fhEVM](https://www.zama.ai/post/video-tutorial-how-to-write-confidential-smart-contracts-using-zamas-fhevm) - Tutorial
 - [[Video tutorial] Dive into Concrete - Zama's Fully Homomorphic Encryption Compiler](https://www.zama.ai/post/video-tutorial-dive-into-concrete-zamas-fully-homomorphic-encryption-compiler) - Tutorial
@@ -57,26 +45,13 @@ View all
 - [Encrypted sentiment analysis using Homomorphic Encryption](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis) - Demo
 - [Sentiment analysis over encrypted data](https://huggingface.co/blog/sentiment-analysis-fhe) - Tutorial
 
-</details>
 
 ## Research papers and publications
-
 Research papers and publications by the Zama team sorted by date.
 
-- [Practical and efficient FHE-based MPC](https://doi.org/10.1007/978-3-031-47818-5_14) [[ePrint version](https://ia.cr/2023/981)] - December 2023 - IMACC 2023
-- [fhEVM - Confidential EVM Smart Contracts using Fully Homomorphic Encryption](https://github.com/zama-ai/fhevm/blob/main/fhevm-whitepaper.pdf) - September 2023 - White paper
-- [Parameter optimization & larger precision for (T)FHE](https://doi.org/10.1007/s00145-023-09463-5) [[ePrint version](https://ia.cr/2022/704)] - ‍June 2023 - Journal of Cryptology 2023
-- [SoK: Fully homomorphic encryption over the [discretized] torus](https://doi.org/10.46586/tches.v2022.i4.661-692) [[ePrint version](https://ia.cr/2021/1402)] - September 2022 - CHES 2022
-- [Improved programmable bootstrapping with larger precision and efficient arithmetic circuits for TFHE](https://doi.org/10.1007/978-3-030-92078-4_23)  [[ePrint version](https://ia.cr/2021/729)] - December 2021 - ASIACRYPT 2021
-
-<details><summary>
-View all
-</summary>
-<br/>
-  
-- [Programmable bootstrapping enables efficient homomorphic inference of deep neural networks](https://doi.org/10.1007/978-3-030-78086-9_1) [[ePrint version](https://ia.cr/2021/091)] - July 2021 - CSCML 2021
-- A new approach to efficient and secure fixed-point computation [[ePrint version](https://ia.cr/2024/035)] - November 2023 - ePrint Archive
 - [Computing e-th roots in number fields](https://doi.org/10.1137/1.9781611977929.16) [[arXiv version](https://arxiv.org/abs/2305.17425)] - January 2024 - ALENEX 2024
+- [Practical and efficient FHE-based MPC](https://doi.org/10.1007/978-3-031-47818-5_14) [[ePrint version](https://ia.cr/2023/981)] - December 2023 - IMACC 2023
+- A new approach to efficient and secure fixed-point computation [[ePrint version](https://ia.cr/2024/035)] - November 2023 - ePrint Archive
 - [MPC with delayed parties over star-like networks](https://doi.org/10.1007/978-981-99-8721-4_6) [[ePrint version](https://ia.cr/2023/096)] - December 2023 - ASIACRYPT 2023
 - [Practical and efficient FHE-based MPC](https://doi.org/10.1007/978-3-031-47818-5_14) [[ePrint version](https://ia.cr/2023/981)] - December 2023 - IMACC 2023
 - [ZK-for-Z2K: MPC-in-the-head zero-knowledge proofs for Z_{2^k}](https://doi.org/10.1007/978-3-031-47818-5_8) [[ePrint version](https://ia.cr/2023/1057)] - December 2023 - IMACC 2023
@@ -126,10 +101,9 @@ View all
 - [CONCRETE: Concrete Operates oN Ciphertexts Rapidly by Extending TfhE](https://doi.org/10.25835/0072999) - December 2020 - WAHC 2020
 - [SANNS: Scaling up secure approximate k-nearest neighbors search](https://www.usenix.org/conference/usenixsecurity20/presentation/chen-hao) - August 2020 - USENIX 2020
 
-</details>
+
 
 ## Blog Posts
-
 Zama's blog posts sorted by date.
 
 - [Zama Product Releases - January 2024](https://www.zama.ai/post/zama-product-releases-january-2024) - January 2024
@@ -137,12 +111,6 @@ Zama's blog posts sorted by date.
 - [Concrete v2.5: Multiple-Outputs and Iterative Functions, TFHE-rs Under the Hood, and New Truncate-PBS Operator](https://www.zama.ai/post/concrete-v2-5)
 - [Concrete ML v1.4: Encrypted Training and Faster Decision Trees](https://www.zama.ai/post/concrete-ml-v1-4) - January 2024
 - [fhEVM v0.3: New Stack and Better Performances](https://www.zama.ai/post/fhevm-v0-3) - January 2024
-
-<details><summary>
- View all
-</summary>
-<br/>
-
 - [Programmable Privacy and Onchain Compliance using Homomorphic Encryption](https://www.zama.ai/post/programmable-privacy-and-onchain-compliance-using-homomorphic-encryption) - November 2023
 - [Hybrid Large Language Models To Improve On-premise Deployments with Concrete ML](https://www.zama.ai/post/hybrid-large-language-models-to-improve-on-premise-deployments-with-concrete-ml) - October 2023
 - [Zama Product Releases - October 2023](https://www.zama.ai/post/zama-product-releases-october-2023) - October 2023
@@ -178,22 +146,9 @@ Zama's blog posts sorted by date.
 - [How we hire at Zama](https://www.zama.ai/post/how-we-hire-at-zama) - October 2021
 - [People should not care about privacy](https://www.zama.ai/post/people-should-not-care-about-privacy) - August 2021
 
-</details>
 
 ## Talks and posters
-
 Talks and posters by the Zama team sorted by date.
-
-- [Privacy Preserving Machine Learning With Fully Homomorphic Encryption](https://www.youtube.com/watch?v=nL2TUznAMcw&t=909s) - April 2023 — Stanford Security Seminar
-- [Recent advances in homomorphic compilation](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/homomorphic-compilation.pdf) - ‍‍March 2023 — FHE.org 2023
-- [Private smart contracts using homomorphic encryption](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/private-smart-contracts.pdf) - ‍March 2023 — FHE.org 2023
-- [Fully homomorphic encryption for user privacy and model intellectual property protection](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/user-privacy-model-protection.pdf) - ‍March 2023 — FHE.org 2023
-- [Hybrid attacks on LWE and the lattice estimator](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2022/media/hybrid-attacks.pdf) - May 2022 — FHE.org 2022
-
-<details><summary>
- View all
-</summary>
-<br/>
 
 - Privacy-preserving tree-based inference with TFHE - August 2023 - PPML 2023
 - [Privacy Preserving Machine Learning With Fully Homomorphic Encryption](https://www.youtube.com/watch?v=nL2TUznAMcw&t=909s) - April 2023 — Stanford Security Seminar
@@ -207,4 +162,3 @@ Talks and posters by the Zama team sorted by date.
 - [Hybrid attacks on LWE and the lattice estimator](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2022/media/hybrid-attacks.pdf) - May 2022 — FHE.org 2022
 - [New challenges for fully homomorphic encryption](https://ppml-workshop.github.io/ppml20/pdfs/Chillotti_et_al.pdf) - December 2020 — PPML 2020
 
-</details>
