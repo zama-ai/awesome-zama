@@ -86,8 +86,6 @@ Zama's blog posts sorted by date
 - [Zama Product Releases - October 2023](https://www.zama.ai/post/zama-product-releases-october-2023) 
 - [Zama Product Releases - July 2023](https://www.zama.ai/post/zama-product-releases-july-2023) 
 - [Zama Product Releases - April 2023](https://www.zama.ai/post/zama-product-announcement-april-2023)
-- [Zama Product Releases - October 2022](https://www.zama.ai/post/zama-product-announcement-october-2022)
-- [Zama product Releases - July 2022](https://www.zama.ai/post/zama-product-announcement-july-2022)
 - [Zama product Releases - January 2023](https://www.zama.ai/post/zama-product-announcement-january-2023)
 - [Zama Product Releases - October 2022](https://www.zama.ai/post/zama-product-announcement-october-2022)
 - [Zama product Releases - July 2022](https://www.zama.ai/post/zama-product-announcement-july-2022)
