@@ -15,7 +15,7 @@
    - [fhEVM](#fhevm)
 - [Blog posts](#blog-posts)
    - [Product releases](#product-releases)
-   - [Bounty Program and Grant Program](#bounty-program-and-grant-program)
+   - [Bounty announcements](#bounty-announcements)
    - [Articles](#articles)
 - [Research papers and publications](#research-papers-and-publications)
 - [Talks and posters](#talks-and-posters)
@@ -84,15 +84,15 @@ Zama's blog posts sorted by date
 - [Zama Product Releases - January 2024](https://www.zama.ai/post/zama-product-releases-january-2024) 
 - [Zama Product Releases - October 2023](https://www.zama.ai/post/zama-product-releases-october-2023) 
 - [Zama Product Releases - July 2023](https://www.zama.ai/post/zama-product-releases-july-2023) 
-- [Zama Product Announcement - April 2023](https://www.zama.ai/post/zama-product-announcement-april-2023)
-- [Zama Product Announcement - October 2022](https://www.zama.ai/post/zama-product-announcement-october-2022)
-- [Zama product announcement - July 2022](https://www.zama.ai/post/zama-product-announcement-july-2022)
-- [Zama product announcement - January 2023](https://www.zama.ai/post/zama-product-announcement-january-2023)
-- [Zama Product Announcement - October 2022](https://www.zama.ai/post/zama-product-announcement-october-2022)
-- [Zama product announcement - July 2022](https://www.zama.ai/post/zama-product-announcement-july-2022)
-- [Zama Product Announcement - April 2022](https://www.zama.ai/post/zama-product-announcement-april-2022)
+- [Zama Product Releases - April 2023](https://www.zama.ai/post/zama-product-announcement-april-2023)
+- [Zama Product Releases - October 2022](https://www.zama.ai/post/zama-product-announcement-october-2022)
+- [Zama product Releases - July 2022](https://www.zama.ai/post/zama-product-announcement-july-2022)
+- [Zama product Releases - January 2023](https://www.zama.ai/post/zama-product-announcement-january-2023)
+- [Zama Product Releases - October 2022](https://www.zama.ai/post/zama-product-announcement-october-2022)
+- [Zama product Releases - July 2022](https://www.zama.ai/post/zama-product-announcement-july-2022)
+- [Zama Product Releases - April 2022](https://www.zama.ai/post/zama-product-announcement-april-2022)
 
-### Bounty Program and Grant Program
+### Bounty announcements
 - [Introducing the Zama Grant Program and Launching the Zama Bounty Program Season 5](https://www.zama.ai/post/introducing-the-zama-grant-program-and-launching-the-zama-bounty-program-season-5) - February 2024
 - [Zama Bounty Program Season 3](https://www.zama.ai/post/zama-bounty-program-season-3) - May 2023
 - [Zama Bounty Program Season 4: New Bounties Available](https://www.zama.ai/post/launching-the-zama-bounty-program-season-4) -  September 2023
