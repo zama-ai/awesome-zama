@@ -150,7 +150,7 @@ Zama's blog posts sorted by date.
 ## Talks and posters
 Talks and posters by the Zama team sorted by date.
 
-- Privacy-preserving tree-based inference with TFHE - August 2023 - PPML 2023
+- [Privacy-preserving tree-based inference with TFHE](data/PPML2023PresentationTrees.pdf) - August 2023 - PPML 2023
 - [Privacy Preserving Machine Learning With Fully Homomorphic Encryption](https://www.youtube.com/watch?v=nL2TUznAMcw&t=909s) - April 2023 — Stanford Security Seminar
 - [Recent advances in homomorphic compilation](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/homomorphic-compilation.pdf) - ‍‍March 2023 — FHE.org 2023
 - [On NTRU-ν-um modulo Xᴺ-1](https://eprint.iacr.org/2022/1092) - ‍March 2023 — FHE.org 2023
