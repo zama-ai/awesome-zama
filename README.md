@@ -34,7 +34,7 @@ Zama's FHE libraries and solutions.
 ## Demos
 Demos by Zama sorted by date
 
-- [Encrypted Credit Card Approval Prediction using FHE](https://huggingface.co/spaces/zama-fhe/credit_card_approval_prediction) 
+- [Encrypted credit card approval prediction using FHE](https://huggingface.co/spaces/zama-fhe/credit_card_approval_prediction) 
 - [Encrypted sentiment analysis using Homomorphic Encryption](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis) 
 - [Encrypted health prediction using FHE](https://huggingface.co/spaces/zama-fhe/encrypted_health_prediction) 
 - [Encrypted image filtering using homomorphic encryption](https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering)
@@ -50,7 +50,7 @@ Tutorials by the Zama team sorted by date
 - [Regular expression engine with TFHE-rs](https://www.zama.ai/post/regex-engine-tfhe-rs) - June 2023
 
 ### Concrete 
-- [The Encrypted Game of Life in Python Using Concrete](https://www.zama.ai/post/the-encrypted-game-of-life-using-concrete-python) - November 2023
+- [The encrypted Game of Life in Python using concrete](https://www.zama.ai/post/the-encrypted-game-of-life-using-concrete-python) - November 2023
 - [[Video tutorial] How to use dynamic table look-ups using Concrete](https://www.youtube.com/watch?v=1sboqhSeKfs) - November 2023
 - [[Video tutorial] Dive into Concrete - Zama's Fully Homomorphic Encryption Compiler](https://www.zama.ai/post/video-tutorial-dive-into-concrete-zamas-fully-homomorphic-encryption-compiler) - October 2023
 - [[Video tutorial] How To Get Started With Concrete - Zama's Fully Homomorphic Encryption Compiler](https://www.zama.ai/post/how-to-started-with-concrete-zama-fully-homomorphic-encryption-compiler) - July 2023
@@ -59,10 +59,10 @@ Tutorials by the Zama team sorted by date
 - [Encrypted search using fully homomorphic encryption](https://www.zama.ai/post/encrypted-search-using-fully-homomorphic-encryption) - February 2022
 
 ### Concrete ML
-- [[Video tutoriao] Train a linear classifier on encrypted data using Concrete ML and Fully Homomorphic Encryption (FHE)](https://www.youtube.com/watch?v=QVsZ33jBlq4) - February 2024
+- [[Video tutorial] Train a linear classifier on encrypted data using Concrete ML and Fully Homomorphic Encryption (FHE)](https://www.youtube.com/watch?v=QVsZ33jBlq4) - February 2024
 - [Linear regression over encrypted data with homomorphic encryption](https://www.zama.ai/post/linear-regression-using-linear-svr-and-concrete-ml-homomorphic-encryption) - June 2023
 - [Comparison of Concrete ML regressors](https://www.zama.ai/post/comparison-of-concrete-ml-regressors) - June 2023
-- [How to convert a Scikit-learn model into its homomorphic equivalent](https://www.zama.ai/post/how-to-convert-a-scikit-learn-model-into-its-homomorphic-equivalent) - June 2023
+- [[Video tutorial]How to convert a scikit-learn model into its homomorphic equivalent](https://www.zama.ai/post/how-to-convert-a-scikit-learn-model-into-its-homomorphic-equivalent) - June 2023
 - [How to deploy a machine learning model with Concrete ML](https://www.zama.ai/post/how-to-deploy-machine-learning-models-with-concrete-ml) - May 2023
 - [Encrypted image filtering using homomorphic encryption](https://www.zama.ai/post/encrypted-image-filtering-using-homomorphic-encryption) - February 2023
 - [Sentiment analysis over encrypted data](https://huggingface.co/blog/sentiment-analysis-fhe) - November 2022
@@ -100,10 +100,10 @@ Zama's blog posts sorted by date
 - [Launching the Zama Bounty Program with over €500,000 in prizes](https://www.zama.ai/post/launching-the-zama-bounty-program) - November 2022
 
 ### Articles
-- [Programmable Privacy and Onchain Compliance using Homomorphic Encryption](https://www.zama.ai/post/programmable-privacy-and-onchain-compliance-using-homomorphic-encryption) - November 2023
-- [Hybrid Large Language Models To Improve On-premise Deployments with Concrete ML](https://www.zama.ai/post/hybrid-large-language-models-to-improve-on-premise-deployments-with-concrete-ml) - October 2023
-- [Confidential DAO Voting Using Homomorphic Encryption](https://www.zama.ai/post/confidential-dao-voting-using-homomorphic-encryption) - October 2023
-- [The Architecture of Concrete, Zama's Fully Homomorphic Encryption Compiler Leveraging MLIR](https://www.zama.ai/post/the-architecture-of-concrete-zama-fully-homomorphic-encryption-compiler-leveraging-mlir) - October 2023
+- [Programmable privacy and onchain compliance using Homomorphic Encryption](https://www.zama.ai/post/programmable-privacy-and-onchain-compliance-using-homomorphic-encryption) - November 2023
+- [Hybrid large language models to improve on-premise deployments with Concrete ML](https://www.zama.ai/post/hybrid-large-language-models-to-improve-on-premise-deployments-with-concrete-ml) - October 2023
+- [Confidential DAO voting using Homomorphic Encryption](https://www.zama.ai/post/confidential-dao-voting-using-homomorphic-encryption) - October 2023
+- [The architecture of Concrete, Zama's Fully Homomorphic Encryption compiler leveraging MLIR](https://www.zama.ai/post/the-architecture-of-concrete-zama-fully-homomorphic-encryption-compiler-leveraging-mlir) - October 2023
 - [Confidential ERC-20 tokens using FHE](https://www.zama.ai/post/confidential-erc-20-tokens-using-homomorphic-encryption) - June 2023
 - [Concrete - Zama's FHE compiler](https://www.zama.ai/post/zama-concrete-fully-homomorphic-encryption-compiler) - May 2023
 - [Making chatGPT encrypted end-to-end](https://www.zama.ai/post/chatgpt-privacy-with-homomorphic-encryption) - April 2023
@@ -128,6 +128,7 @@ Zama's blog posts sorted by date
 ## Research papers and publications
 Research papers and publications by the Zama team sorted by date
 
+-  Neural network training on encrypted data with [TFHE arXiv version](https://arxiv.org/abs/2401.16136) - January 2024 
 - [Computing e-th roots in number fields](https://doi.org/10.1137/1.9781611977929.16) [[arXiv version](https://arxiv.org/abs/2305.17425)] - January 2024 - ALENEX 2024
 - [Practical and efficient FHE-based MPC](https://doi.org/10.1007/978-3-031-47818-5_14) [[ePrint version](https://ia.cr/2023/981)] - December 2023 - IMACC 2023
 - A new approach to efficient and secure fixed-point computation [[ePrint version](https://ia.cr/2024/035)] - November 2023 - ePrint Archive
@@ -154,7 +155,7 @@ Research papers and publications by the Zama team sorted by date
 - Lightweight asynchronous verifiable secret sharing with optimal resilience [[ePrint version](https://ia.cr/2023/536)] - April 2023 - ePrint Archive
 - [Differential fault analysis](https://doi.org/10.1007/978-3-642-27739-9_1707-1) ‍‍‍- March 2023 - Encyclopedia of Cryptography, Security and Privacy
 - [Improving convergence and practicality of slide-type reductions](https://doi.org/10.1016/j.ic.2023.105012) [[ePrint version](https://ia.cr/2023/140)] - March 2023 - Information and Computation
-- Privacy-preserving tree-based inference with TFHE [[ePrint version](https://ia.cr/2023/258)] - February 2023 - ePrint Archive
+- [Privacy-preserving tree-based inference with TFHE](https://link.springer.com/chapter/10.1007/978-3-031-52426-4_10) [[ePrint version](https://ia.cr/2023/258)] - February 2023 - ePrint Archive
 - On side-channel and CVO attacks against TFHE and FHEW [[ePrint version](https://ia.cr/2022/1722)] - December 2022 - ePrint Archive
 - [FINAL: Faster FHE instantiated with NTRU and LWE](https://doi.org/10.1007/978-3-031-22966-4_7) [[ePrint version](https://ia.cr/2022/074)] - ‍December 2022 - ASIACRYPT 2022
 - The key lattice framework for concurrent group messaging [[ePrint version](https://ia.cr/2022/1531)] - November 2022 - ePrint Archive
