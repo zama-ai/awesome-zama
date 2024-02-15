@@ -77,6 +77,54 @@ Tutorials by the Zama team sorted by date
 - [Private smart contract using FHE](https://www.zama.ai/post/private-smart-contracts-using-homomorphic-encryption) - May 2023
 <br></br>
 
+## Blog Posts
+Zama's blog posts sorted by date
+### Product Release 
+
+- [Zama Product Releases - January 2024](https://www.zama.ai/post/zama-product-releases-january-2024) 
+- [Zama Product Releases - October 2023](https://www.zama.ai/post/zama-product-releases-october-2023) 
+- [Zama Product Releases - July 2023](https://www.zama.ai/post/zama-product-releases-july-2023) 
+- [Zama Product Announcement - April 2023](https://www.zama.ai/post/zama-product-announcement-april-2023)
+- [Zama Product Announcement - October 2022](https://www.zama.ai/post/zama-product-announcement-october-2022)
+- [Zama product announcement - July 2022](https://www.zama.ai/post/zama-product-announcement-july-2022)
+- [Zama product announcement - January 2023](https://www.zama.ai/post/zama-product-announcement-january-2023)
+- [Zama Product Announcement - October 2022](https://www.zama.ai/post/zama-product-announcement-october-2022)
+- [Zama product announcement - July 2022](https://www.zama.ai/post/zama-product-announcement-july-2022)
+- [Zama Product Announcement - April 2022](https://www.zama.ai/post/zama-product-announcement-april-2022)
+
+### Bounty Program and Grant Program
+- [Introducing the Zama Grant Program and Launching the Zama Bounty Program Season 5](https://www.zama.ai/post/introducing-the-zama-grant-program-and-launching-the-zama-bounty-program-season-5) - February 2024
+- [Zama Bounty Program Season 3](https://www.zama.ai/post/zama-bounty-program-season-3) - May 2023
+- [Zama Bounty Program Season 4: New Bounties Available](https://www.zama.ai/post/launching-the-zama-bounty-program-season-4) -  September 2023
+- [Zama Bounty Program Season 2](https://www.zama.ai/post/zama-bounty-program-season-2) - February 2023
+- [Launching the Zama Bounty Program with over €500,000 in prizes](https://www.zama.ai/post/launching-the-zama-bounty-program) - November 2022
+
+### Articles
+- [Programmable Privacy and Onchain Compliance using Homomorphic Encryption](https://www.zama.ai/post/programmable-privacy-and-onchain-compliance-using-homomorphic-encryption) - November 2023
+- [Hybrid Large Language Models To Improve On-premise Deployments with Concrete ML](https://www.zama.ai/post/hybrid-large-language-models-to-improve-on-premise-deployments-with-concrete-ml) - October 2023
+- [Confidential DAO Voting Using Homomorphic Encryption](https://www.zama.ai/post/confidential-dao-voting-using-homomorphic-encryption) - October 2023
+- [The Architecture of Concrete, Zama's Fully Homomorphic Encryption Compiler Leveraging MLIR](https://www.zama.ai/post/the-architecture-of-concrete-zama-fully-homomorphic-encryption-compiler-leveraging-mlir) - October 2023
+- [Confidential ERC-20 tokens using FHE](https://www.zama.ai/post/confidential-erc-20-tokens-using-homomorphic-encryption) - June 2023
+- [Concrete - Zama's FHE compiler](https://www.zama.ai/post/zama-concrete-fully-homomorphic-encryption-compiler) - May 2023
+- [Making chatGPT encrypted end-to-end](https://www.zama.ai/post/chatgpt-privacy-with-homomorphic-encryption) - April 2023
+- [Zama product releases April 2023](https://www.zama.ai/post/zama-product-announcement-april-2023) - April 2023
+- [Presenting Concrete ML at Google tech talks](https://www.zama.ai/post/zama-concrete-ml-at-google-tech-talks) - January 2023
+- [360 privacy for machine learning with FHE](https://www.zama.ai/post/360-privacy-for-machine-learning-with-homomorphic-encryption) - December 2022
+- [Bootstrapping for dummies](https://www.zama.ai/post/what-is-bootstrapping-homomorphic-encryption) - November 2022
+- [FHE and quantum cryptography](https://www.zama.ai/post/fully-homomorphic-encryption-and-post-quantum-cryptography) - October 2022
+- [How we monetize open source at Zama](https://www.zama.ai/post/open-source) - August 2022
+- [FHE as a puzzle piece](https://www.zama.ai/post/fhe-as-a-puzzle-piece) - January 2023
+- [TFHE deep dive part 4](https://www.zama.ai/post/tfhe-deep-dive-part-4) - June 2022
+- [TFHE deep dive part 3](https://www.zama.ai/post/tfhe-deep-dive-part-3) - May 2022
+- [TFHE deep dive part 2](https://www.zama.ai/post/tfhe-deep-dive-part-2) - May 2022
+- [TFHE deep dive part 1](https://www.zama.ai/post/tfhe-deep-dive-part-1) - May 2022
+- [Estimating the security of homomorphic encryption schemes](https://www.zama.ai/post/estimating-the-security-of-homomorphic-schemes) - December 2021
+- [Homomorphic Encryption 101](https://www.zama.ai/post/homomorphic-encryption-101) - December 2021
+- [A homomorphic FPGA implementation of the Intel 4004 — Part 1](https://www.zama.ai/post/homomorphic-fpga-implementation-of-the-intel-4004-part-1) - November 2021
+- [How we hire at Zama](https://www.zama.ai/post/how-we-hire-at-zama) - October 2021
+- [People should not care about privacy](https://www.zama.ai/post/people-should-not-care-about-privacy) - August 2021
+<br></br>
+
 ## Research papers and publications
 Research papers and publications by the Zama team sorted by date
 
@@ -131,55 +179,6 @@ Research papers and publications by the Zama team sorted by date
 - [The eleventh power residue symbol](https://doi.org/10.1515/jmc-2020-0077) [[ePrint version](https://ia.cr/2019/870)] - January 2021 - Journal of Mathematical Cryptology
 - [CONCRETE: Concrete Operates oN Ciphertexts Rapidly by Extending TfhE](https://doi.org/10.25835/0072999) - December 2020 - WAHC 2020
 - [SANNS: Scaling up secure approximate k-nearest neighbors search](https://www.usenix.org/conference/usenixsecurity20/presentation/chen-hao) - August 2020 - USENIX 2020
-<br></br>
-
-
-## Blog Posts
-Zama's blog posts sorted by date
-### Product Release 
-
-- [Zama Product Releases - January 2024](https://www.zama.ai/post/zama-product-releases-january-2024) 
-- [Zama Product Releases - October 2023](https://www.zama.ai/post/zama-product-releases-october-2023) 
-- [Zama Product Releases - July 2023](https://www.zama.ai/post/zama-product-releases-july-2023) 
-- [Zama Product Announcement - April 2023](https://www.zama.ai/post/zama-product-announcement-april-2023)
-- [Zama Product Announcement - October 2022](https://www.zama.ai/post/zama-product-announcement-october-2022)
-- [Zama product announcement - July 2022](https://www.zama.ai/post/zama-product-announcement-july-2022)
-- [Zama product announcement - January 2023](https://www.zama.ai/post/zama-product-announcement-january-2023)
-- [Zama Product Announcement - October 2022](https://www.zama.ai/post/zama-product-announcement-october-2022)
-- [Zama product announcement - July 2022](https://www.zama.ai/post/zama-product-announcement-july-2022)
-- [Zama Product Announcement - April 2022](https://www.zama.ai/post/zama-product-announcement-april-2022)
-
-### Bounty Program and Grant Program
-- [Introducing the Zama Grant Program and Launching the Zama Bounty Program Season 5](https://www.zama.ai/post/introducing-the-zama-grant-program-and-launching-the-zama-bounty-program-season-5) - February 2024
-- [Zama Bounty Program Season 3](https://www.zama.ai/post/zama-bounty-program-season-3) - May 2023
-- [Zama Bounty Program Season 4: New Bounties Available](https://www.zama.ai/post/launching-the-zama-bounty-program-season-4) -  September 2023
-- [Zama Bounty Program Season 2](https://www.zama.ai/post/zama-bounty-program-season-2) - February 2023
-- [Launching the Zama Bounty Program with over €500,000 in prizes](https://www.zama.ai/post/launching-the-zama-bounty-program) - November 2022
-
-### Articles
-- [Programmable Privacy and Onchain Compliance using Homomorphic Encryption](https://www.zama.ai/post/programmable-privacy-and-onchain-compliance-using-homomorphic-encryption) - November 2023
-- [Hybrid Large Language Models To Improve On-premise Deployments with Concrete ML](https://www.zama.ai/post/hybrid-large-language-models-to-improve-on-premise-deployments-with-concrete-ml) - October 2023
-- [Confidential DAO Voting Using Homomorphic Encryption](https://www.zama.ai/post/confidential-dao-voting-using-homomorphic-encryption) - October 2023
-- [The Architecture of Concrete, Zama's Fully Homomorphic Encryption Compiler Leveraging MLIR](https://www.zama.ai/post/the-architecture-of-concrete-zama-fully-homomorphic-encryption-compiler-leveraging-mlir) - October 2023
-- [Confidential ERC-20 tokens using FHE](https://www.zama.ai/post/confidential-erc-20-tokens-using-homomorphic-encryption) - June 2023
-- [Concrete - Zama's FHE compiler](https://www.zama.ai/post/zama-concrete-fully-homomorphic-encryption-compiler) - May 2023
-- [Making chatGPT encrypted end-to-end](https://www.zama.ai/post/chatgpt-privacy-with-homomorphic-encryption) - April 2023
-- [Zama product releases April 2023](https://www.zama.ai/post/zama-product-announcement-april-2023) - April 2023
-- [Presenting Concrete ML at Google tech talks](https://www.zama.ai/post/zama-concrete-ml-at-google-tech-talks) - January 2023
-- [360 privacy for machine learning with FHE](https://www.zama.ai/post/360-privacy-for-machine-learning-with-homomorphic-encryption) - December 2022
-- [Bootstrapping for dummies](https://www.zama.ai/post/what-is-bootstrapping-homomorphic-encryption) - November 2022
-- [FHE and quantum cryptography](https://www.zama.ai/post/fully-homomorphic-encryption-and-post-quantum-cryptography) - October 2022
-- [How we monetize open source at Zama](https://www.zama.ai/post/open-source) - August 2022
-- [FHE as a puzzle piece](https://www.zama.ai/post/fhe-as-a-puzzle-piece) - January 2023
-- [TFHE deep dive part 4](https://www.zama.ai/post/tfhe-deep-dive-part-4) - June 2022
-- [TFHE deep dive part 3](https://www.zama.ai/post/tfhe-deep-dive-part-3) - May 2022
-- [TFHE deep dive part 2](https://www.zama.ai/post/tfhe-deep-dive-part-2) - May 2022
-- [TFHE deep dive part 1](https://www.zama.ai/post/tfhe-deep-dive-part-1) - May 2022
-- [Estimating the security of homomorphic encryption schemes](https://www.zama.ai/post/estimating-the-security-of-homomorphic-schemes) - December 2021
-- [Homomorphic Encryption 101](https://www.zama.ai/post/homomorphic-encryption-101) - December 2021
-- [A homomorphic FPGA implementation of the Intel 4004 — Part 1](https://www.zama.ai/post/homomorphic-fpga-implementation-of-the-intel-4004-part-1) - November 2021
-- [How we hire at Zama](https://www.zama.ai/post/how-we-hire-at-zama) - October 2021
-- [People should not care about privacy](https://www.zama.ai/post/people-should-not-care-about-privacy) - August 2021
 <br></br>
 
 ## Talks and posters
