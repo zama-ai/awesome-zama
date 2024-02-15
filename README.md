@@ -4,7 +4,7 @@
   A curated list by the team at Zama of blog posts, libraries, research papers, and tutorials on <b>Fully Homomorphic Encryption (FHE)</b>.
 </p>
 
-## Table of Contents
+## Table of contents
 
 - [Libraries and solutions](#libraries-and-solutions)
 - [Demos](#demos)
@@ -14,7 +14,7 @@
    - [Concrete ML](#concrete-ml)
    - [fhEVM](#fhevm)
 - [Blog posts](#blog-posts)
-   - [Product Release](#product-release)
+   - [Product releases](#product-releases)
    - [Bounty Program and Grant Program](#bounty-program-and-grant-program)
    - [Articles](#articles)
 - [Research papers and publications](#research-papers-and-publications)
@@ -77,9 +77,9 @@ Tutorials by the Zama team sorted by date
 - [Private smart contract using FHE](https://www.zama.ai/post/private-smart-contracts-using-homomorphic-encryption) - May 2023
 <br></br>
 
-## Blog Posts
+## Blog posts
 Zama's blog posts sorted by date
-### Product Release 
+### Product releases 
 
 - [Zama Product Releases - January 2024](https://www.zama.ai/post/zama-product-releases-january-2024) 
 - [Zama Product Releases - October 2023](https://www.zama.ai/post/zama-product-releases-october-2023) 
