@@ -61,7 +61,7 @@ Tutorials by the Zama team sorted by date
 - [Encrypted search using fully homomorphic encryption](https://www.zama.ai/post/encrypted-search-using-fully-homomorphic-encryption) - February 2022
 
 ### Concrete ML
-- [Build an End-to-End Encrypted Shazam Application Using Concrete ML](https://www.zama.ai/post/encrypted-shazam-using-fully-homomorphic-encryption-concrete-ml-tutorial) - February 2024
+- [Build an end-to-end encrypted Shazam application using Concrete ML](https://www.zama.ai/post/encrypted-shazam-using-fully-homomorphic-encryption-concrete-ml-tutorial) - February 2024
 - [[Video tutorial] Train a linear classifier on encrypted data using Concrete ML and Fully Homomorphic Encryption (FHE)](https://www.youtube.com/watch?v=QVsZ33jBlq4) - February 2024
 - [Linear regression over encrypted data with homomorphic encryption](https://www.zama.ai/post/linear-regression-using-linear-svr-and-concrete-ml-homomorphic-encryption) - June 2023
 - [Comparison of Concrete ML regressors](https://www.zama.ai/post/comparison-of-concrete-ml-regressors) - June 2023
@@ -185,7 +185,7 @@ Research papers and publications by the Zama team sorted by date
 ## Talks and posters
 Talks and posters by the Zama team sorted by date
 
-- Privacy-preserving tree-based inference with TFHE - August 2023 - PPML 2023
+- [Privacy-preserving tree-based inference with TFHE](data/PPML2023PresentationTrees.pdf) - August 2023 - PPML 2023
 - [Privacy Preserving Machine Learning With Fully Homomorphic Encryption](https://www.youtube.com/watch?v=nL2TUznAMcw&t=909s) - April 2023 — Stanford Security Seminar
 - [Recent advances in homomorphic compilation](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/homomorphic-compilation.pdf) - ‍‍March 2023 — FHE.org 2023
 - [On NTRU-ν-um modulo Xᴺ-1](https://eprint.iacr.org/2022/1092) - ‍March 2023 — FHE.org 2023
