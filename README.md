@@ -51,6 +51,7 @@ Tutorials by the Zama team sorted by date
 - [Regular expression engine with TFHE-rs](https://www.zama.ai/post/regex-engine-tfhe-rs) - June 2023
 
 ### Concrete 
+- [[Video tutorial]Compile composable functions with Concrete](https://www.youtube.com/watch?v=TBXDxu2SMr0) - February 2024
 - [The encrypted Game of Life in Python using concrete](https://www.zama.ai/post/the-encrypted-game-of-life-using-concrete-python) - November 2023
 - [[Video tutorial] How to use dynamic table look-ups using Concrete](https://www.youtube.com/watch?v=1sboqhSeKfs) - November 2023
 - [[Video tutorial] Dive into Concrete - Zama's Fully Homomorphic Encryption Compiler](https://www.zama.ai/post/video-tutorial-dive-into-concrete-zamas-fully-homomorphic-encryption-compiler) - October 2023
@@ -60,6 +61,7 @@ Tutorials by the Zama team sorted by date
 - [Encrypted search using fully homomorphic encryption](https://www.zama.ai/post/encrypted-search-using-fully-homomorphic-encryption) - February 2022
 
 ### Concrete ML
+- [Build an End-to-End Encrypted Shazam Application Using Concrete ML](https://www.zama.ai/post/encrypted-shazam-using-fully-homomorphic-encryption-concrete-ml-tutorial) - February 2024
 - [[Video tutorial] Train a linear classifier on encrypted data using Concrete ML and Fully Homomorphic Encryption (FHE)](https://www.youtube.com/watch?v=QVsZ33jBlq4) - February 2024
 - [Linear regression over encrypted data with homomorphic encryption](https://www.zama.ai/post/linear-regression-using-linear-svr-and-concrete-ml-homomorphic-encryption) - June 2023
 - [Comparison of Concrete ML regressors](https://www.zama.ai/post/comparison-of-concrete-ml-regressors) - June 2023
@@ -106,7 +108,6 @@ Zama's blog posts sorted by date
 - [Confidential ERC-20 tokens using FHE](https://www.zama.ai/post/confidential-erc-20-tokens-using-homomorphic-encryption) - June 2023
 - [Concrete - Zama's FHE compiler](https://www.zama.ai/post/zama-concrete-fully-homomorphic-encryption-compiler) - May 2023
 - [Making chatGPT encrypted end-to-end](https://www.zama.ai/post/chatgpt-privacy-with-homomorphic-encryption) - April 2023
-- [Zama product releases April 2023](https://www.zama.ai/post/zama-product-announcement-april-2023) - April 2023
 - [Presenting Concrete ML at Google tech talks](https://www.zama.ai/post/zama-concrete-ml-at-google-tech-talks) - January 2023
 - [360 privacy for machine learning with FHE](https://www.zama.ai/post/360-privacy-for-machine-learning-with-homomorphic-encryption) - December 2022
 - [Bootstrapping for dummies](https://www.zama.ai/post/what-is-bootstrapping-homomorphic-encryption) - November 2022
