@@ -45,15 +45,15 @@ Demos by Zama sorted by date
 Tutorials by the Zama team sorted by date
 
 ### TFHE-rs 
-- [[Video tutorial] Implement signed integers using TFHE-rs](https://www.youtube.com/watch?v=O0aGj_xUo40) - November 2023
+- [[Video tutorial] Implement signed integers using TFHE-rs](https://www.zama.ai/post/video-tutorial-implement-signed-integers-ssing-tfhe-rs) - November 2023
 - [Boolean SHA256 using TFHE-rs](https://www.zama.ai/post/boolean-sha256-tfhe-rs) - July 2023
 - [Dark market application using TFHE-rs](https://www.zama.ai/post/dark-market-tfhe-rs) - July 2023
 - [Regular expression engine with TFHE-rs](https://www.zama.ai/post/regex-engine-tfhe-rs) - June 2023
 
 ### Concrete 
-- [[Video tutorial]Compile composable functions with Concrete](https://www.youtube.com/watch?v=TBXDxu2SMr0) - February 2024
+- [[Video tutorial]Compile composable functions with Concrete](https://www.zama.ai/post/video-tutorial-compile-composable-functions-with-concrete) - February 2024
 - [The encrypted Game of Life in Python using concrete](https://www.zama.ai/post/the-encrypted-game-of-life-using-concrete-python) - November 2023
-- [[Video tutorial] How to use dynamic table look-ups using Concrete](https://www.youtube.com/watch?v=1sboqhSeKfs) - November 2023
+- [[Video tutorial] How to use dynamic table look-ups using Concrete](https://www.zama.ai/post/video-tutorial-how-to-use-dynamic-table-look-ups-using-concrete) - November 2023
 - [[Video tutorial] Dive into Concrete - Zama's Fully Homomorphic Encryption Compiler](https://www.zama.ai/post/video-tutorial-dive-into-concrete-zamas-fully-homomorphic-encryption-compiler) - October 2023
 - [[Video tutorial] How To Get Started With Concrete - Zama's Fully Homomorphic Encryption Compiler](https://www.zama.ai/post/how-to-started-with-concrete-zama-fully-homomorphic-encryption-compiler) - July 2023
 - [Encrypted key-value database using homomorphic encryption](https://www.zama.ai/post/encrypted-key-value-database-using-homomorphic-encryption) - March 2023
@@ -62,7 +62,7 @@ Tutorials by the Zama team sorted by date
 
 ### Concrete ML
 - [Build an end-to-end encrypted Shazam application using Concrete ML](https://www.zama.ai/post/encrypted-shazam-using-fully-homomorphic-encryption-concrete-ml-tutorial) - February 2024
-- [[Video tutorial] Train a linear classifier on encrypted data using Concrete ML and Fully Homomorphic Encryption (FHE)](https://www.youtube.com/watch?v=QVsZ33jBlq4) - February 2024
+- [[Video tutorial] Train a linear classifier on encrypted data using Concrete ML and Fully Homomorphic Encryption (FHE)](https://www.zama.ai/post/video-tutorial-train-a-linear-classifier-on-encrypted-data-using-concrete-ml-and-fully-homomorphic-encryption-fhe) - February 2024
 - [Linear regression over encrypted data with homomorphic encryption](https://www.zama.ai/post/linear-regression-using-linear-svr-and-concrete-ml-homomorphic-encryption) - June 2023
 - [Comparison of Concrete ML regressors](https://www.zama.ai/post/comparison-of-concrete-ml-regressors) - June 2023
 - [[Video tutorial]How to convert a scikit-learn model into its homomorphic equivalent](https://www.zama.ai/post/how-to-convert-a-scikit-learn-model-into-its-homomorphic-equivalent) - June 2023
@@ -72,9 +72,10 @@ Tutorials by the Zama team sorted by date
 - [Titanic Competition with Privacy Preserving Machine Learning](https://www.zama.ai/post/titanic-competition-with-privacy-preserving-machine-learning-using-concrete-ml) - August 2022
 
 ### fhEVM
-- [[Video tutorial] Accelerate your code testing and get code coverage using fhEVM mocks](https://www.youtube.com/watch?v=ZO9o4bdgsjI) - January 2024
+- [[Video tutorial] Accelerate your code testing and get code coverage using fhEVM mocks](https://www.zama.ai/post/video-tutorial-accelerate-your-code-testing-and-get-code-coverage-using-fhevm-mocks) - January 2024
 - [Programmable Privacy and Onchain Compliance using Homomorphic Encryption](https://www.zama.ai/post/programmable-privacy-and-onchain-compliance-using-homomorphic-encryption) - November 2023
 - [[Video tutorial] Use the CMUX operator on Zama’s fhEVM](https://www.youtube.com/watch?v=7icM0EOSvU0) - October 2023
+- [Confidential DAO Voting Using Homomorphic Encryption](https://www.zama.ai/post/confidential-dao-voting-using-homomorphic-encryption)
 - [[Video tutorial] How to Write Confidential Smart Contracts Using Zama's fhEVM](https://www.zama.ai/post/video-tutorial-how-to-write-confidential-smart-contracts-using-zamas-fhevm) October 2023
 - [On-chain blind auctions using FHE](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption) - July 2023
 - [Private smart contract using FHE](https://www.zama.ai/post/private-smart-contracts-using-homomorphic-encryption) - May 2023
