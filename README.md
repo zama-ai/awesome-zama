@@ -16,8 +16,8 @@
    - [fhEVM](#fhevm)
 - [Blog posts](#blog-posts)
    - [Product releases](#product-releases)
-   - [Bounty announcements](#bounty-announcements)
-   - [Articles](#articles)
+   - [Announcements](#announcements)
+   - [Engineering articles](#engineering-articles)
 - [Research papers and publications](#research-papers-and-publications)
 - [Talks and posters](#talks-and-posters)
 <br></br>
@@ -86,7 +86,6 @@ Tutorials by the Zama team sorted by date
 ## Blog posts
 Zama's blog posts sorted by date
 ### Product releases 
-
 - [Zama Product Releases - January 2024](https://www.zama.ai/post/zama-product-releases-january-2024) 
 - [Zama Product Releases - October 2023](https://www.zama.ai/post/zama-product-releases-october-2023) 
 - [Zama Product Releases - July 2023](https://www.zama.ai/post/zama-product-releases-july-2023) 
@@ -96,24 +95,25 @@ Zama's blog posts sorted by date
 - [Zama product Releases - July 2022](https://www.zama.ai/post/zama-product-announcement-july-2022)
 - [Zama Product Releases - April 2022](https://www.zama.ai/post/zama-product-announcement-april-2022)
 
-### Bounty announcements
+### Announcements
+- [The Zama FHE Master Plan](https://www.zama.ai/post/zama-fhe-master-plan) - March 2024
 - [Introducing the Zama Grant Program and launching the Zama Bounty Program season 5](https://www.zama.ai/post/introducing-the-zama-grant-program-and-launching-the-zama-bounty-program-season-5) - February 2024
 - [Zama Bounty Program Season 3](https://www.zama.ai/post/zama-bounty-program-season-3) - May 2023
 - [Zama Bounty Program Season 4: New Bounties Available](https://www.zama.ai/post/launching-the-zama-bounty-program-season-4) -  September 2023
 - [Zama Bounty Program Season 2](https://www.zama.ai/post/zama-bounty-program-season-2) - February 2023
 - [Launching the Zama Bounty Program with over €500,000 in prizes](https://www.zama.ai/post/launching-the-zama-bounty-program) - November 2022
+- [How We Monetize Open Source at Zama](https://www.zama.ai/post/open-source) - August 2022
+- [How We Hire at Zama](https://www.zama.ai/post/how-we-hire-at-zama) - October 2021
 
-### Articles
-- [The Zama FHE Master Plan](https://www.zama.ai/post/zama-fhe-master-plan) - March 2024
+### Engineering articles
+- [Training predictive models on encrypted data using Fully Homomorphic Encryption](https://www.zama.ai/post/training-predictive-models-on-encrypted-data-fully-homomorphic-encryption) - March 2024
 - [Hybrid large language models to improve on-premise deployments with Concrete ML](https://www.zama.ai/post/hybrid-large-language-models-to-improve-on-premise-deployments-with-concrete-ml) - October 2023
 - [The architecture of Concrete, Zama's Fully Homomorphic Encryption compiler leveraging MLIR](https://www.zama.ai/post/the-architecture-of-concrete-zama-fully-homomorphic-encryption-compiler-leveraging-mlir) - October 2023
 - [Concrete - Zama's FHE compiler](https://www.zama.ai/post/zama-concrete-fully-homomorphic-encryption-compiler) - May 2023
 - [Making chatGPT encrypted end-to-end](https://www.zama.ai/post/chatgpt-privacy-with-homomorphic-encryption) - April 2023
-- [Presenting Concrete ML at Google tech talks](https://www.zama.ai/post/zama-concrete-ml-at-google-tech-talks) - January 2023
 - [360 privacy for machine learning with FHE](https://www.zama.ai/post/360-privacy-for-machine-learning-with-homomorphic-encryption) - December 2022
 - [Bootstrapping for dummies](https://www.zama.ai/post/what-is-bootstrapping-homomorphic-encryption) - November 2022
 - [FHE and quantum cryptography](https://www.zama.ai/post/fully-homomorphic-encryption-and-post-quantum-cryptography) - October 2022
-- [How we monetize open source at Zama](https://www.zama.ai/post/open-source) - August 2022
 - [FHE as a puzzle piece](https://www.zama.ai/post/fhe-as-a-puzzle-piece) - January 2023
 - [TFHE deep dive part 4](https://www.zama.ai/post/tfhe-deep-dive-part-4) - June 2022
 - [TFHE deep dive part 3](https://www.zama.ai/post/tfhe-deep-dive-part-3) - May 2022
@@ -122,7 +122,6 @@ Zama's blog posts sorted by date
 - [Estimating the security of homomorphic encryption schemes](https://www.zama.ai/post/estimating-the-security-of-homomorphic-schemes) - December 2021
 - [Homomorphic Encryption 101](https://www.zama.ai/post/homomorphic-encryption-101) - December 2021
 - [A homomorphic FPGA implementation of the Intel 4004 — Part 1](https://www.zama.ai/post/homomorphic-fpga-implementation-of-the-intel-4004-part-1) - November 2021
-- [How we hire at Zama](https://www.zama.ai/post/how-we-hire-at-zama) - October 2021
 - [People should not care about privacy](https://www.zama.ai/post/people-should-not-care-about-privacy) - August 2021
 <br></br>
 
@@ -185,13 +184,13 @@ Research papers and publications by the Zama team sorted by date
 
 ## Talks and posters
 Talks and posters by the Zama team sorted by date
-
 - [Privacy-preserving tree-based inference with TFHE](data/PPML2023PresentationTrees.pdf) - August 2023 - PPML 2023
 - [Privacy Preserving Machine Learning With Fully Homomorphic Encryption](https://www.youtube.com/watch?v=nL2TUznAMcw&t=909s) - April 2023 — Stanford Security Seminar
 - [Recent advances in homomorphic compilation](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/homomorphic-compilation.pdf) - ‍‍March 2023 — FHE.org 2023
 - [On NTRU-ν-um modulo Xᴺ-1](https://eprint.iacr.org/2022/1092) - ‍March 2023 — FHE.org 2023
 - [Private smart contracts using homomorphic encryption](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/private-smart-contracts.pdf) - ‍March 2023 — FHE.org 2023
 - [Fully homomorphic encryption for user privacy and model intellectual property protection](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/user-privacy-model-protection.pdf) - ‍March 2023 — FHE.org 2023
+- [Presenting Concrete ML at Google tech talks](https://www.zama.ai/post/zama-concrete-ml-at-google-tech-talks) - January 2023
 - [Fast, easy, and accessible FHE with Concrete and specialized accelerators](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2022/media/concrete-and-specialized-accelerators.pdf) - May 2022 — FHE.org 2022
 - [Concrete ML: A data-scientist-friendly toolkit for machine learning over encrypted data](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2022/media/concrete-ml.pdf) - May 2022 — FHE.org 2022
 - [Performance of hierarchical transforms in homomorphic encryption: A case study on logistic regression inference](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2022/media/hierarchical-transforms-he.pdf) - May 2022 — FHE.org 2022
