@@ -22,7 +22,7 @@
 - [Talks and posters](#talks-and-posters)
 <br></br>
 
-## Libraries and solutions
+## Libraries and solution
 Zama's FHE libraries and solutions.
 
 - [TFHE-rs](https://github.com/zama-ai/tfhe-rs): A pure Rust implementation of the TFHE scheme for Boolean and integer arithmetics over encrypted data.
@@ -35,20 +35,21 @@ Zama's FHE libraries and solutions.
 ## Demos
 Demos by Zama sorted by date
 
-- [Encrypted credit card approval prediction using FHE](https://huggingface.co/spaces/zama-fhe/credit_card_approval_prediction) 
-- [Encrypted sentiment analysis using Homomorphic Encryption](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis) 
-- [Encrypted health prediction using FHE](https://huggingface.co/spaces/zama-fhe/encrypted_health_prediction) 
+- [Encrypted credit card approval prediction using FHE](https://huggingface.co/spaces/zama-fhe/credit_card_approval_prediction)
+- [Encrypted sentiment analysis using Homomorphic Encryption](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis)
+- [Encrypted health prediction using FHE](https://huggingface.co/spaces/zama-fhe/encrypted_health_prediction)
 - [Encrypted image filtering using homomorphic encryption](https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering)
 <br></br>
 
 ## Tutorials
 Tutorials by the Zama team sorted by date
 
-### TFHE-rs 
+### TFHE-rs
 - [[Video tutorial] Implement signed integers using TFHE-rs](https://www.zama.ai/post/video-tutorial-implement-signed-integers-ssing-tfhe-rs) - November 2023
 - [Boolean SHA256 using TFHE-rs](https://www.zama.ai/post/boolean-sha256-tfhe-rs) - July 2023
 - [Dark market application using TFHE-rs](https://www.zama.ai/post/dark-market-tfhe-rs) - July 2023
 - [Regular expression engine with TFHE-rs](https://www.zama.ai/post/regex-engine-tfhe-rs) - June 2023
+
 
 ### Concrete 
 - [[Video tutorial]Compile composable functions with Concrete](https://www.zama.ai/post/video-tutorial-compile-composable-functions-with-concrete) - February 2024
@@ -86,10 +87,10 @@ Tutorials by the Zama team sorted by date
 
 ## Blog posts
 Zama's blog posts sorted by date
-### Product releases 
-- [Zama Product Releases - January 2024](https://www.zama.ai/post/zama-product-releases-january-2024) 
-- [Zama Product Releases - October 2023](https://www.zama.ai/post/zama-product-releases-october-2023) 
-- [Zama Product Releases - July 2023](https://www.zama.ai/post/zama-product-releases-july-2023) 
+### Product releases
+- [Zama Product Releases - January 2024](https://www.zama.ai/post/zama-product-releases-january-2024)
+- [Zama Product Releases - October 2023](https://www.zama.ai/post/zama-product-releases-october-2023)
+- [Zama Product Releases - July 2023](https://www.zama.ai/post/zama-product-releases-july-2023)
 - [Zama Product Releases - April 2023](https://www.zama.ai/post/zama-product-announcement-april-2023)
 - [Zama product Releases - January 2023](https://www.zama.ai/post/zama-product-announcement-january-2023)
 - [Zama Product Releases - October 2022](https://www.zama.ai/post/zama-product-announcement-october-2022)
@@ -133,6 +134,7 @@ Research papers and publications by the Zama team sorted by date
 - [The key lattice framework for concurrent group messaging](https://doi.org/10.1007/978-3-031-54773-7_6) [[ePrint version](https://ia.cr/2022/1531)] - March 2024 - ACNS 2024
 - [A new approach to efficient and secure fixed-point computation](https://doi.org/10.1007/978-3-031-54770-6_3) [[ePrint version](https://ia.cr/2024/035)] - March 2024 - ACNS 2024
 - Neural network training on encrypted data with TFHE [[arXiv version](https://arxiv.org/abs/2401.16136)] - January 2024 - arXiv
+<!-- markdown-link-check-disable-next-line -->
 - [Computing e-th roots in number fields](https://doi.org/10.1137/1.9781611977929.16) [[arXiv version](https://arxiv.org/abs/2305.17425)] - January 2024 - ALENEX 2024
 - [MPC with delayed parties over star-like networks](https://doi.org/10.1007/978-981-99-8721-4_6) [[ePrint version](https://ia.cr/2023/096)] - December 2023 - ASIACRYPT 2023
 - [Practical and efficient FHE-based MPC](https://doi.org/10.1007/978-3-031-47818-5_14) [[ePrint version](https://ia.cr/2023/981)] - December 2023 - IMACC 2023
@@ -144,7 +146,7 @@ Research papers and publications by the Zama team sorted by date
 - Updatable privacy-preserving blueprints [[ePrint version](https://ia.cr/2023/1787)] - November 2023 - ePrint Archive
 - [SoK: Privacy-enhancing technologies in finance](https://doi.org/10.4230/LIPIcs.AFT.2023.12) [[ePrint version](https://ia.cr/2023/122)] - October 2023 - AFT 2023
 - [fhEVM - Confidential EVM Smart Contracts using Fully Homomorphic Encryption](https://github.com/zama-ai/fhevm/blob/main/fhevm-whitepaper.pdf) - September 2023 - White paper
-- [On the precision loss in approximate homomorphic encryption](https://doi.org/10.1007/978-3-031-53368-6_16) [[ePrint version](https://ia.cr/2022/162)] - August 2023 - SAC 2023 
+- [On the precision loss in approximate homomorphic encryption](https://doi.org/10.1007/978-3-031-53368-6_16) [[ePrint version](https://ia.cr/2022/162)] - August 2023 - SAC 2023
 - [Attribute-based single sign-on: Secure, private, and efficient](https://doi.org/10.56553/popets-2023-0097) [[ePrint version](https://ia.cr/2023/915)] - July 2023 - PoPETs 2023
 - [Computing on encrypted data](https://doi.org/10.1109/MSEC.2023.3279517) - July 2023 - IEEE Security & Privacy
 - Faster secret keys for (T)FHE [[ePrint version](https://ia.cr/2023/979)] - June 2023 - ePrint Archive
