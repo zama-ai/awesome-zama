@@ -129,6 +129,8 @@ Zama's blog posts sorted by date
 ## Research papers and publications
 Research papers and publications by the Zama team sorted by date
 
+- [Simulation-extractable KZG polynomial commitments and applications to HyperPlonk](https://doi.org/10.1007/978-3-031-57722-2_3) - April 2024 - PKC 2024
+- [Vector commitments with proofs of smallness: Short range proofs and more](https://doi.org/10.1007/978-3-031-57722-2_2) [[ePrint version](https://ia.cr/2023/800)] - April 2024 - PKC 2024
 - Towards verifiable FHE in practice: Proving correct execution of TFHE's bootstrapping using plonky2 [[ePrint version](https://ia.cr/2024/451)] - March 2024 - ePrint Archive
 - [The key lattice framework for concurrent group messaging](https://doi.org/10.1007/978-3-031-54773-7_6) [[ePrint version](https://ia.cr/2022/1531)] - March 2024 - ACNS 2024
 - [A new approach to efficient and secure fixed-point computation](https://doi.org/10.1007/978-3-031-54770-6_3) [[ePrint version](https://ia.cr/2024/035)] - March 2024 - ACNS 2024
@@ -151,7 +153,6 @@ Research papers and publications by the Zama team sorted by date
 - [Deep neural networks for encrypted inference with TFHE](https://doi.org/10.1007/978-3-031-34671-2_34) [[ePrint version](https://ia.cr/2023/257)] - June 2023 - CSCML 2023
 - [Parameter optimization & larger precision for (T)FHE](https://doi.org/10.1007/s00145-023-09463-5) [[ePrint version](https://ia.cr/2022/704)] - ‍June 2023 - Journal of Cryptology
 - [Topical Collection on Computing on Encrypted Data](https://doi.org/10.1007/s00145-023-09444-8) - June 2023 - Journal of Cryptology
-- Vector commitments with short proofs of smallness [[ePrint version](https://ia.cr/2023/800)] - May 2023 - ePrint Archive
 - [POLKA: Towards leakage-resistant post-quantum CCA-secure public-key encryption](https://doi.org/10.1007/978-3-031-31368-4_5) [[ePrint version](https://eprint.iacr.org/2022/873)] - ‍May 2023 - PKC 2023
 - [On-line/Off-line DCR-based homomorphic encryption and applications](https://doi.org/10.1007/978-3-031-30872-7_5) [[ePrint version](https://ia.cr/2023/048)] - April 2023 - CT-RSA 2023
 - TFHE public-key encryption revisited [[ePrint version](https://ia.cr/2023/603)] - April 2023 - ePrint Archive
