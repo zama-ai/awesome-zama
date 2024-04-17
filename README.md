@@ -51,7 +51,6 @@ Tutorials by the Zama team sorted by date
 - [Regular expression engine with TFHE-rs](https://www.zama.ai/post/regex-engine-tfhe-rs) - June 2023
 
 ### Concrete 
-- [Running privacy-preserving inferences on Hugging Face endpoints](https://huggingface.co/blog/fhe-endpoints) - April 2024
 - [[Video tutorial]Compile composable functions with Concrete](https://www.zama.ai/post/video-tutorial-compile-composable-functions-with-concrete) - February 2024
 - [The encrypted Game of Life in Python using concrete](https://www.zama.ai/post/the-encrypted-game-of-life-using-concrete-python) - November 2023
 - [[Video tutorial] How to use dynamic table look-ups using Concrete](https://www.zama.ai/post/video-tutorial-how-to-use-dynamic-table-look-ups-using-concrete) - November 2023
@@ -62,6 +61,7 @@ Tutorials by the Zama team sorted by date
 - [Encrypted search using fully homomorphic encryption](https://www.zama.ai/post/encrypted-search-using-fully-homomorphic-encryption) - February 2022
 
 ### Concrete ML
+- [Running privacy-preserving inferences on Hugging Face endpoints](https://huggingface.co/blog/fhe-endpoints) - April 2024
 - [Build an end-to-end encrypted Shazam application using Concrete ML](https://www.zama.ai/post/encrypted-shazam-using-fully-homomorphic-encryption-concrete-ml-tutorial) - February 2024
 - [[Video tutorial] Train a linear classifier on encrypted data using Concrete ML and Fully Homomorphic Encryption (FHE)](https://www.zama.ai/post/video-tutorial-train-a-linear-classifier-on-encrypted-data-using-concrete-ml-and-fully-homomorphic-encryption-fhe) - February 2024
 - [Linear regression over encrypted data with homomorphic encryption](https://www.zama.ai/post/linear-regression-using-linear-svr-and-concrete-ml-homomorphic-encryption) - June 2023
@@ -133,7 +133,7 @@ Research papers and publications by the Zama team sorted by date
 - [The key lattice framework for concurrent group messaging](https://doi.org/10.1007/978-3-031-54773-7_6) [[ePrint version](https://ia.cr/2022/1531)] - March 2024 - ACNS 2024
 - [A new approach to efficient and secure fixed-point computation](https://doi.org/10.1007/978-3-031-54770-6_3) [[ePrint version](https://ia.cr/2024/035)] - March 2024 - ACNS 2024
 - Neural network training on encrypted data with TFHE [[arXiv version](https://arxiv.org/abs/2401.16136)] - January 2024 - arXiv
-- [Computing e-th roots in number fields](https://doi.org/10.1137/1.9781611977929.16) [[arXiv version](https://arxiv.org/abs/2305.17425)] - January 2024 - ALENEX 2024
+- [Computing e-th roots in number fields](https://epubs.siam.org/doi/10.1137/1.9781611977929.16) [[arXiv version](https://arxiv.org/abs/2305.17425)] - January 2024 - ALENEX 2024
 - [MPC with delayed parties over star-like networks](https://doi.org/10.1007/978-981-99-8721-4_6) [[ePrint version](https://ia.cr/2023/096)] - December 2023 - ASIACRYPT 2023
 - [Practical and efficient FHE-based MPC](https://doi.org/10.1007/978-3-031-47818-5_14) [[ePrint version](https://ia.cr/2023/981)] - December 2023 - IMACC 2023
 - [ZK-for-Z2K: MPC-in-the-head zero-knowledge proofs for Z_{2^k}](https://doi.org/10.1007/978-3-031-47818-5_8) [[ePrint version](https://ia.cr/2023/1057)] - December 2023 - IMACC 2023
