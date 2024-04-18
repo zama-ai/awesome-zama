@@ -22,7 +22,7 @@
 - [Talks and posters](#talks-and-posters)
 <br></br>
 
-## Libraries and solution
+## Libraries and solutions
 Zama's FHE libraries and solutions.
 
 - [TFHE-rs](https://github.com/zama-ai/tfhe-rs): A pure Rust implementation of the TFHE scheme for Boolean and integer arithmetics over encrypted data.
