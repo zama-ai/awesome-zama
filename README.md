@@ -74,7 +74,8 @@ Tutorials by the Zama team sorted by date
 - [Titanic competition with privacy-preserving machine learning](https://www.zama.ai/post/titanic-competition-with-privacy-preserving-machine-learning-using-concrete-ml) - August 2022
 
 ### fhEVM
-- [Build an encrypted wordle game onchain using FHE and Zama's fhEVM](https://www.zama.ai/post/build-an-encrypted-wordle-game-onchain-using-fhe-and-zama-fhevm)
+- [[Video tutorial] Using asynchronous decryption in Solidity contracts with fhEVM](https://www.zama.ai/post/video-tutorial-using-asynchronous-decryption-in-solidity-contracts-with-fhevm) - April 2024
+- [Build an encrypted wordle game onchain using FHE and Zama's fhEVM](https://www.zama.ai/post/build-an-encrypted-wordle-game-onchain-using-fhe-and-zama-fhevm) - February 2024
 - [[Video tutorial] Accelerate your code testing and get code coverage using fhEVM mocks](https://www.zama.ai/post/video-tutorial-accelerate-your-code-testing-and-get-code-coverage-using-fhevm-mocks) - January 2024
 - [Programmable privacy and onchain compliance using Homomorphic Encryption](https://www.zama.ai/post/programmable-privacy-and-onchain-compliance-using-homomorphic-encryption) - November 2023
 - [[Video tutorial] Use the CMUX operator on Zama’s fhEVM](https://www.zama.ai/post/video-tutorial-use-the-cmux-operator-on-zamas-fhevm) - October 2023
