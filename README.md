@@ -132,6 +132,7 @@ Zama's blog posts sorted by date
 Research papers and publications by the Zama team sorted by date
 
 - [Crypto dark matter on the torus: Oblivious PRFs from shallow PRFs and TFHE](https://doi.org/10.1007/978-3-031-58751-1_16) - May 2024 - EUROCRYPT 2024
+- Homomorphic evaluation of LWR-based PRFs and application to transciphering [[ePrint version](https://ia.cr/2024/665)] - April 2024 - ePrint Archive
 - [Simulation-extractable KZG polynomial commitments and applications to HyperPlonk](https://doi.org/10.1007/978-3-031-57722-2_3) - April 2024 - PKC 2024
 - [Vector commitments with proofs of smallness: Short range proofs and more](https://doi.org/10.1007/978-3-031-57722-2_2) [[ePrint version](https://ia.cr/2023/800)] - April 2024 - PKC 2024
 - Towards verifiable FHE in practice: Proving correct execution of TFHE's bootstrapping using plonky2 [[ePrint version](https://ia.cr/2024/451)] - March 2024 - ePrint Archive
@@ -189,18 +190,26 @@ Research papers and publications by the Zama team sorted by date
 - [SANNS: Scaling up secure approximate k-nearest neighbors search](https://www.usenix.org/conference/usenixsecurity20/presentation/chen-hao) - August 2020 - USENIX 2020
 <br></br>
 
-## Talks and posters
-Talks and posters by the Zama team sorted by date
-- [Privacy-preserving tree-based inference with TFHE](data/PPML2023PresentationTrees.pdf) - August 2023 - PPML 2023
-- [Privacy Preserving Machine Learning With Fully Homomorphic Encryption](https://www.youtube.com/watch?v=nL2TUznAMcw&t=909s) - April 2023 — Stanford Security Seminar
-- [Recent advances in homomorphic compilation](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/homomorphic-compilation.pdf) - ‍‍March 2023 — FHE.org 2023
+## Contributed talks and posters
+Contributed talks and posters by the Zama team sorted by date
+- [Advanced FHE protocols for the blockchain](https://iacr.org/submit/files/slides/2024/rwc/rwc2024/5/slides.pptx)  - ‍‍March 2024 — RWC 2024
+- Revisiting oblivious top-k selection with applications to secure k-NN classification - ‍‍March 2024 — FHE.org 2024
+- Security guidelines for implementing homomorphic encryption - ‍‍March 2024 — FHE.org 2024
+- TFHE simplified: A practical guide to integer arithmetic and reliability - ‍‍March 2024 — FHE.org 2024
+- Neural network training on encrypted data with TFHE - ‍‍March 2024 — FHE.org 2024
+- Towards verifiable bootstrapping in practice - Proving correct execution of TFHE’s blind rotation using Plonky2 - ‍‍March 2024 — FHE.org 2024
+- Game of life, revisited - ‍‍March 2024 — FHE.org 2024
+- Homomorphic integer division for TFHE - ‍‍March 2024 — FHE.org 2024
+- The inhibitor: ReLU and addition-based attention for efficient transformers under fully homomorphic encryption on the torus - ‍‍March 2024 — FHE.org 2024
+- [Privacy-preserving tree-based inference with TFHE](https://github.com/zama-ai/awesome-zama/blob/main/data/PPML2023PresentationTrees.pdf) - August 2023 - PPML 2023
+- [Recent advances in homomorphic compilation](https://github.com/FHE-org/fhe-org.github.io/raw/main/conferences/conference-2023/media/homomorphic-compilation.pdf) - ‍‍March 2023 — FHE.org 2023
 - [On NTRU-ν-um modulo Xᴺ-1](https://eprint.iacr.org/2022/1092) - ‍March 2023 — FHE.org 2023
-- [Private smart contracts using homomorphic encryption](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/private-smart-contracts.pdf) - ‍March 2023 — FHE.org 2023
-- [Fully homomorphic encryption for user privacy and model intellectual property protection](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2023/media/user-privacy-model-protection.pdf) - ‍March 2023 — FHE.org 2023
-- [Presenting Concrete ML at Google tech talks](https://www.zama.ai/post/zama-concrete-ml-at-google-tech-talks) - January 2023
-- [Fast, easy, and accessible FHE with Concrete and specialized accelerators](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2022/media/concrete-and-specialized-accelerators.pdf) - May 2022 — FHE.org 2022
-- [Concrete ML: A data-scientist-friendly toolkit for machine learning over encrypted data](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2022/media/concrete-ml.pdf) - May 2022 — FHE.org 2022
-- [Performance of hierarchical transforms in homomorphic encryption: A case study on logistic regression inference](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2022/media/hierarchical-transforms-he.pdf) - May 2022 — FHE.org 2022
-- [Hybrid attacks on LWE and the lattice estimator](https://github.com/FHE-org/fhe-org.github.io/blob/main/conferences/conference-2022/media/hybrid-attacks.pdf) - May 2022 — FHE.org 2022
+- [Parameter optimization & larger precision for (T)FHE](https://github.com/FHE-org/fhe-org.github.io/raw/main/conferences/conference-2023/media/DL-ST-slides.pdf) - ‍March 2023 — FHE.org 2023
+- [Private smart contracts using homomorphic encryption](https://github.com/FHE-org/fhe-org.github.io/raw/main/conferences/conference-2023/media/private-smart-contracts.pdf) - ‍March 2023 — FHE.org 2023
+- [Fully homomorphic encryption for user privacy and model intellectual property protection](https://github.com/FHE-org/fhe-org.github.io/raw/main/conferences/conference-2023/media/user-privacy-model-protection.pdf) - ‍March 2023 — FHE.org 2023
+- [Hybrid attacks on LWE and the lattice estimator](https://github.com/FHE-org/fhe-org.github.io/raw/main/conferences/conference-2022/media/hybrid-attacks.pdf) - May 2022 — FHE.org 2022
+- [Fast, easy, and accessible FHE with Concrete and specialized accelerators](https://github.com/FHE-org/fhe-org.github.io/raw/main/conferences/conference-2022/media/concrete-and-specialized-accelerators.pdf) - May 2022 — FHE.org 2022
+- [Concrete ML: A data-scientist-friendly toolkit for machine learning over encrypted data](https://github.com/FHE-org/fhe-org.github.io/raw/main/conferences/conference-2022/media/concrete-ml.pdf) - May 2022 — FHE.org 2022
+- [Performance of hierarchical transforms in homomorphic encryption: A case study on logistic regression inference](https://github.com/FHE-org/fhe-org.github.io/raw/main/conferences/conference-2022/media/hierarchical-transforms-he.pdf) - May 2022 — FHE.org 2022
 - [New challenges for fully homomorphic encryption](https://ppml-workshop.github.io/ppml20/pdfs/Chillotti_et_al.pdf) - December 2020 — PPML 2020
 <br></br>
