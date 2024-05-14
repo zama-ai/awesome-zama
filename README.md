@@ -19,7 +19,7 @@
    - [Announcements](#announcements)
    - [Engineering articles](#engineering-articles)
 - [Research papers and publications](#research-papers-and-publications)
-- [Talks and posters](#talks-and-posters)
+- [Talks and posters](#contributed-talks-and-posters)
 <br></br>
 
 ## Libraries and solutions
@@ -35,10 +35,11 @@ Zama's FHE libraries and solutions.
 ## Demos
 Demos by Zama sorted by date
 
+- [Encrypted anonymization using FHE](https://huggingface.co/spaces/zama-fhe/encrypted-anonymization)
 - [Encrypted credit card approval prediction using FHE](https://huggingface.co/spaces/zama-fhe/credit_card_approval_prediction)
-- [Encrypted sentiment analysis using Homomorphic Encryption](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis)
+- [Encrypted sentiment analysis using FHE](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis)
 - [Encrypted health prediction using FHE](https://huggingface.co/spaces/zama-fhe/encrypted_health_prediction)
-- [Encrypted image filtering using homomorphic encryption](https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering)
+- [Encrypted image filtering using FHE](https://huggingface.co/spaces/zama-fhe/encrypted_image_filtering)
 <br></br>
 
 ## Tutorials
