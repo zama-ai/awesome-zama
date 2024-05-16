@@ -19,7 +19,7 @@
    - [Announcements](#announcements)
    - [Engineering articles](#engineering-articles)
 - [Research papers and publications](#research-papers-and-publications)
-- [Talks and posters](#contributed-talks-and-posters)
+- [Talks, posters and presentations](#contributed-talks-posters-and-presentations)
 <br></br>
 
 ## Libraries and solutions
@@ -192,7 +192,7 @@ Research papers and publications by the Zama team sorted by date
 - [SANNS: Scaling up secure approximate k-nearest neighbors search](https://www.usenix.org/conference/usenixsecurity20/presentation/chen-hao) - August 2020 - USENIX 2020
 <br></br>
 
-## Contributed talks and posters
+## Contributed talks, posters and presentations
 Contributed talks and posters by the Zama team sorted by date
 - [Privacy-Preserving ML with Fully Homomorphic Encryption](https://github.com/zama-ai/awesome-zama/blob/main/data/PPML_MIT_%202024.pdf) - May 2024 - MIT & Google
 - [Advanced FHE protocols for the blockchain](https://iacr.org/submit/files/slides/2024/rwc/rwc2024/5/slides.pptx) - ‍‍March 2024 - RWC 2024
