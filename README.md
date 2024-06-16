@@ -136,14 +136,21 @@ Zama's blog posts sorted by date
 ## Research papers and publications
 Research papers and publications by the Zama team sorted by date
 
+- Leveraging small message spaces for CCA1 security in additively homomorphic and BGN-type encryption [[ePrint version](https://ia.cr/2024/920)] - June 2024 - ePrint Archive
+- Approximate CRT-based gadget decomposition and application to TFHE blind rotation [[ePrint version](https://ia.cr/2024/909)] - June 2024 - ePrint Archive
+- [Lightweight asynchronous verifiable secret sharing with optimal resilience](https://doi.org/10.1007/s00145-024-09505-6) [[ePrint version](https://ia.cr/2023/536)] - ‍June 2024 - Journal of Cryptology
 - [Crypto dark matter on the torus: Oblivious PRFs from shallow PRFs and TFHE](https://doi.org/10.1007/978-3-031-58751-1_16) - May 2024 - EUROCRYPT 2024
-- [TFHE public-key encryption revisited](https://doi.org/10.1007/978-3-031-58868-6_11) - May 2024 - CT-RSA 2024
+- Detecting rogue decryption in (threshold) encryption via self-incriminating proofs [[ePrint version](https://ia.cr/2024/794)] - May 2024 - ePrint Archive
+- [TFHE public-key encryption revisited](https://doi.org/10.1007/978-3-031-58868-6_11) [[ePrint version](https://ia.cr/2023/603)] - May 2024 - CT-RSA 2024
 - Homomorphic evaluation of LWR-based PRFs and application to transciphering [[ePrint version](https://ia.cr/2024/665)] - April 2024 - ePrint Archive
-- [Simulation-extractable KZG polynomial commitments and applications to HyperPlonk](https://doi.org/10.1007/978-3-031-57722-2_3) - April 2024 - PKC 2024
+- Faster private decision tree evaluation for batched input from homomorphic encryption [[ePrint version](https://ia.cr/2024/662)] - April 2024 - ePrint Archive
+- [Simulation-extractable KZG polynomial commitments and applications to HyperPlonk](https://doi.org/10.1007/978-3-031-57722-2_3) [[ePrint version](https://ia.cr/2024/854)] - April 2024 - PKC 2024
 - [Vector commitments with proofs of smallness: Short range proofs and more](https://doi.org/10.1007/978-3-031-57722-2_2) [[ePrint version](https://ia.cr/2023/800)] - April 2024 - PKC 2024
 - Towards verifiable FHE in practice: Proving correct execution of TFHE's bootstrapping using plonky2 [[ePrint version](https://ia.cr/2024/451)] - March 2024 - ePrint Archive
+- [A new approach to efficient and secure fixed-point computation](https://doi.org/10.1007/978-3-031-54770-6_3) [[ePrint version](https://ia.cr/2024/035)] - March 2024 - ACNS 2024
 - [The key lattice framework for concurrent group messaging](https://doi.org/10.1007/978-3-031-54773-7_6) [[ePrint version](https://ia.cr/2022/1531)] - March 2024 - ACNS 2024
 - [A new approach to efficient and secure fixed-point computation](https://doi.org/10.1007/978-3-031-54770-6_3) [[ePrint version](https://ia.cr/2024/035)] - March 2024 - ACNS 2024
+- Improved all-but-one vector commitment with applications to post-quantum signatures  [[ePrint version](https://ia.cr/2024/097)] - January 2024 - ePrint Archive
 - Neural network training on encrypted data with TFHE [[arXiv version](https://arxiv.org/abs/2401.16136)] - January 2024 - arXiv<!-- markdown-link-check-disable-next-line -->
 - [Computing e-th roots in number fields](https://doi.org/10.1137/1.9781611977929.16) [[arXiv version](https://arxiv.org/abs/2305.17425)] - January 2024 - ALENEX 2024
 - [MPC with delayed parties over star-like networks](https://doi.org/10.1007/978-981-99-8721-4_6) [[ePrint version](https://ia.cr/2023/096)] - December 2023 - ASIACRYPT 2023
@@ -155,6 +162,7 @@ Research papers and publications by the Zama team sorted by date
 - [Improved distributed RSA key generation using the Miller-Rabin test](https://doi.org/10.1145/3576915.3623163) - November 2023 - CCS 2023
 - Updatable privacy-preserving blueprints [[ePrint version](https://ia.cr/2023/1787)] - November 2023 - ePrint Archive
 - [SoK: Privacy-enhancing technologies in finance](https://doi.org/10.4230/LIPIcs.AFT.2023.12) [[ePrint version](https://ia.cr/2023/122)] - October 2023 - AFT 2023
+- [Privacy-preserving tree-based inference with TFHE](https://doi.org/10.1007/978-3-031-52426-4_10) [[ePrint version](https://ia.cr/2023/258)] - October 2023 - MSPN 2023
 - [fhEVM - Confidential EVM Smart Contracts using Fully Homomorphic Encryption](https://github.com/zama-ai/fhevm/blob/main/fhevm-whitepaper.pdf) - September 2023 - White paper
 - [On the precision loss in approximate homomorphic encryption](https://doi.org/10.1007/978-3-031-53368-6_16) [[ePrint version](https://ia.cr/2022/162)] - August 2023 - SAC 2023
 - [Attribute-based single sign-on: Secure, private, and efficient](https://doi.org/10.56553/popets-2023-0097) [[ePrint version](https://ia.cr/2023/915)] - July 2023 - PoPETs 2023
@@ -165,14 +173,10 @@ Research papers and publications by the Zama team sorted by date
 - [Topical Collection on Computing on Encrypted Data](https://doi.org/10.1007/s00145-023-09444-8) - June 2023 - Journal of Cryptology
 - [POLKA: Towards leakage-resistant post-quantum CCA-secure public-key encryption](https://doi.org/10.1007/978-3-031-31368-4_5) [[ePrint version](https://eprint.iacr.org/2022/873)] - ‍May 2023 - PKC 2023
 - [On-line/Off-line DCR-based homomorphic encryption and applications](https://doi.org/10.1007/978-3-031-30872-7_5) [[ePrint version](https://ia.cr/2023/048)] - April 2023 - CT-RSA 2023
-- TFHE public-key encryption revisited [[ePrint version](https://ia.cr/2023/603)] - April 2023 - ePrint Archive
-- Lightweight asynchronous verifiable secret sharing with optimal resilience [[ePrint version](https://ia.cr/2023/536)] - April 2023 - ePrint Archive
 - [Differential fault analysis](https://doi.org/10.1007/978-3-642-27739-9_1707-1) ‍‍‍- March 2023 - Encyclopedia of Cryptography, Security and Privacy
 - [Improving convergence and practicality of slide-type reductions](https://doi.org/10.1016/j.ic.2023.105012) [[ePrint version](https://ia.cr/2023/140)] - March 2023 - Information and Computation
-- [Privacy-preserving tree-based inference with TFHE](https://link.springer.com/chapter/10.1007/978-3-031-52426-4_10) [[ePrint version](https://ia.cr/2023/258)] - February 2023 - ePrint Archive
 - On side-channel and CVO attacks against TFHE and FHEW [[ePrint version](https://ia.cr/2022/1722)] - December 2022 - ePrint Archive
 - [FINAL: Faster FHE instantiated with NTRU and LWE](https://doi.org/10.1007/978-3-031-22966-4_7) [[ePrint version](https://ia.cr/2022/074)] - ‍December 2022 - ASIACRYPT 2022
-- The key lattice framework for concurrent group messaging [[ePrint version](https://ia.cr/2022/1531)] - November 2022 - ePrint Archive
 - [Liberating TFHE: Programmable bootstrapping with general quotient polynomials](https://doi.org/10.1145/3560827.3563376) [[ePrint version](https://ia.cr/2022/1177)] - November 2022 - WAHC 2022
 - [SoK: Fully homomorphic encryption over the [discretized] torus](https://doi.org/10.46586/tches.v2022.i4.661-692) [[ePrint version](https://ia.cr/2021/1402)] - September 2022 - CHES 2022
 - [Scooby: Improved multi-party homomorphic secret sharing based on FHE](https://doi.org/10.1007/978-3-031-14791-3_24) [[ePrint version](https://ia.cr/2022/862)] - September 2022 - SCN 2022
