@@ -201,6 +201,8 @@ Research papers and publications by the Zama team sorted by date
 
 ## Contributed talks, posters and presentations
 Contributed talks and posters by the Zama team sorted by date
+- [TFHE Public-Key Encryption Revisited](data/TFHE_Public-Key_Encryption_Revisited.pdf) - May 2024 - RSA Conference 2024
+- [IP protection & privacy in LLM: Leveraging Fully Homomorphic Encryption](data/RSA2024.pdf) - May 2024 - RSA Conference 2024
 - [Concrete ML Privacy Preserving Machine Learning with Fully Homomorphic Encryption](https://github.com/zama-ai/awesome-zama/blob/main/data/ConcreteMLPresentationZamaMeetupZurich2024.pdf) - May 2024 - Zama Meetup in Zurich (Part of Eurocrypt 2024)
 - [The Zama fhEVM: Confidential smart contracts using FHE + ZK + MPC](https://github.com/zama-ai/awesome-zama/blob/main/data/fhEVMPresentationZamaMeetupZurich2024.pdf) - May 2024 - Zama Meetup in Zurich (Part of Eurocrypt 2024)
 - [Privacy-Preserving ML with Fully Homomorphic Encryption](https://github.com/zama-ai/awesome-zama/blob/main/data/PPMLMIT2024.pdf) - May 2024 - MIT & Google
