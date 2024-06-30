@@ -136,10 +136,12 @@ Zama's blog posts sorted by date
 ## Research papers and publications
 Research papers and publications by the Zama team sorted by date
 
+- [Machine learning training on encrypted data with TFHE](https://doi.org/10.1145/3643651.3659891) - June 2024 - IWSPA 2024
 - Leveraging small message spaces for CCA1 security in additively homomorphic and BGN-type encryption [[ePrint version](https://ia.cr/2024/920)] - June 2024 - ePrint Archive
 - Approximate CRT-based gadget decomposition and application to TFHE blind rotation [[ePrint version](https://ia.cr/2024/909)] - June 2024 - ePrint Archive
 - [Lightweight asynchronous verifiable secret sharing with optimal resilience](https://doi.org/10.1007/s00145-024-09505-6) [[ePrint version](https://ia.cr/2023/536)] - ‍June 2024 - Journal of Cryptology
 - [Crypto dark matter on the torus: Oblivious PRFs from shallow PRFs and TFHE](https://doi.org/10.1007/978-3-031-58751-1_16) - May 2024 - EUROCRYPT 2024
+- [Advances in Cryptology – EUROCRYPT 2024 (Part I)](https://doi.org/10.1007/978-3-031-58716-0) [(Part II)](https://doi.org/10.1007/978-3-031-58723-8) [(Part III)](https://doi.org/10.1007/978-3-031-58734-4) [(Part IV)](https://doi.org/10.1007/978-3-031-58737-5) [(Part V)](https://doi.org/10.1007/978-3-031-58740-5) [(Part VI)](https://doi.org/10.1007/978-3-031-58751-1) [(Part VII)](https://doi.org/10.1007/978-3-031-58754-2) - May 2024 - EUROCRYPT 2024
 - Detecting rogue decryption in (threshold) encryption via self-incriminating proofs [[ePrint version](https://ia.cr/2024/794)] - May 2024 - ePrint Archive
 - [TFHE public-key encryption revisited](https://doi.org/10.1007/978-3-031-58868-6_11) [[ePrint version](https://ia.cr/2023/603)] - May 2024 - CT-RSA 2024
 - Homomorphic evaluation of LWR-based PRFs and application to transciphering [[ePrint version](https://ia.cr/2024/665)] - April 2024 - ePrint Archive
@@ -169,6 +171,7 @@ Research papers and publications by the Zama team sorted by date
 - [Computing on encrypted data](https://doi.org/10.1109/MSEC.2023.3279517) - July 2023 - IEEE Security & Privacy
 - Faster secret keys for (T)FHE [[ePrint version](https://ia.cr/2023/979)] - June 2023 - ePrint Archive
 - [Deep neural networks for encrypted inference with TFHE](https://doi.org/10.1007/978-3-031-34671-2_34) [[ePrint version](https://ia.cr/2023/257)] - June 2023 - CSCML 2023<!-- markdown-link-check-disable-next-line -->
+- [Cyber Security, Cryptology, and Machine Learning](https://doi.org/10.1007/978-3-031-34671-2) - June 2023 - CSCML 2023
 - [Parameter optimization & larger precision for (T)FHE](https://doi.org/10.1007/s00145-023-09463-5) [[ePrint version](https://ia.cr/2022/704)] - ‍June 2023 - Journal of Cryptology
 - [Topical Collection on Computing on Encrypted Data](https://doi.org/10.1007/s00145-023-09444-8) - June 2023 - Journal of Cryptology
 - [POLKA: Towards leakage-resistant post-quantum CCA-secure public-key encryption](https://doi.org/10.1007/978-3-031-31368-4_5) [[ePrint version](https://eprint.iacr.org/2022/873)] - ‍May 2023 - PKC 2023
