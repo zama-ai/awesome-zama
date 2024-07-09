@@ -201,6 +201,8 @@ Research papers and publications by the Zama team sorted by date
 
 ## Contributed talks, posters and presentations
 Contributed talks and posters by the Zama team sorted by date
+
+- [FHE on Ethereum — Zama presentation at The CoFHE Shop during EthCC7](https://www.youtube.com/watch?v=WngC5cvV_fc) - July 2024 - EthCC
 - [TFHE Public-Key Encryption Revisited](data/TFHE_Public-Key_Encryption_Revisited.pdf) - May 2024 - RSA Conference 2024
 - [IP protection & privacy in LLM: Leveraging Fully Homomorphic Encryption (Video)](https://www.youtube.com/watch?v=lmIgGD8csy0) - May 2024 - RSA Conference 2024
 - [IP protection & privacy in LLM: Leveraging Fully Homomorphic Encryption](data/RSA2024.pdf) - May 2024 - RSA Conference 2024
