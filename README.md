@@ -94,6 +94,8 @@ Tutorials by the Zama team sorted by date
 ## Blog posts
 Zama's blog posts sorted by date
 ### Product releases
+- [Zama Product Releases - July 2024](https://www.zama.ai/post/zama-product-releases---july)
+- [Zama Product Releases - April 2024](https://www.zama.ai/post/zama-product-releases-april-2024)
 - [Zama Product Releases - January 2024](https://www.zama.ai/post/zama-product-releases-january-2024)
 - [Zama Product Releases - October 2023](https://www.zama.ai/post/zama-product-releases-october-2023)
 - [Zama Product Releases - July 2023](https://www.zama.ai/post/zama-product-releases-july-2023)
@@ -104,6 +106,7 @@ Zama's blog posts sorted by date
 - [Zama Product Releases - April 2022](https://www.zama.ai/post/zama-product-announcement-april-2022)
 
 ### Announcements
+- [Zama Bounty Program Season 6](https://www.zama.ai/post/zama-bounty-program-season-6) - June 2024
 - [The Zama FHE Master Plan](https://www.zama.ai/post/zama-fhe-master-plan) - March 2024
 - [Introducing the Zama Grant Program and launching the Zama Bounty Program season 5](https://www.zama.ai/post/introducing-the-zama-grant-program-and-launching-the-zama-bounty-program-season-5) - February 2024
 - [Zama Bounty Program Season 3](https://www.zama.ai/post/zama-bounty-program-season-3) - May 2023
@@ -201,6 +204,10 @@ Research papers and publications by the Zama team sorted by date
 
 ## Contributed talks, posters and presentations
 Contributed talks and posters by the Zama team sorted by date
+- [Unlocking Regulated Use Cases for Privacy: Preserving Stablecoins](https://streameth.org/stable_summit/watch?session=668a76d16c180915b827aa38) July 2024 - Stable Summit
+- [Threshold Key Generation and Decryption for fhEVM Chains](https://www.youtube.com/watch?v=upKFexrGoUE) - July 2024 - EthCC 7
+- [Decentralized AI: Safeguarding Privacy with FHE ](https://www.youtube.com/watch?v=a6dQQSaEtJM) - July 2024 - EthCC 7
+- [FHE on Ethereum](https://www.youtube.com/watch?v=WngC5cvV_fc) July 2024 - EthCC 7
 - [Privacy-Preserving Machine Learning](data/AgoraCloudBruxelles2024.pdf) - June 2024 - Agora Cloud event 2024 (Organized by European Commission)
 - [TFHE Public-Key Encryption Revisited](data/TFHE_Public-Key_Encryption_Revisited.pdf) - May 2024 - RSA Conference 2024
 - [IP protection & privacy in LLM: Leveraging Fully Homomorphic Encryption (Video)](https://www.youtube.com/watch?v=lmIgGD8csy0) - May 2024 - RSA Conference 2024
