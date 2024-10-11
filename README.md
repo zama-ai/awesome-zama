@@ -35,6 +35,7 @@ Zama's FHE libraries and solutions.
 ## Demos
 Demos by Zama sorted by date
 
+- [Encrypted DNA Testing Using Fully Homomorphic Encryption](https://huggingface.co/spaces/zama-fhe/encrypted_dna)
 - [Encrypted anonymization using FHE](https://huggingface.co/spaces/zama-fhe/encrypted-anonymization)
 - [Encrypted credit card approval prediction using FHE](https://huggingface.co/spaces/zama-fhe/credit_card_approval_prediction)
 - [Encrypted sentiment analysis using FHE](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis)
@@ -98,6 +99,7 @@ Tutorials by the Zama team sorted by date
 ## Blog posts
 Zama's blog posts sorted by date
 ### Product releases
+- [Zama Product Releases - October 2024](https://www.zama.ai/post/zama-product-releases-october-2024)
 - [Zama Product Releases - July 2024](https://www.zama.ai/post/zama-product-releases---july)
 - [Zama Product Releases - April 2024](https://www.zama.ai/post/zama-product-releases-april-2024)
 - [Zama Product Releases - January 2024](https://www.zama.ai/post/zama-product-releases-january-2024)
