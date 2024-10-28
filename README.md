@@ -47,6 +47,7 @@ Demos by Zama sorted by date
 Tutorials by the Zama team sorted by date
 
 ### TFHE-rs
+- [[Video tutorial] Perform array and tensor operations on encrypted data using TFHE-rs](https://www.zama.ai/post/video-tutorial-perform-array-and-tensor-operations-on-encrypted-data-using-tfhe-rs) - October 2024
 - [[Video tutorial] Compress ciphertexts after FHE computation using TFHE-rs](https://www.zama.ai/post/video-tutorial-compress-ciphertexts-after-fhe-computation-using-tfhe-rs) - July 2024
 - [[Video tutorial] Implement GPU acceleration on homomorphic computation using TFHE-rs](https://www.zama.ai/post/video-tutorial-implement-gpu-acceleration-on-homomorphic-computation-using-tfhe-rs) - May 2024
 - [[Video tutorial] Implement signed integers using TFHE-rs](https://www.zama.ai/post/video-tutorial-implement-signed-integers-ssing-tfhe-rs) - November 2023
@@ -56,6 +57,7 @@ Tutorials by the Zama team sorted by date
 
 
 ### Concrete 
+- [[Video tutorial] Use the TFHE-rs interoperability feature in Concrete](https://www.zama.ai/post/video-tutorial-use-the-tfhe-rs-interoperability-feature-in-concrete) - October 2024
 - [[Video tutorial] Implement GPU acceleration in FHE using Concrete](https://www.zama.ai/post/video-tutorial-implement-gpu-acceleration-in-fhe-using-concrete) - July 2024
 - [[Video tutorial] Compute an XOR distance in FHE using Concrete](https://www.zama.ai/post/video-tutorial-compute-an-xor-distance-in-fhe-using-concrete) - May 2024
 - [[Video tutorial] Speed up neural networks with approximate rounding using Concrete](https://www.zama.ai/post/video-tutorial-speed-up-neural-networks-with-approximate-rounding-using-concrete) - May 2024
@@ -69,6 +71,7 @@ Tutorials by the Zama team sorted by date
 - [Encrypted search using fully homomorphic encryption](https://www.zama.ai/post/encrypted-search-using-fully-homomorphic-encryption) - February 2022
 
 ### Concrete ML
+- [[Video tutorial] Build an encrypted DNA testing with FHE using Concrete ML](https://www.zama.ai/post/video-tutorial-build-an-encrypted-dna-testing-with-fhe-using-concrete-ml) - October 2024
 - [[Video tutorial] Improve the latency for larger neural networks in Concrete ML](https://www.zama.ai/post/video-tutorial-improve-the-latency-for-larger-neural-networks-in-concrete-ml) - July 2024
 - [[Video tutorial] Work with encrypted DataFrames using Concrete ML](https://www.zama.ai/post/video-tutorial-work-with-encrypted-dataframes-using-concrete-ml) - May 2024
 - [Running privacy-preserving inferences on Hugging Face endpoints](https://huggingface.co/blog/fhe-endpoints) - April 2024
