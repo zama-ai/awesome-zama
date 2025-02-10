@@ -71,6 +71,7 @@ Tutorials by the Zama team sorted by date
 - [Encrypted search using fully homomorphic encryption](https://www.zama.ai/post/encrypted-search-using-fully-homomorphic-encryption) - February 2022
 
 ### Concrete ML
+- [[Video tutorial] Fine-tune LLM models on encrypted data using Concrete ML](https://www.zama.ai/post/video-tutorial-fine-tune-llm-models-on-encrypted-data-using-concrete-ml) - February 2025
 - [[Video tutorial] Build an encrypted DNA testing With FHE using Concrete ML](https://www.zama.ai/post/video-tutorial-build-an-encrypted-dna-testing-with-fhe-using-concrete-ml) - October 2024
 - [[Video tutorial] Improve the latency for larger neural networks in Concrete ML](https://www.zama.ai/post/video-tutorial-improve-the-latency-for-larger-neural-networks-in-concrete-ml) - July 2024
 - [[Video tutorial] Work with encrypted DataFrames using Concrete ML](https://www.zama.ai/post/video-tutorial-work-with-encrypted-dataframes-using-concrete-ml) - May 2024
