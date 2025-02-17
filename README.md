@@ -19,7 +19,7 @@
    - [Announcements](#announcements)
    - [Engineering articles](#engineering-articles)
 - [Research papers and publications](#research-papers-and-publications)
-- [Talks, posters and presentations](#contributed-talks-posters-and-presentations)
+- [Talks, posters and presentations](#talks-posters-and-presentations)
 <br></br>
 
 ## Libraries and solutions
@@ -213,8 +213,8 @@ Research papers and publications by the Zama team sorted by date
 - [SANNS: Scaling up secure approximate k-nearest neighbors search](https://www.usenix.org/conference/usenixsecurity20/presentation/chen-hao) - August 2020 - USENIX 2020
 <br></br>
 
-## Contributed talks, posters and presentations
-Contributed talks and posters by the Zama team sorted by date
+## Talks, posters and presentations
+**Peer-reviwed** talks and posters by the Zama team sorted by date
 - [TFHE public-key encryption revisited](data/TFHE_Public-Key_Encryption_Revisited.pdf) - May 2024 - RSA Conference 2024
 - [IP protection & privacy in LLM: Leveraging Fully Homomorphic Encryption (Video)](https://www.youtube.com/watch?v=lmIgGD8csy0) - May 2024 - RSA Conference 2024
 - [IP protection & privacy in LLM: Leveraging Fully Homomorphic Encryption](data/RSA2024.pdf) - May 2024 - RSA Conference 2024
@@ -239,8 +239,7 @@ Contributed talks and posters by the Zama team sorted by date
 - [Performance of hierarchical transforms in homomorphic encryption: A case study on logistic regression inference](https://github.com/FHE-org/fhe-org.github.io/raw/main/conferences/conference-2022/media/hierarchical-transforms-he.pdf) - May 2022 - FHE.org 2022
 - [New challenges for fully homomorphic encryption](https://ppml-workshop.github.io/ppml20/pdfs/Chillotti_et_al.pdf) - December 2020 - PPML 2020
 
-## Invited talks and other presentations
-Other talks and presentations by the Zama team sorted by date
+**Invited and self-hosted** presentations by the Zama team sorted by date
 - [Unlocking regulated use cases for privacy: Preserving stablecoins](https://streameth.org/stable_summit/watch?session=668a76d16c180915b827aa38) July 2024 - Stable Summit
 - [Threshold key generation and decryption for fhEVM Chains](https://www.youtube.com/watch?v=upKFexrGoUE) - July 2024 - EthCC 7
 - [Decentralized AI: Safeguarding privacy with FHE ](https://www.youtube.com/watch?v=a6dQQSaEtJM) - July 2024 - EthCC 7
