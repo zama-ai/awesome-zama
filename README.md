@@ -156,6 +156,10 @@ Zama's blog posts sorted by date
 ## Research papers and publications
 Research papers and publications by the Zama team sorted by date
 
+- Drifting towards better error probabilities in fully homomorphic encryption schemes [[ePrint version](https://ia.cr/2024/1718)] - October 2024 - ePrint Archive
+- [Faster private decision tree evaluation for batched input from homomorphic encryption](https://doi.org/10.1007/978-3-031-71073-5_1) - September 2024- SCN 2024
+- [Panacea: Non-interactive and stateless oblivious RAM](https://doi.org/10.1109/EuroSP60621.2024.00049) - July 2024 - EuroS&P 2024
+- What have SNARGs ever done for FHE? [[ePrint version](https://ia.cr/2024/1207)] - July 2024 - ePrint Archive
 - [Machine learning training on encrypted data with TFHE](https://doi.org/10.1145/3643651.3659891) - June 2024 - IWSPA 2024
 - Leveraging small message spaces for CCA1 security in additively homomorphic and BGN-type encryption [[ePrint version](https://ia.cr/2024/920)] - June 2024 - ePrint Archive
 - Approximate CRT-based gadget decomposition and application to TFHE blind rotation [[ePrint version](https://ia.cr/2024/909)] - June 2024 - ePrint Archive
@@ -222,18 +226,17 @@ Research papers and publications by the Zama team sorted by date
 - [SANNS: Scaling up secure approximate k-nearest neighbors search](https://www.usenix.org/conference/usenixsecurity20/presentation/chen-hao) - August 2020 - USENIX 2020
 <br></br>
 
-## Contributed talks, posters and presentations
+## Contributed talks and posters
 Contributed talks and posters by the Zama team sorted by date
-- [Unlocking regulated use cases for privacy: Preserving stablecoins](https://streameth.org/stable_summit/watch?session=668a76d16c180915b827aa38) July 2024 - Stable Summit
+- Towards verifiable FHE in practice - October 2024 - zkSummit 12
+- [Unlocking regulated use cases for privacy: Preserving stablecoins](https://streameth.org/stable_summit/watch?session=668a76d16c180915b827aa38) - July 2024 - Stable Summit
 - [Threshold key generation and decryption for fhEVM Chains](https://www.youtube.com/watch?v=upKFexrGoUE) - July 2024 - EthCC 7
 - [Decentralized AI: Safeguarding privacy with FHE ](https://www.youtube.com/watch?v=a6dQQSaEtJM) - July 2024 - EthCC 7
 - [FHE on Ethereum](https://www.youtube.com/watch?v=WngC5cvV_fc) July 2024 - EthCC 7
 - [Privacy-preserving machine learning](data/AgoraCloudBruxelles2024.pdf) - June 2024 - Agora Cloud event 2024 (Organized by European Commission)
-- [TFHE public-key encryption revisited](data/TFHE_Public-Key_Encryption_Revisited.pdf) - May 2024 - RSA Conference 2024
-- [IP protection & privacy in LLM: Leveraging Fully Homomorphic Encryption (Video)](https://www.youtube.com/watch?v=lmIgGD8csy0) - May 2024 - RSA Conference 2024
-- [IP protection & privacy in LLM: Leveraging Fully Homomorphic Encryption](data/RSA2024.pdf) - May 2024 - RSA Conference 2024
-- [Concrete ML privacy preserving machine learning with Fully Homomorphic Encryption](https://github.com/zama-ai/awesome-zama/blob/main/data/ConcreteMLPresentationZamaMeetupZurich2024.pdf) - May 2024 - Zama Meetup in Zurich (Part of Eurocrypt 2024)
-- [The Zama fhEVM: Confidential smart contracts using FHE + ZK + MPC](https://github.com/zama-ai/awesome-zama/blob/main/data/fhEVMPresentationZamaMeetupZurich2024.pdf) - May 2024 - Zama Meetup in Zurich (Part of Eurocrypt 2024)
+- [IP protection & privacy in LLM: Leveraging Fully Homomorphic Encryption](data/RSA2024.pdf) [[video](https://www.youtube.com/watch?v=lmIgGD8csy0)] - May 2024 - RSA Conference 2024
+- [Concrete ML privacy preserving machine learning with Fully Homomorphic Encryption](https://github.com/zama-ai/awesome-zama/blob/main/data/ConcreteMLPresentationZamaMeetupZurich2024.pdf) - May 2024 - Zama Meetup in Zurich (co-located with Eurocrypt 2024)
+- [The Zama fhEVM: Confidential smart contracts using FHE + ZK + MPC](https://github.com/zama-ai/awesome-zama/blob/main/data/fhEVMPresentationZamaMeetupZurich2024.pdf) - May 2024 - Zama Meetup in Zurich (co-located with Eurocrypt 2024)
 - [Privacy-preserving ML with Fully Homomorphic Encryption (Video)](https://www.youtube.com/watch?v=g1Zlu63TP0Y) - May 2024 - Google TechTalks
 - [Privacy-preserving ML with Fully Homomorphic Encryption](https://github.com/zama-ai/awesome-zama/blob/main/data/PPMLMIT2024.pdf) - May 2024 - MIT & Google
 - [Advanced FHE protocols for the blockchain](https://iacr.org/submit/files/slides/2024/rwc/rwc2024/5/slides.pptx) - ‍‍March 2024 - RWC 2024
