@@ -8,6 +8,7 @@
 ## Table of contents
 
 - [Libraries and solutions](#libraries-and-solutions)
+- [White papers](#white-papers)
 - [Demos](#demos)
 - [Tutorials](#tutorials)
    - [TFHE-rs](#tfhe-rs)
@@ -23,7 +24,7 @@
 <br></br>
 
 ## Libraries and solutions
-Zama's FHE libraries and solutions.
+Zama's FHE libraries and solutions
 
 - [TFHE-rs](https://github.com/zama-ai/tfhe-rs): A pure Rust implementation of the TFHE scheme for Boolean and integer arithmetics over encrypted data.
 - [Concrete](https://github.com/zama-ai/concrete): TFHE compiler that converts python programs into FHE equivalents.
@@ -32,10 +33,16 @@ Zama's FHE libraries and solutions.
 - [Zama Bounty Program](https://github.com/zama-ai/bounty-program): Contribute to Zama's open source libraries and get rewarded. More than €500,000 available in prizes.
 <br></br>
 
+## White papers
+White papers by Zama sorted by date
+- [TFHE-rs: A Practiccal Handbook First Edition](https://github.com/zama-ai/tfhe-rs-handbook/blob/main/tfhe-rs-handbook.pdf) - Feburary 2025
+- [fhEVM V2: Confidential EVM Smart Contrats using Fully Homomorphic Encryption](https://github.com/zama-ai/httpz-solidity/blob/main/fhevm-whitepaper-v2.pdf) - December 2024
+- [fhEVM: Confidential EVM Smart Contrats using Fully Homomorphic Encryption](https://github.com/zama-ai/httpz-solidity/blob/main/fhevm-whitepaper.pdf) - September 2023
+
 ## Demos
 Demos by Zama sorted by date
 
-- [Encrypted DNA Testing Using Fully Homomorphic Encryption](https://huggingface.co/spaces/zama-fhe/encrypted_dna)
+- [Encrypted DNA testing using Fully Homomorphic Encryption](https://huggingface.co/spaces/zama-fhe/encrypted_dna)
 - [Encrypted anonymization using FHE](https://huggingface.co/spaces/zama-fhe/encrypted-anonymization)
 - [Encrypted credit card approval prediction using FHE](https://huggingface.co/spaces/zama-fhe/credit_card_approval_prediction)
 - [Encrypted sentiment analysis using FHE](https://huggingface.co/spaces/zama-fhe/encrypted_sentiment_analysis)
@@ -117,6 +124,8 @@ Zama's blog posts sorted by date
 - [Zama Product Releases - April 2022](https://www.zama.ai/post/zama-product-announcement-april-2022)
 
 ### Announcements
+- [Zama Bounty Program Season 8](https://www.zama.ai/post/zama-bounty-program-season-8) - March 2025
+- [TFHE-rs v1.0: Stable CPU backend](https://www.zama.ai/post/tfhe-rs-v1-0-stable-cpu-backend) - Feruary 2025
 - [Zama Bounty Program Season 7](https://www.zama.ai/post/zama-bounty-program-season-7) - December 2024
 - [Introducing the fhEVM Coprocessor: Run FHE smart contracts on Ethereum, Base, and other EVM chains](https://www.zama.ai/post/fhevm-coprocessor) - December 2024
 - [Kinexys by J.P. Morgan releases a Proof-of-concept focused on the financial sector leveraging Zama’s privacy-preserving solutions](https://www.zama.ai/post/kinexys-by-jpmorgan-releases-a-proof-of-concept-leveraging-zama-fhevm) - November 2024
@@ -131,6 +140,10 @@ Zama's blog posts sorted by date
 - [How we hire at Zama](https://www.zama.ai/post/how-we-hire-at-zama) - October 2021
 
 ### Engineering articles
+- [Building an onchain confidential single-price auction for token sales with sealed bids using Zama's fhEVM](https://www.zama.ai/post/onchain-confidential-single-price-auction-tokens-with-sealed-bids-using-zama-fhevm) - March 2025
+- [The next chapter for stablecoins: Built-in confidentiality using FHE](https://www.zama.ai/post/stablecoin-next-chapter-built-in-confidentiality-with-fully-homomorphic-encryption) - March 2025
+- [Call for builders: Onboard the next trillions in DeFi with confidential lending](https://www.zama.ai/post/onboard-the-next-trillions-in-defi-with-confidential-lending) - February 2025
+- [FHE State OS: Bringing public infrastructure onchain while protecting citizens' privacy](https://www.zama.ai/post/fhe-state-os-bringing-public-infrastructure-onchain-while-protecting-citizens-privacy) - February 2025
 - [Suffragium: An encrypted onchain voting system leveraging ZK and FHE using Zama's fhEVM](https://www.zama.ai/post/encrypted-onchain-voting-using-zk-and-fhe-with-zama-fhevm) - November 2024
 - [Winning the TikTok Hackathon using Zama's Concrete ML and Fully Homomorphic Encryption](https://www.zama.ai/post/winning-tiktok-hackathon-using-zama-concrete-ml-and-fully-homomorphic-encryption) - October 2024
 - [Making FHE faster for ML: beating our previous paper benchmarks with Concrete ML](https://www.zama.ai/post/making-fhe-faster-for-ml-beating-our-previous-paper-benchmarks-with-concrete-ml) - July 2024
