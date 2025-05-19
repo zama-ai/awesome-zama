@@ -35,7 +35,7 @@ Zama's FHE libraries and solutions
 
 ## White papers
 White papers by Zama sorted by date
-- [TFHE-rs: A Practiccal Handbook First Edition](https://github.com/zama-ai/tfhe-rs-handbook/blob/main/tfhe-rs-handbook.pdf) - Feburary 2025
+- [TFHE-rs: A Practical Handbook First Edition](https://github.com/zama-ai/tfhe-rs-handbook/blob/main/tfhe-rs-handbook.pdf) - Feburary 2025
 - [fhEVM V2: Confidential EVM Smart Contrats using Fully Homomorphic Encryption](https://github.com/zama-ai/httpz-solidity/blob/main/fhevm-whitepaper-v2.pdf) - December 2024
 - [fhEVM: Confidential EVM Smart Contrats using Fully Homomorphic Encryption](https://github.com/zama-ai/httpz-solidity/blob/main/fhevm-whitepaper.pdf) - September 2023
 
@@ -54,6 +54,7 @@ Demos by Zama sorted by date
 Tutorials by the Zama team sorted by date
 
 ### TFHE-rs
+- [[Video Tutorial] Improving multiple-GPU throughput using TFHE-rs](https://www.zama.ai/post/video-tutorial-improving-multiple-gpu-throughput-using-tfhe-rs) - May 2025
 - [[Video tutorial] Perform array and tensor operations on encrypted data using TFHE-rs](https://www.zama.ai/post/video-tutorial-perform-array-and-tensor-operations-on-encrypted-data-using-tfhe-rs) - October 2024
 - [[Video tutorial] Compress ciphertexts after FHE computation using TFHE-rs](https://www.zama.ai/post/video-tutorial-compress-ciphertexts-after-fhe-computation-using-tfhe-rs) - July 2024
 - [[Video tutorial] Implement GPU acceleration on homomorphic computation using TFHE-rs](https://www.zama.ai/post/video-tutorial-implement-gpu-acceleration-on-homomorphic-computation-using-tfhe-rs) - May 2024
@@ -64,6 +65,7 @@ Tutorials by the Zama team sorted by date
 
 
 ### Concrete 
+- [[Video tutorial] Integrate Python FHE modules in Rust using Concrete](https://www.zama.ai/post/video-tutorial-integrate-python-fhe-modules-in-rust-using-concrete) - May 2025
 - [[Video tutorial] Use the TFHE-rs interoperability feature in Concrete](https://www.zama.ai/post/video-tutorial-use-the-tfhe-rs-interoperability-feature-in-concrete) - October 2024
 - [[Video tutorial] Implement GPU acceleration in FHE using Concrete](https://www.zama.ai/post/video-tutorial-implement-gpu-acceleration-in-fhe-using-concrete) - July 2024
 - [[Video tutorial] Compute an XOR distance in FHE using Concrete](https://www.zama.ai/post/video-tutorial-compute-an-xor-distance-in-fhe-using-concrete) - May 2024
@@ -110,6 +112,7 @@ Tutorials by the Zama team sorted by date
 ## Blog posts
 Zama's blog posts sorted by date
 ### Product releases
+- [Zama Product Releases - April 2025](https://www.zama.ai/post/zama-product-releases-april-2025)
 - [Zama Product Releases - January 2025](https://www.zama.ai/post/zama-product-releases-january-2025)
 - [Zama Product Releases - October 2024](https://www.zama.ai/post/zama-product-releases-october-2024)
 - [Zama Product Releases - July 2024](https://www.zama.ai/post/zama-product-releases---july)
@@ -124,6 +127,7 @@ Zama's blog posts sorted by date
 - [Zama Product Releases - April 2022](https://www.zama.ai/post/zama-product-announcement-april-2022)
 
 ### Announcements
+- [Introducing Zama’s Threshold Key Management System (TKMS)](https://www.zama.ai/post/introducing-zama-threshold-key-management-system-tkms) - April 2025
 - [Zama Bounty Program Season 8](https://www.zama.ai/post/zama-bounty-program-season-8) - March 2025
 - [TFHE-rs v1.0: Stable CPU backend](https://www.zama.ai/post/tfhe-rs-v1-0-stable-cpu-backend) - Feruary 2025
 - [Zama Bounty Program Season 7](https://www.zama.ai/post/zama-bounty-program-season-7) - December 2024
@@ -140,6 +144,11 @@ Zama's blog posts sorted by date
 - [How we hire at Zama](https://www.zama.ai/post/how-we-hire-at-zama) - October 2021
 
 ### Engineering articles
+- [Building encrypted iOS apps using Fully Homomorphic Encryption](https://www.zama.ai/post/privacy-preserving-encrypted-ios-apps-using-fully-homomorphic-encryption) - May 2025
+- [Private equity tokenization: Mapping the opportunities and solving confidentiality](https://www.zama.ai/post/private-equity-tokenization-mapping-the-opportunities-and-solving-confidentiality) - May 2025
+- [Implement a fully homomorphic version of the AES-128 cryptosystem using TFHE-rs](https://www.zama.ai/post/implement-fhe-aes-128-tfhe-rs) - April 2025
+- [Why private equity needs confidential tokenization](https://www.zama.ai/post/why-private-equity-needs-confidential-tokenization-with-fully-homomorphic-encryption) - April 2025
+- [Encrypted image watermarking using Fully Homomorphic Encryption and Zama Concrete ML](https://www.zama.ai/post/encrypted-image-watermarking-using-fully-homomorphic-encryption) - March 2025
 - [Building an onchain confidential single-price auction for token sales with sealed bids using Zama's fhEVM](https://www.zama.ai/post/onchain-confidential-single-price-auction-tokens-with-sealed-bids-using-zama-fhevm) - March 2025
 - [The next chapter for stablecoins: Built-in confidentiality using FHE](https://www.zama.ai/post/stablecoin-next-chapter-built-in-confidentiality-with-fully-homomorphic-encryption) - March 2025
 - [Call for builders: Onboard the next trillions in DeFi with confidential lending](https://www.zama.ai/post/onboard-the-next-trillions-in-defi-with-confidential-lending) - February 2025
