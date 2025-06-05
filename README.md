@@ -54,7 +54,8 @@ Demos by Zama sorted by date
 Tutorials by the Zama team sorted by date
 
 ### TFHE-rs
-- [[Video Tutorial] Improving multiple-GPU throughput using TFHE-rs](https://www.zama.ai/post/video-tutorial-improving-multiple-gpu-throughput-using-tfhe-rs) - May 2025
+- [[Video tutorial] Introducing Zama’s hardware accelerator for FHE - HPU on FPGA](https://www.zama.ai/post/video-tutorial-introducing-zamas-hardware-accelerator-for-fhe-hpu-on-fpga) - June 2025
+- [[Video tutorial] Improving multiple-GPU throughput using TFHE-rs](https://www.zama.ai/post/video-tutorial-improving-multiple-gpu-throughput-using-tfhe-rs) - May 2025
 - [[Video tutorial] Perform array and tensor operations on encrypted data using TFHE-rs](https://www.zama.ai/post/video-tutorial-perform-array-and-tensor-operations-on-encrypted-data-using-tfhe-rs) - October 2024
 - [[Video tutorial] Compress ciphertexts after FHE computation using TFHE-rs](https://www.zama.ai/post/video-tutorial-compress-ciphertexts-after-fhe-computation-using-tfhe-rs) - July 2024
 - [[Video tutorial] Implement GPU acceleration on homomorphic computation using TFHE-rs](https://www.zama.ai/post/video-tutorial-implement-gpu-acceleration-on-homomorphic-computation-using-tfhe-rs) - May 2024
@@ -127,6 +128,8 @@ Zama's blog posts sorted by date
 - [Zama Product Releases - April 2022](https://www.zama.ai/post/zama-product-announcement-april-2022)
 
 ### Announcements
+- [Announcing the first recipients of the Zama Cryptanalysis Grants](https://www.zama.ai/post/announcing-the-zama-cryptanalysis-grants) - June 2025
+- [Announcing HPU on FPGA: The first open-source hardware accelerator for FHE](https://www.zama.ai/post/announcing-hpu-on-fpga-the-first-open-source-hardware-accelerator-for-fhe) - May 2025
 - [Introducing Zama’s Threshold Key Management System (TKMS)](https://www.zama.ai/post/introducing-zama-threshold-key-management-system-tkms) - April 2025
 - [Zama Bounty Program Season 8](https://www.zama.ai/post/zama-bounty-program-season-8) - March 2025
 - [TFHE-rs v1.0: Stable CPU backend](https://www.zama.ai/post/tfhe-rs-v1-0-stable-cpu-backend) - Feruary 2025
@@ -144,6 +147,7 @@ Zama's blog posts sorted by date
 - [How we hire at Zama](https://www.zama.ai/post/how-we-hire-at-zama) - October 2021
 
 ### Engineering articles
+
 - [Building encrypted iOS apps using Fully Homomorphic Encryption](https://www.zama.ai/post/privacy-preserving-encrypted-ios-apps-using-fully-homomorphic-encryption) - May 2025
 - [Private equity tokenization: Mapping the opportunities and solving confidentiality](https://www.zama.ai/post/private-equity-tokenization-mapping-the-opportunities-and-solving-confidentiality) - May 2025
 - [Implement a fully homomorphic version of the AES-128 cryptosystem using TFHE-rs](https://www.zama.ai/post/implement-fhe-aes-128-tfhe-rs) - April 2025
