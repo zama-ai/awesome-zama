@@ -35,9 +35,9 @@ Zama's FHE libraries and solutions
 
 ## White papers
 White papers by Zama sorted by date
-- [TFHE-rs: A Practical Handbook First Edition](https://github.com/zama-ai/tfhe-rs-handbook/blob/main/tfhe-rs-handbook.pdf) - Feburary 2025
-- [fhEVM V2: Confidential EVM Smart Contrats using Fully Homomorphic Encryption](https://github.com/zama-ai/httpz-solidity/blob/main/fhevm-whitepaper-v2.pdf) - December 2024
-- [fhEVM: Confidential EVM Smart Contrats using Fully Homomorphic Encryption](https://github.com/zama-ai/httpz-solidity/blob/main/fhevm-whitepaper.pdf) - September 2023
+- [TFHE-rs: A Practical Handbook First Edition](https://github.com/zama-ai/tfhe-rs-handbook/blob/main/tfhe-rs-handbook.pdf) - February 2025
+- [fhEVM V2: Confidential EVM Smart Contracts using Fully Homomorphic Encryption](https://github.com/zama-ai/httpz-solidity/blob/main/fhevm-whitepaper-v2.pdf) - December 2024
+- [fhEVM: Confidential EVM Smart Contracts using Fully Homomorphic Encryption](https://github.com/zama-ai/httpz-solidity/blob/main/fhevm-whitepaper.pdf) - September 2023
 
 ## Demos
 Demos by Zama sorted by date
@@ -132,7 +132,7 @@ Zama's blog posts sorted by date
 - [Announcing HPU on FPGA: The first open-source hardware accelerator for FHE](https://www.zama.ai/post/announcing-hpu-on-fpga-the-first-open-source-hardware-accelerator-for-fhe) - May 2025
 - [Introducing Zama’s Threshold Key Management System (TKMS)](https://www.zama.ai/post/introducing-zama-threshold-key-management-system-tkms) - April 2025
 - [Zama Bounty Program Season 8](https://www.zama.ai/post/zama-bounty-program-season-8) - March 2025
-- [TFHE-rs v1.0: Stable CPU backend](https://www.zama.ai/post/tfhe-rs-v1-0-stable-cpu-backend) - Feruary 2025
+- [TFHE-rs v1.0: Stable CPU backend](https://www.zama.ai/post/tfhe-rs-v1-0-stable-cpu-backend) - February 2025
 - [Zama Bounty Program Season 7](https://www.zama.ai/post/zama-bounty-program-season-7) - December 2024
 - [Introducing the fhEVM Coprocessor: Run FHE smart contracts on Ethereum, Base, and other EVM chains](https://www.zama.ai/post/fhevm-coprocessor) - December 2024
 - [Kinexys by J.P. Morgan releases a Proof-of-concept focused on the financial sector leveraging Zama’s privacy-preserving solutions](https://www.zama.ai/post/kinexys-by-jpmorgan-releases-a-proof-of-concept-leveraging-zama-fhevm) - November 2024
