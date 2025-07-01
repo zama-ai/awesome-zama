@@ -153,7 +153,7 @@ Zama's blog posts sorted by date
 - [Implement a fully homomorphic version of the AES-128 cryptosystem using TFHE-rs](https://www.zama.ai/post/implement-fhe-aes-128-tfhe-rs) - April 2025
 - [Why private equity needs confidential tokenization](https://www.zama.ai/post/why-private-equity-needs-confidential-tokenization-with-fully-homomorphic-encryption) - April 2025
 - [Encrypted image watermarking using Fully Homomorphic Encryption and Zama Concrete ML](https://www.zama.ai/post/encrypted-image-watermarking-using-fully-homomorphic-encryption) - March 2025
-- [Building an onchain confidential single-price auction for token sales with sealed bids using Zama's fhEVM](https://www.zama.ai/post/onchain-confidential-single-price-auction-tokens-with-sealed-bids-using-zama-fhevm) - March 2025
+- [Building an onchain confidential single-price auction for token sales with sealed bids using Zama's fhEVM](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption) - March 2025
 - [The next chapter for stablecoins: Built-in confidentiality using FHE](https://www.zama.ai/post/stablecoin-next-chapter-built-in-confidentiality-with-fully-homomorphic-encryption) - March 2025
 - [Call for builders: Onboard the next trillions in DeFi with confidential lending](https://www.zama.ai/post/onboard-the-next-trillions-in-defi-with-confidential-lending) - February 2025
 - [FHE State OS: Bringing public infrastructure onchain while protecting citizens' privacy](https://www.zama.ai/post/fhe-state-os-bringing-public-infrastructure-onchain-while-protecting-citizens-privacy) - February 2025
