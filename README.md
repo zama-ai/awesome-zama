@@ -183,12 +183,29 @@ Zama's blog posts sorted by date
 ## Research papers and publications
 Research papers and publications by the Zama team sorted by date
 
-- Drifting towards better error probabilities in fully homomorphic encryption schemes [[ePrint version](https://ia.cr/2024/1718)] - October 2024 - ePrint Archive
-- [Faster private decision tree evaluation for batched input from homomorphic encryption](https://doi.org/10.1007/978-3-031-71073-5_1) - September 2024- SCN 2024
+- [TFHE gets real: An efficient and flexible homomorphic floating point arithmetic](https://doi.org/10.46586/tches.v2025.i2.126-162) [[ePrint version](https://ia.cr/2025/257)] - September 2025 - CHES 2025
+- Row reduction techniques for n-party garbling [[ePrint version](https://ia.cr/2025/829)] - August 2025 - CRYPTO 2025
+- Transistor: a TFHE-friendly stream cipher [[ePrint version](https://ia.cr/2025/282)] - August 2025 - CRYPTO 2025
+- Faster VOLEitH signatures from all-but-one vector commitment and half-tree [[ePrint version](https://ia.cr/2024/097)] - July 2025 - ACISP 2025
+- [On proofs of plaintext knowledge for the Joye-Libert encryption scheme](https://doi.org/10.1007/978-3-031-95764-2_11) - June 2025 - ACNS 2025
+- [Drifting towards better error probabilities in fully homomorphic encryption schemes](https://doi.org/10.1007/978-3-031-91101-9_7) [[ePrint version](https://ia.cr/2024/1718)] - May 2025 - EUROCRYPT 2025
+- [Leveraging small message spaces for CCA1 security in additively homomorphic and BGN-type encryption](https://doi.org/10.1007/978-3-031-91124-8_2) [[ePrint version](https://ia.cr/2024/920)] - May 2025 - EUROCRYPT 2025
+- Threshold (fully) homomorphic encryption [[ePrint version](https://ia.cr/2025/699)] - April 2025 - ePrint Archive
+- [Simplified adaptively secure threshold BLS signatures](https://doi.org/10.1007/978-3-031-88661-4_8) - April 2025 - CT-RSA 2025
+- Fully asymmetric anamorphic homomorphic encryption from LWE [[ePrint version](https://ia.cr/2025/328)] - February 2025 - ePrint Archive
+- Error-simulatable sanitization for TFHE and applications [[ePrint version](https://ia.cr/2025/275)] - February 2025 - ePrint Archive
+- Bootstrapping (T)FHE ciphertexts via automorphisms: Closing the gap between binary and Gaussian keys [[ePrint version](https://ia.cr/2025/163)] - February 2025 - ePrint Archive
+- [Prime number generation and RSA keys](https://doi.org/10.1002/9781394351930.ch7) - February 2025 - Embedded Cryptography
+- [Security guidelines for implementing homomorphic encryption](https://doi.org/10.62056/anxra69p1) - January 2025 - Communications in Cryptology
+- [Differential fault analysis](https://doi.org/10.1007/978-3-030-71522-9_1707) ‍‍‍- January 2025 - Encyclopedia of Cryptography, Security and Privacy
+- [Updatable privacy-preserving blueprints](https://doi.org/10.1007/978-981-96-0875-1_4) [[ePrint version](https://ia.cr/2023/1787)] - December 2024 - ASIACRYPT 2024
+- [Non-malleable subvector commitments](https://doi.org/10.1007/978-981-96-0891-1_1) - December 2024 - ASIACRYPT 2024
+- [New secret keys for enhanced performance in (T)FHE]() [[ePrint version](https://ia.cr/2023/979)] - October 2024 - CCS 2024
+- [Faster private decision tree evaluation for batched input from homomorphic encryption](https://doi.org/10.1007/978-3-031-71073-5_1) [[ePrint version](https://ia.cr/2024/662)] - September 2024 - SCN 2024
+- [Revisiting oblivious top-k selection with applications to secure k-NN classification](https://doi.org/10.1007/978-3-031-82852-2_1) - August 2024 - SAC 2024
 - [Panacea: Non-interactive and stateless oblivious RAM](https://doi.org/10.1109/EuroSP60621.2024.00049) - July 2024 - EuroS&P 2024
 - What have SNARGs ever done for FHE? [[ePrint version](https://ia.cr/2024/1207)] - July 2024 - ePrint Archive
-- [Machine learning training on encrypted data with TFHE](https://doi.org/10.1145/3643651.3659891) - June 2024 - IWSPA 2024
-- Leveraging small message spaces for CCA1 security in additively homomorphic and BGN-type encryption [[ePrint version](https://ia.cr/2024/920)] - June 2024 - ePrint Archive
+- [Machine learning training on encrypted data with TFHE](https://doi.org/10.1145/3643651.3659891) [[arXiv version](https://arxiv.org/abs/2401.16136)] - June 2024 - IWSPA 2024
 - Approximate CRT-based gadget decomposition and application to TFHE blind rotation [[ePrint version](https://ia.cr/2024/909)] - June 2024 - ePrint Archive
 - [Lightweight asynchronous verifiable secret sharing with optimal resilience](https://doi.org/10.1007/s00145-024-09505-6) [[ePrint version](https://ia.cr/2023/536)] - ‍June 2024 - Journal of Cryptology
 - [Crypto dark matter on the torus: Oblivious PRFs from shallow PRFs and TFHE](https://doi.org/10.1007/978-3-031-58751-1_16) - May 2024 - EUROCRYPT 2024
@@ -196,15 +213,11 @@ Research papers and publications by the Zama team sorted by date
 - Detecting rogue decryption in (threshold) encryption via self-incriminating proofs [[ePrint version](https://ia.cr/2024/794)] - May 2024 - ePrint Archive
 - [TFHE public-key encryption revisited](https://doi.org/10.1007/978-3-031-58868-6_11) [[ePrint version](https://ia.cr/2023/603)] - May 2024 - CT-RSA 2024
 - Homomorphic evaluation of LWR-based PRFs and application to transciphering [[ePrint version](https://ia.cr/2024/665)] - April 2024 - ePrint Archive
-- Faster private decision tree evaluation for batched input from homomorphic encryption [[ePrint version](https://ia.cr/2024/662)] - April 2024 - ePrint Archive
 - [Simulation-extractable KZG polynomial commitments and applications to HyperPlonk](https://doi.org/10.1007/978-3-031-57722-2_3) [[ePrint version](https://ia.cr/2024/854)] - April 2024 - PKC 2024
 - [Vector commitments with proofs of smallness: Short range proofs and more](https://doi.org/10.1007/978-3-031-57722-2_2) [[ePrint version](https://ia.cr/2023/800)] - April 2024 - PKC 2024
 - Towards verifiable FHE in practice: Proving correct execution of TFHE's bootstrapping using plonky2 [[ePrint version](https://ia.cr/2024/451)] - March 2024 - ePrint Archive
 - [A new approach to efficient and secure fixed-point computation](https://doi.org/10.1007/978-3-031-54770-6_3) [[ePrint version](https://ia.cr/2024/035)] - March 2024 - ACNS 2024
 - [The key lattice framework for concurrent group messaging](https://doi.org/10.1007/978-3-031-54773-7_6) [[ePrint version](https://ia.cr/2022/1531)] - March 2024 - ACNS 2024
-- [A new approach to efficient and secure fixed-point computation](https://doi.org/10.1007/978-3-031-54770-6_3) [[ePrint version](https://ia.cr/2024/035)] - March 2024 - ACNS 2024
-- Improved all-but-one vector commitment with applications to post-quantum signatures  [[ePrint version](https://ia.cr/2024/097)] - January 2024 - ePrint Archive
-- Neural network training on encrypted data with TFHE [[arXiv version](https://arxiv.org/abs/2401.16136)] - January 2024 - arXiv<!-- markdown-link-check-disable-next-line -->
 - [Computing e-th roots in number fields](https://doi.org/10.1137/1.9781611977929.16) [[arXiv version](https://arxiv.org/abs/2305.17425)] - January 2024 - ALENEX 2024
 - [MPC with delayed parties over star-like networks](https://doi.org/10.1007/978-981-99-8721-4_6) [[ePrint version](https://ia.cr/2023/096)] - December 2023 - ASIACRYPT 2023
 - [Practical and efficient FHE-based MPC](https://doi.org/10.1007/978-3-031-47818-5_14) [[ePrint version](https://ia.cr/2023/981)] - December 2023 - IMACC 2023
@@ -213,14 +226,12 @@ Research papers and publications by the Zama team sorted by date
 - [Trivial transciphering with Trivium and TFHE](https://doi.org/10.1145/3605759.3625255) [[ePrint version](https://ia.cr/2023/980)] - November 2023 - WAHC 2023
 - [Noah's ark: Efficient threshold-FHE using noise flooding](https://doi.org/10.1145/3605759.3625259) [[ePrint version](https://ia.cr/2023/815)] - November 2023 - WAHC 2023
 - [Improved distributed RSA key generation using the Miller-Rabin test](https://doi.org/10.1145/3576915.3623163) - November 2023 - CCS 2023
-- Updatable privacy-preserving blueprints [[ePrint version](https://ia.cr/2023/1787)] - November 2023 - ePrint Archive
 - [SoK: Privacy-enhancing technologies in finance](https://doi.org/10.4230/LIPIcs.AFT.2023.12) [[ePrint version](https://ia.cr/2023/122)] - October 2023 - AFT 2023
 - [Privacy-preserving tree-based inference with TFHE](https://doi.org/10.1007/978-3-031-52426-4_10) [[ePrint version](https://ia.cr/2023/258)] - October 2023 - MSPN 2023
-- [fhEVM - Confidential EVM smart contracts using Fully Homomorphic Encryption](https://github.com/zama-ai/fhevm/blob/main/fhevm-whitepaper.pdf) - September 2023 - White paper
+- [fhEVM - Confidential EVM smart contracts using Fully Homomorphic Encryption](https://github.com/zama-ai/fhevm/raw/main/fhevm-whitepaper.pdf) - September 2023 - White paper
 - [On the precision loss in approximate homomorphic encryption](https://doi.org/10.1007/978-3-031-53368-6_16) [[ePrint version](https://ia.cr/2022/162)] - August 2023 - SAC 2023
 - [Attribute-based single sign-on: Secure, private, and efficient](https://doi.org/10.56553/popets-2023-0097) [[ePrint version](https://ia.cr/2023/915)] - July 2023 - PoPETs 2023
 - [Computing on encrypted data](https://doi.org/10.1109/MSEC.2023.3279517) - July 2023 - IEEE Security & Privacy
-- Faster secret keys for (T)FHE [[ePrint version](https://ia.cr/2023/979)] - June 2023 - ePrint Archive
 - [Deep neural networks for encrypted inference with TFHE](https://doi.org/10.1007/978-3-031-34671-2_34) [[ePrint version](https://ia.cr/2023/257)] - June 2023 - CSCML 2023<!-- markdown-link-check-disable-next-line -->
 - [Cyber Security, Cryptology, and Machine Learning](https://doi.org/10.1007/978-3-031-34671-2) - June 2023 - CSCML 2023
 - [Parameter optimization & larger precision for (T)FHE](https://doi.org/10.1007/s00145-023-09463-5) [[ePrint version](https://ia.cr/2022/704)] - ‍June 2023 - Journal of Cryptology
@@ -253,9 +264,15 @@ Research papers and publications by the Zama team sorted by date
 - [SANNS: Scaling up secure approximate k-nearest neighbors search](https://www.usenix.org/conference/usenixsecurity20/presentation/chen-hao) - August 2020 - USENIX 2020
 <br></br>
 
-## Talks, posters and presentations
-Talks, posters and presentations by Zama team sorted by date
-### Peer-reviwed
+## Talks, posters, and presentations
+Talks, posters, and presentations by Zama team sorted by date
+### Peer-reviewed
+- [Strong IND-CPAD security for FHE (essentially) for free](https://github.com/user-attachments/files/19464405/1545_JOYE.pdf) - ‍‍March 2025 - FHE.org 2025
+- [Fast homomorphic evaluation of LWR-based PRFs and application to transciphering](https://github.com/user-attachments/files/19668511/poster1.pdf) - ‍‍March 2025 - FHE.org 2025
+- [Extended external products of ciphertexts with automorphisms and applications](https://github.com/user-attachments/files/19668524/poster2-1.pdf) - ‍‍March 2025 - FHE.org 2025
+- Practical robust MPC for Galois rings - March 2025 - TPMPC & RWMPC 2025
+- [Towards verifiable FHE in practice](https://eprint.iacr.org/2024/451) - October 2024 - zkSummit12
+- Advanced FHE and MPC protocols for the blockchain - June 2024 - TPMPC 2024
 - [IP protection & privacy in LLM: Leveraging Fully Homomorphic Encryption](data/RSA2024.pdf) [[video](https://www.youtube.com/watch?v=lmIgGD8csy0)] - May 2024 - RSA Conference 2024
 - [Advanced FHE protocols for the blockchain](https://iacr.org/submit/files/slides/2024/rwc/rwc2024/5/slides.pptx) - ‍‍March 2024 - RWC 2024
 - [Revisiting oblivious top-k selection with applications to secure k-NN classification](https://github.com/FHE-org/fhe-org.github.io/files/14896282/1635-Geelen.pdf) - ‍‍March 2024 - FHE.org 2024
@@ -279,14 +296,14 @@ Talks, posters and presentations by Zama team sorted by date
 - [New challenges for fully homomorphic encryption](https://ppml-workshop.github.io/ppml20/pdfs/Chillotti_et_al.pdf) - December 2020 - PPML 2020
 
 ### Invited and self-hosted
-- Towards verifiable FHE in practice - October 2024 - zkSummit 12
-- [Unlocking regulated use cases for privacy: Preserving stablecoins](https://streameth.org/stable_summit/watch?session=668a76d16c180915b827aa38) July 2024 - Stable Summit
+- Introducing the Zama confidential blockchain protocol, a cross-chain protocol for confidential smart contracts using FHE - June 2025 - EthCC 8
+- [Unlocking regulated use cases for privacy: Preserving stablecoins](https://streameth.org/stable_summit/watch?session=668a76d16c180915b827aa38) - July 2024 - Stable Summit
 - [Threshold key generation and decryption for fhEVM Chains](https://www.youtube.com/watch?v=upKFexrGoUE) - July 2024 - EthCC 7
-- [Decentralized AI: Safeguarding privacy with FHE ](https://www.youtube.com/watch?v=a6dQQSaEtJM) - July 2024 - EthCC 7
+- [Decentralized AI: Safeguarding privacy with FHE ](https://www.youtube.com/watch?v=a6dQQSaEtJM) - July 2024 - EthCC 7 
 - [FHE on Ethereum](https://www.youtube.com/watch?v=WngC5cvV_fc) July 2024 - EthCC 7
-- [Privacy-preserving machine learning](data/AgoraCloudBruxelles2024.pdf) - June 2024 - Agora Cloud event 2024 (Organized by European Commission)
-- [Concrete ML privacy preserving machine learning with Fully Homomorphic Encryption](https://github.com/zama-ai/awesome-zama/blob/main/data/ConcreteMLPresentationZamaMeetupZurich2024.pdf) - May 2024 - Zama Meetup in Zurich (Part of Eurocrypt 2024)
-- [The Zama fhEVM: Confidential smart contracts using FHE + ZK + MPC](https://github.com/zama-ai/awesome-zama/blob/main/data/fhEVMPresentationZamaMeetupZurich2024.pdf) - May 2024 - Zama Meetup in Zurich (Part of Eurocrypt 2024)
+- [Privacy-preserving machine learning](data/AgoraCloudBruxelles2024.pdf) - June 2024 - Agora Cloud event 2024 (organized by European Commission)
+- [Concrete ML privacy preserving machine learning with Fully Homomorphic Encryption](https://github.com/zama-ai/awesome-zama/blob/main/data/ConcreteMLPresentationZamaMeetupZurich2024.pdf) - May 2024 - Zama Meetup in Zurich (co-located with Eurocrypt 2024)
+- [The Zama fhEVM: Confidential smart contracts using FHE + ZK + MPC](https://github.com/zama-ai/awesome-zama/blob/main/data/fhEVMPresentationZamaMeetupZurich2024.pdf) - May 2024 - Zama Meetup in Zurich (co-located with Eurocrypt 2024)
 - [Privacy-preserving ML with Fully Homomorphic Encryption (Video)](https://www.youtube.com/watch?v=g1Zlu63TP0Y) - May 2024 - Google TechTalks
 - [Privacy-preserving ML with Fully Homomorphic Encryption](https://github.com/zama-ai/awesome-zama/blob/main/data/PPMLMIT2024.pdf) - May 2024 - MIT & Google
 
