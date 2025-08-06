@@ -36,7 +36,7 @@ Zama's FHE libraries and solutions
 ## White papers
 White papers by Zama sorted by date
 - [TFHE-rs: A Practical Handbook First Edition](https://github.com/zama-ai/tfhe-rs-handbook/blob/main/tfhe-rs-handbook.pdf) - February 2025
-- [fhEVM V2: Confidential EVM Smart Contrats using Fully Homomorphic Encryption](https://github.com/zama-ai/httpz-solidity/blob/main/fhevm-whitepaper-v2.pdf) - December 2024
+- [fhEVM V2: Confidential EVM Smart Contracts using Fully Homomorphic Encryption](https://github.com/zama-ai/httpz-solidity/blob/main/fhevm-whitepaper-v2.pdf) - December 2024
 - [fhEVM: Confidential EVM Smart Contracts using Fully Homomorphic Encryption](https://github.com/zama-ai/httpz-solidity/blob/main/fhevm-whitepaper.pdf) - September 2023
 
 ## Demos
