@@ -224,7 +224,7 @@ Zama's blog posts sorted by date
 - [The Zama FHE Master Plan](https://www.zama.ai/post/zama-fhe-master-plan) - March 2024
 - [How we monetize open source at Zama](https://www.zama.ai/post/open-source) - August 2022
 - [How we hire at Zama](https://www.zama.ai/post/how-we-hire-at-zama) - October 2021
-- [Nigel Smart Is Joining Zama as Chief Academic Officer](https://www.zama.ai/post/nigel-smart-is-joining-zama)
+- [Nigel Smart Is Joining Zama as Chief Academic Officer](https://www.zama.ai/post/nigel-smart-is-joining-zama-as-chief-academic-officer)
 
 ### Engineering articles
 
