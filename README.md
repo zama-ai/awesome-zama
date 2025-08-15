@@ -7,40 +7,50 @@
 
 ## Table of contents
 
+- [Table of contents](#table-of-contents)
 - [Libraries and solutions](#libraries-and-solutions)
 - [White papers](#white-papers)
-- [Demos](#demos)
+- [Concrete ML Demos](#concrete-ml-demos)
 - [Tutorials](#tutorials)
-   - [TFHE-rs](#tfhe-rs)
-   - [Concrete](#concrete)
-   - [Concrete ML](#concrete-ml)
-   - [fhEVM](#fhevm)
-- [Blog posts](#blog-posts)
-   - [Product releases](#product-releases)
-   - [Announcements](#announcements)
-   - [Engineering articles](#engineering-articles)
+  - [TFHE-rs](#tfhe-rs)
+  - [Concrete](#concrete)
+  - [Concrete ML](#concrete-ml)
+  - [fhEVM](#fhevm)
+  - [Hardware](#hardware)
+  - [Product releases](#product-releases)
+    - [Zama product release round‑ups](#zama-product-release-roundups)
+    - [Concrete releases](#concrete-releases)
+    - [TFHE‑rs releases](#tfhers-releases)
+    - [Concrete ML releases](#concreteml-releases)
+    - [FHEVM releases](#fhevm-releases)
+  - [Bounty Program](#bounty-program)
+  - [Announcements](#announcements)
+  - [Engineering articles](#engineering-articles)
 - [Research papers and publications](#research-papers-and-publications)
-- [Talks, posters and presentations](#talks-posters-and-presentations)
-<br></br>
+- [Talks, posters, and presentations](#talks-posters-and-presentations)
+  - [Peer-reviewed](#peer-reviewed)
+  - [Invited and self-hosted](#invited-and-self-hosted)
 
 ## Libraries and solutions
 Zama's FHE libraries and solutions
 
+- [FHEVM monorepo](https://github.com/zama-ai/fhevm): Features the core framework of the Zama Confidential Blockchain Protocol.
 - [TFHE-rs](https://github.com/zama-ai/tfhe-rs): A pure Rust implementation of the TFHE scheme for Boolean and integer arithmetics over encrypted data.
 - [Concrete](https://github.com/zama-ai/concrete): TFHE compiler that converts python programs into FHE equivalents.
 - [Concrete ML](https://github.com/zama-ai/concrete-ml): Privacy-preserving ML framework built on top of Concrete, with bindings to traditional ML frameworks.
-- [fhEVM](https://docs.zama.ai/fhevm): A confidential smart contracts protocol for the EVM using homomorphic encryption.
 - [Zama Bounty Program](https://github.com/zama-ai/bounty-program): Contribute to Zama's open source libraries and get rewarded. More than €500,000 available in prizes.
 <br></br>
 
 ## White papers
 White papers by Zama sorted by date
+- [FHEVM Litepaper](https://docs.zama.ai/protocol/zama-protocol-litepaper): Litepaper about the cross-chain protocol for smart contracts. - June 2025
+- [FHEVM whitepaper](https://github.com/zama-ai/fhevm/blob/main/fhevm-whitepaper.pdf): Whitepaper about the cross-chain protocol for smart contracts. - June 2025
 - [TFHE-rs: A Practical Handbook First Edition](https://github.com/zama-ai/tfhe-rs-handbook/blob/main/tfhe-rs-handbook.pdf) - February 2025
-- [fhEVM V2: Confidential EVM Smart Contrats using Fully Homomorphic Encryption](https://github.com/zama-ai/httpz-solidity/blob/main/fhevm-whitepaper-v2.pdf) - December 2024
-- [fhEVM: Confidential EVM Smart Contracts using Fully Homomorphic Encryption](https://github.com/zama-ai/httpz-solidity/blob/main/fhevm-whitepaper.pdf) - September 2023
+- [FHEVM V2: Confidential EVM Smart Contracts using Fully Homomorphic Encryption](https://github.com/zama-ai/fhevm-solidity/blob/main/fhevm-whitepaper-v2.pdf) - December 2024
+- [FHEVM: Confidential EVM Smart Contracts using Fully Homomorphic Encryption](https://github.com/zama-ai/fhevm-solidity/blob/main/fhevm-whitepaper.pdf) - September 2023
 
-## Demos
-Demos by Zama sorted by date
+## Concrete ML Demos
+Demos by Zama's Concrete ML sorted by date
 
 - [Encrypted DNA testing using Fully Homomorphic Encryption](https://huggingface.co/spaces/zama-fhe/encrypted_dna)
 - [Encrypted anonymization using FHE](https://huggingface.co/spaces/zama-fhe/encrypted-anonymization)
@@ -63,7 +73,6 @@ Tutorials by the Zama team sorted by date
 - [Boolean SHA256 using TFHE-rs](https://www.zama.ai/post/boolean-sha256-tfhe-rs) - July 2023
 - [Dark market application using TFHE-rs](https://www.zama.ai/post/dark-market-tfhe-rs) - July 2023
 - [Regular expression engine with TFHE-rs](https://www.zama.ai/post/regex-engine-tfhe-rs) - June 2023
-
 
 ### Concrete 
 - [[Video tutorial] Integrate Python FHE modules in Rust using Concrete](https://www.zama.ai/post/video-tutorial-integrate-python-fhe-modules-in-rust-using-concrete) - May 2025
@@ -108,56 +117,127 @@ Tutorials by the Zama team sorted by date
 - [Onchain blind auctions using FHE](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption) - July 2023
 - [Confidential ERC-20 tokens using Homomorphic Encryption and the fhEVM](https://www.zama.ai/post/confidential-erc-20-tokens-using-homomorphic-encryption) - June 2023
 - [Private smart contract using FHE](https://www.zama.ai/post/private-smart-contracts-using-homomorphic-encryption) - May 2023
-<br></br>
 
-## Blog posts
-Zama's blog posts sorted by date
+ ### Hardware
+ - [[Video Tutorial] Introducing Zama’s Hardware Accelerator for FHE - HPU on FPGA](https://www.zama.ai/post/video-tutorial-introducing-zamas-hardware-accelerator-for-fhe-hpu-on-fpga)
+
 ### Product releases
-- [Zama Product Releases - April 2025](https://www.zama.ai/post/zama-product-releases-april-2025)
-- [Zama Product Releases - January 2025](https://www.zama.ai/post/zama-product-releases-january-2025)
-- [Zama Product Releases - October 2024](https://www.zama.ai/post/zama-product-releases-october-2024)
-- [Zama Product Releases - July 2024](https://www.zama.ai/post/zama-product-releases---july)
-- [Zama Product Releases - April 2024](https://www.zama.ai/post/zama-product-releases-april-2024)
-- [Zama Product Releases - January 2024](https://www.zama.ai/post/zama-product-releases-january-2024)
-- [Zama Product Releases - October 2023](https://www.zama.ai/post/zama-product-releases-october-2023)
-- [Zama Product Releases - July 2023](https://www.zama.ai/post/zama-product-releases-july-2023)
-- [Zama Product Releases - April 2023](https://www.zama.ai/post/zama-product-announcement-april-2023)
-- [Zama Product Releases - January 2023](https://www.zama.ai/post/zama-product-announcement-january-2023)
-- [Zama Product Releases - October 2022](https://www.zama.ai/post/zama-product-announcement-october-2022)
-- [Zama Product Releases - July 2022](https://www.zama.ai/post/zama-product-announcement-july-2022)
-- [Zama Product Releases - April 2022](https://www.zama.ai/post/zama-product-announcement-april-2022)
+Zama's blog posts sorted by date
 
-### Announcements
+#### Zama product release round‑ups
+
+- [Zama Product Releases – July 2025](https://www.zama.ai/post/zama-product-releases-july-2025) – Jul 16 2025
+- [Zama Product Releases – April 2025](https://www.zama.ai/post/zama-product-releases-april-2025) – Apr 10 2025
+- [Zama Product Releases – January 2025](https://www.zama.ai/post/zama-product-releases-january-2025) – Jan 14 2025
+- [Zama Product Releases – October 2024](https://www.zama.ai/post/zama-product-releases-october-2024) – Oct 8 2024
+- [Zama Product Releases – July 2024](https://www.zama.ai/post/zama-product-releases---july) – Jul 5 2024
+- [Zama Product Releases – April 2024](https://www.zama.ai/post/zama-product-releases-april-2024) – Apr 9 2024
+- [Zama Product Releases – January 2024](https://www.zama.ai/post/zama-product-releases-january-2024) – Jan 22 2024
+- [Zama Product Releases – October 2023](https://www.zama.ai/post/zama-product-releases-october-2023) – Oct 18 2023
+- [Zama Product Releases – July 2023](https://www.zama.ai/post/zama-product-releases-july-2023) – Jul 26 2023
+- [Zama Product Announcement – January 2023](https://www.zama.ai/post/zama-product-announcement-january-2023) – Jan 12 2023
+- [Zama Product Announcement – October 2022](https://www.zama.ai/post/zama-product-announcement-october-2022) – Oct 19 2022
+- [Zama Product Announcement – July 2022](https://www.zama.ai/post/zama-product-announcement-july-2022) – Jul 5 2022
+- [Zama Product Announcement – April 2022](https://www.zama.ai/post/zama-product-announcement-april-2022) – Apr 21 2022
+
+#### Concrete releases
+
+- [Concrete v2.10: Introducing Rust Support, Multiple Precision and TFHE‑rs v1.1 Compatibility](https://www.zama.ai/post/concrete-v2-10) – Apr 10 2025
+- [Concrete v2.9: Enhanced TFHE‑rs Interoperability and Python 3.12 Support](https://www.zama.ai/post/concrete-v2-9) – Jan 14 2025
+- [Concrete v2.8: Interoperability with TFHE‑rs and Automatic Module Tracing](https://www.zama.ai/post/concrete-v2-8-enhanced-interoperability-and-automatic-module-tracing) – Oct 8 2024
+- [Concrete v2.7: GPU Wheel and Extended Function Composition](https://www.zama.ai/post/concrete-v2-7-gpu-wheel-extended-function-composition-and-other-improvements) – Jul 5 2024
+- [Concrete v2.6: Approximate PBS and Input Compression](https://www.zama.ai/post/concrete-v2-6) – Apr 8 2024
+- [Concrete v2.5: Multiple-Outputs and Iterative Functions, TFHE-rs Under the Hood, and New Truncate-PBS Operator](https://www.zama.ai/post/concrete-v2-5) – Jan 19 2024
+- [Concrete v2.4.0: Multi-Parameter Optimization and More Accurate Bitwidth](https://www.zama.ai/post/releasing-concrete-v2-4-0)
+- [Concrete v2.0.0: Improving Performance and Developer Experience](https://www.zama.ai/post/releasing-concrete-v2-0-0) – Jul 25 2023
+- [Announcing Concrete v1.0.0](https://www.zama.ai/post/announcing-concrete-v1-0-0) – Apr 13 2023
+- [Announcing Concrete v0.2](https://www.zama.ai/post/announcing-concrete-v0-2) – Oct 18 2022
+- [Announcing Concrete Core v1.0](https://www.zama.ai/post/announcing-concrete-core-v1-0)
+- [Announcing Concrete Numpy v0.9](https://www.zama.ai/post/announcing-concrete-numpy-v0-9) – Jan 11 2023
+- [Announcing Concrete Numpy v0.8](https://www.zama.ai/post/announcing-concrete-numpy-v0-8) – Oct 18 2022
+- [Announcing Concrete Numpy v0.5](https://www.zama.ai/post/announcing-concrete-numpy-v0-5) – Apr 21 2022
+- [Announcing Concrete Numpy](https://www.zama.ai/post/announcing-concrete-numpy) – Jan 12 2022
+- [What’s New in Concrete v0.1.10](https://www.zama.ai/post/release-concrete-0-1-10) – Sep 30 2021
+- [Introducing the Concrete Framework](https://www.zama.ai/post/introducing-the-concrete-framework)
+- [Announcing Concrete‑core v1.0.0‑gamma with GPU acceleration](https://www.zama.ai/post/announcing-concrete-core-v1-0-beta)
+- [Announcing Concrete Core v1.0‑beta](https://www.zama.ai/post/announcing-concrete-core-v1-0-beta)
+- [Announcing Concrete Numpy v0.5](https://www.zama.ai/post/announcing-concrete-numpy-v0-5)
+- [Concrete‑core v1.0.0‑alpha](https://www.zama.ai/post/concrete-core-v1-0-0-alpha)
+- [Announcing Concrete Numpy](https://www.zama.ai/post/announcing-concrete-numpy)
+
+#### TFHE‑rs releases
+
+- [TFHE‑rs v1.3: Faster Division on CPU, Key Upgrader & Memory Tracking on GPU](https://www.zama.ai/post/tfhe-rs-v1-3-faster-division-on-cpu-key-upgrader-memory-tracking-on-gpu) – Jul 16 2025
+- [Announcing HPU on FPGA: The First Open‑source Hardware Accelerator for FHE](https://www.zama.ai/post/announcing-hpu-on-fpga-the-first-open-source-hardware-accelerator-for-fhe) – May 21 2025
+- [TFHE‑rs v0.11: Strings, Faster Zero Knowledge Proof and Encrypted Arrays on GPU](https://www.zama.ai/post/tfhe-rs-v0-11) – Jan 14 2025
+- [TFHE‑rs v0.8: Encrypted Arrays and Improved Multi‑GPU Support](https://www.zama.ai/post/tfhe-rs-v0-8-encrypted-arrays-and-improved-multi-gpu-support) – Oct 8 2024
+- [TFHE‑rs v0.7: Ciphertext Compression, Multi‑GPU Support and More](https://www.zama.ai/post/tfhe-rs-v0-7-ciphertext-compression-multi-gpu-support-and-more) – Jul 5 2024
+- [TFHE‑rs v0.5: Detecting Overflows, Running on GPU and More](https://www.zama.ai/post/tfhe-rs-v0-5) – Jan 22 2024
+- [TFHE‑rs v0.4: Zero‑Knowledge Support and Signed Integer Arithmetic](https://www.zama.ai/post/fhevm-v0-4) – Oct 18 2023
+- [TFHE‑rs v0.3: Faster Homomorphic Operations and Encrypted Tensors](https://www.zama.ai/post/fhevm-v0-3) – Jul 26 2023
+- [Announcing TFHE‑rs](https://www.zama.ai/post/announcing-tfhe-rs) – Jan 12 2023
+- [Announcing TFHE‑rs v0.2.0](https://www.zama.ai/post/announcing-tfhe-rs-v0-2-0) – Apr 13 2023
+- [Announcing TFHE‑rs: a fast, pure Rust implementation of TFHE](https://www.zama.ai/post/announcing-tfhe-rs)
+
+#### Concrete ML releases
+
+- [Concrete ML v1.9: TFHE‑rs Compatibility and Faster LLM Fine‑tuning](https://www.zama.ai/post/concrete-ml-v1-9) – Apr 10 2025
+- [Concrete ML v1.8: Towards Decentralized Private LLAMA Fine‑tuning](https://www.zama.ai/post/concrete-ml-v1-8) – Jan 14 2025
+- [Concrete ML v1.4: Encrypted Training and Faster Decision Trees](https://www.zama.ai/post/concrete-ml-v1-4) – Jan 19 2024
+- [Concrete ML v1.1.0: Faster Inference and First FHE LLM Demo](https://www.zama.ai/post/releasing-concrete-ml-1-1-0) – Jul 25 2023
+- [Announcing Concrete ML v1.0.0](https://www.zama.ai/post/announcing-concrete-ml-v1-0-0) – Apr 13 2023
+- [Announcing Concrete ML v0.6](https://www.zama.ai/post/announcing-concrete-ml-v0-6)
+- [Announcing Concrete ML v0.4](https://www.zama.ai/post/announcing-concrete-ml-v0-4)
+- [Announcing Concrete ML v0.2](https://www.zama.ai/post/announcing-concrete-ml-v0-2)
+
+#### FHEVM releases
+
+- [fhEVM v0.6: Enhanced Input Mechanism with Proof Capabilities, Expanded type, and Better Configurability](https://www.zama.ai/post/fhevm-v0-6)
+- [fhEVM v0.5: Enhanced Security and Efficiency for Encrypted Data](https://www.zama.ai/post/fhevm-v0-5-enhanced-security-and-efficiency-for-encrypted-data) – Jul 5 2024
+- [fhEVM v0.4: New Encrypted Types and Asynchronous Decryption](https://www.zama.ai/post/fhevm-v0-4) – Apr 8 2024
+- [fhEVM v0.3: New Stack and Better Performances](https://www.zama.ai/post/fhevm-v0-3) – Jan 19 2024
+- [fhEVM v0.2.0: New Operators, Simpler Syntax and Optimized Performances](https://www.zama.ai/post/releasing-fhevm-v0-2-0) – Oct 17 2023
+- [Introducing the fhEVM Coprocessor: Run FHE Smart Contracts on Ethereum, Base and other EVM chains](https://www.zama.ai/post/fhevm-coprocessor) – Dec 6 2024
+
+
+### Bounty Program
+- [Zama Bounty Program Season 9: Build a privacy‑preserving DCA bot](https://www.zama.ai/post/zama-bounty-program-season-9) – Jul 25 2025
 - [Announcing the first recipients of the Zama Cryptanalysis Grants](https://www.zama.ai/post/announcing-the-zama-cryptanalysis-grants) - June 2025
-- [Announcing HPU on FPGA: The first open-source hardware accelerator for FHE](https://www.zama.ai/post/video-tutorial-introducing-zamas-hardware-accelerator-for-fhe-hpu-on-fpga) - May 2025
-- [Introducing Zama’s Threshold Key Management System (TKMS)](https://www.zama.ai/post/introducing-zama-threshold-key-management-system-tkms) - April 2025
 - [Zama Bounty Program Season 8](https://www.zama.ai/post/zama-bounty-program-season-8) - March 2025
-- [TFHE-rs v1.0: Stable CPU backend](https://www.zama.ai/post/tfhe-rs-v1-0-stable-cpu-backend) - Feruary 2025
 - [Zama Bounty Program Season 7](https://www.zama.ai/post/zama-bounty-program-season-7) - December 2024
-- [Introducing the fhEVM Coprocessor: Run FHE smart contracts on Ethereum, Base, and other EVM chains](https://www.zama.ai/post/fhevm-coprocessor) - December 2024
-- [Kinexys by J.P. Morgan releases a Proof-of-concept focused on the financial sector leveraging Zama’s privacy-preserving solutions](https://www.zama.ai/post/kinexys-by-jpmorgan-releases-a-proof-of-concept-leveraging-zama-fhevm) - November 2024
 - [Zama Bounty Program Season 6](https://www.zama.ai/post/zama-bounty-program-season-6) - June 2024
-- [The Zama FHE Master Plan](https://www.zama.ai/post/zama-fhe-master-plan) - March 2024
 - [Introducing the Zama Grant Program and launching the Zama Bounty Program season 5](https://www.zama.ai/post/introducing-the-zama-grant-program-and-launching-the-zama-bounty-program-season-5) - February 2024
+- [Zama Bounty Program Season 4: New Bounties Available](https://www.zama.ai/post/launching-the-zama-bounty-program-season-4) - September 2023
 - [Zama Bounty Program Season 3](https://www.zama.ai/post/zama-bounty-program-season-3) - May 2023
-- [Zama Bounty Program Season 4: New Bounties Available](https://www.zama.ai/post/launching-the-zama-bounty-program-season-4) -  September 2023
 - [Zama Bounty Program Season 2](https://www.zama.ai/post/zama-bounty-program-season-2) - February 2023
 - [Launching the Zama Bounty Program with over €500,000 in prizes](https://www.zama.ai/post/launching-the-zama-bounty-program) - November 2022
+
+### Announcements
+- [Zama Partners with Conduit to Scale Confidential Smart Contracts](https://www.zama.ai/post/zama-partners-with-conduit-to-scale-confidential-smart-contracts)
+- [Zama Partners with OpenZeppelin to Bring Confidential Smart Contracts to DeFi and Digital Assets](https://www.zama.ai/post/zama-partners-with-openzeppelin-to-bring-confidential-smart-contracts-to-defi-and-digital-assets)
+- [Announcing Our Series B and the Zama Confidential Blockchain Protocol](https://www.zama.ai/post/announcing-the-zama-confidential-blockchain-protocol)
+- [Announcing HPU on FPGA: The first open-source hardware accelerator for FHE](https://www.zama.ai/post/announcing-hpu-on-fpga-the-first-open-source-hardware-accelerator-for-fhe) - May 2025
+- [Introducing Zama’s Threshold Key Management System (TKMS)](https://www.zama.ai/post/introducing-zama-threshold-key-management-system-tkms) - April 2025
+- [TFHE-rs v1.0: Stable CPU backend](https://www.zama.ai/post/tfhe-rs-v1-0-stable-cpu-backend) - February 2025
+- [Introducing the FHEVM Coprocessor: Run FHE smart contracts on Ethereum, Base, and other EVM chains](https://www.zama.ai/post/fhevm-coprocessor) - December 2024
+- [Kinexys by J.P. Morgan releases a Proof-of-concept focused on the financial sector leveraging Zama’s privacy-preserving solutions](https://www.zama.ai/post/kinexys-by-jpmorgan-releases-a-proof-of-concept-leveraging-zama-fhevm) - November 2024
+- [The Zama FHE Master Plan](https://www.zama.ai/post/zama-fhe-master-plan) - March 2024
 - [How we monetize open source at Zama](https://www.zama.ai/post/open-source) - August 2022
 - [How we hire at Zama](https://www.zama.ai/post/how-we-hire-at-zama) - October 2021
+- [Nigel Smart Is Joining Zama as Chief Academic Officer](https://www.zama.ai/post/nigel-smart-is-joining-zama-as-chief-academic-officer)
 
 ### Engineering articles
 
 - [Building encrypted iOS apps using Fully Homomorphic Encryption](https://www.zama.ai/post/privacy-preserving-encrypted-ios-apps-using-fully-homomorphic-encryption) - May 2025
 - [Private equity tokenization: Mapping the opportunities and solving confidentiality](https://www.zama.ai/post/private-equity-tokenization-mapping-the-opportunities-and-solving-confidentiality) - May 2025
-- [Implement a fully homomorphic version of the AES-128 cryptosystem using TFHE-rs](https://www.zama.ai/post/implement-fhe-aes-128-tfhe-rs) - April 2025
+- [Implement a fully homomorphic version of the AES-128 crypto system using TFHE-rs](https://www.zama.ai/post/implement-fhe-aes-128-tfhe-rs) - April 2025
 - [Why private equity needs confidential tokenization](https://www.zama.ai/post/why-private-equity-needs-confidential-tokenization-with-fully-homomorphic-encryption) - April 2025
 - [Encrypted image watermarking using Fully Homomorphic Encryption and Zama Concrete ML](https://www.zama.ai/post/encrypted-image-watermarking-using-fully-homomorphic-encryption) - March 2025
 - [Building an onchain confidential single-price auction for token sales with sealed bids using Zama's fhEVM](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption) - March 2025
 - [The next chapter for stablecoins: Built-in confidentiality using FHE](https://www.zama.ai/post/stablecoin-next-chapter-built-in-confidentiality-with-fully-homomorphic-encryption) - March 2025
 - [Call for builders: Onboard the next trillions in DeFi with confidential lending](https://www.zama.ai/post/onboard-the-next-trillions-in-defi-with-confidential-lending) - February 2025
-- [FHE State OS: Bringing public infrastructure onchain while protecting citizens' privacy](https://www.zama.ai/post/fhe-state-os-bringing-public-infrastructure-onchain-while-protecting-citizens-privacy) - February 2025
-- [Suffragium: An encrypted onchain voting system leveraging ZK and FHE using Zama's fhEVM](https://www.zama.ai/post/encrypted-onchain-voting-using-zk-and-fhe-with-zama-fhevm) - November 2024
+- [FHE State OS: Bringing public infrastructure on-chain while protecting citizens' privacy](https://www.zama.ai/post/fhe-state-os-bringing-public-infrastructure-onchain-while-protecting-citizens-privacy) - February 2025
+- [Suffragium: An encrypted onchain voting system leveraging ZK and FHE using Zama's FHEVM](https://www.zama.ai/post/encrypted-onchain-voting-using-zk-and-fhe-with-zama-fhevm) - November 2024
 - [Winning the TikTok Hackathon using Zama's Concrete ML and Fully Homomorphic Encryption](https://www.zama.ai/post/winning-tiktok-hackathon-using-zama-concrete-ml-and-fully-homomorphic-encryption) - October 2024
 - [Making FHE faster for ML: beating our previous paper benchmarks with Concrete ML](https://www.zama.ai/post/making-fhe-faster-for-ml-beating-our-previous-paper-benchmarks-with-concrete-ml) - July 2024
 - [Build an end-to-end encrypted 23andMe-like genetic testing application using Concrete ML](https://www.zama.ai/post/build-an-end-to-end-encrypted-23andme-genetic-testing-application-using-concrete-ml-fully-homomorphic-encryption) - July 2024
@@ -230,7 +310,7 @@ Research papers and publications by the Zama team sorted by date
 - [Improved distributed RSA key generation using the Miller-Rabin test](https://doi.org/10.1145/3576915.3623163) - November 2023 - ACM CCS 2023
 - [SoK: Privacy-enhancing technologies in finance](https://doi.org/10.4230/LIPIcs.AFT.2023.12) [[ePrint version](https://ia.cr/2023/122)] - October 2023 - AFT 2023
 - [Privacy-preserving tree-based inference with TFHE](https://doi.org/10.1007/978-3-031-52426-4_10) [[ePrint version](https://ia.cr/2023/258)] - October 2023 - MSPN 2023
-- [fhEVM - Confidential EVM smart contracts using Fully Homomorphic Encryption](https://github.com/zama-ai/fhevm/raw/main/fhevm-whitepaper.pdf) - September 2023 - White paper
+- [FHEVM - Confidential EVM smart contracts using Fully Homomorphic Encryption](https://github.com/zama-ai/fhevm/raw/main/fhevm-whitepaper.pdf) - September 2023 - White paper
 - [On the precision loss in approximate homomorphic encryption](https://doi.org/10.1007/978-3-031-53368-6_16) [[ePrint version](https://ia.cr/2022/162)] - August 2023 - SAC 2023
 - [Attribute-based single sign-on: Secure, private, and efficient](https://doi.org/10.56553/popets-2023-0097) [[ePrint version](https://ia.cr/2023/915)] - July 2023 - PoPETs 2023
 - [Computing on encrypted data](https://doi.org/10.1109/MSEC.2023.3279517) - July 2023 - IEEE Security & Privacy
@@ -300,12 +380,12 @@ Talks, posters, and presentations by Zama team sorted by date
 ### Invited and self-hosted
 - Introducing the Zama confidential blockchain protocol, a cross-chain protocol for confidential smart contracts using FHE - June 2025 - EthCC 8
 - [Unlocking regulated use cases for privacy: Preserving stablecoins](https://streameth.org/stable_summit/watch?session=668a76d16c180915b827aa38) - July 2024 - Stable Summit
-- [Threshold key generation and decryption for fhEVM Chains](https://www.youtube.com/watch?v=upKFexrGoUE) - July 2024 - EthCC 7
+- [Threshold key generation and decryption for FHEVM Chains](https://www.youtube.com/watch?v=upKFexrGoUE) - July 2024 - EthCC 7
 - [Decentralized AI: Safeguarding privacy with FHE ](https://www.youtube.com/watch?v=a6dQQSaEtJM) - July 2024 - EthCC 7 
 - [FHE on Ethereum](https://www.youtube.com/watch?v=WngC5cvV_fc) July 2024 - EthCC 7
 - [Privacy-preserving machine learning](data/AgoraCloudBruxelles2024.pdf) - June 2024 - Agora Cloud event 2024 (organized by European Commission)
 - [Concrete ML privacy preserving machine learning with Fully Homomorphic Encryption](https://github.com/zama-ai/awesome-zama/blob/main/data/ConcreteMLPresentationZamaMeetupZurich2024.pdf) - May 2024 - Zama Meetup in Zurich (co-located with Eurocrypt 2024)
-- [The Zama fhEVM: Confidential smart contracts using FHE + ZK + MPC](https://github.com/zama-ai/awesome-zama/blob/main/data/fhEVMPresentationZamaMeetupZurich2024.pdf) - May 2024 - Zama Meetup in Zurich (co-located with Eurocrypt 2024)
+- [The Zama FHEVM: Confidential smart contracts using FHE + ZK + MPC](https://github.com/zama-ai/awesome-zama/blob/main/data/FHEVMPresentationZamaMeetupZurich2024.pdf) - May 2024 - Zama Meetup in Zurich (co-located with Eurocrypt 2024)
 - [Privacy-preserving ML with Fully Homomorphic Encryption (Video)](https://www.youtube.com/watch?v=g1Zlu63TP0Y) - May 2024 - Google TechTalks
 - [Privacy-preserving ML with Fully Homomorphic Encryption](https://github.com/zama-ai/awesome-zama/blob/main/data/PPMLMIT2024.pdf) - May 2024 - MIT & Google
 
