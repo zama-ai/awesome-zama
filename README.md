@@ -263,6 +263,9 @@ Zama's blog posts sorted by date
 ## Research papers and publications
 Research papers and publications by the Zama team sorted by date
 
+- Bootstrapping (T)FHE ciphertexts via automorphisms: Closing the gap between binary and Gaussian keys [[ePrint version](https://ia.cr/2025/163)] - December 2025 - ASIACRYPT 2025
+- Anamorphic signatures with dictator & recipient unforgeability for long messages - December 2025 - ASIACRYPT 2025
+- Accelerating TFHE with sorted bootstrapping techniques - December 2025 - ASIACRYPT 2025
 - Fast homomorphic evaluation of LWR-based PRFs [[ePrint version](https://ia.cr/2024/665)] - October 2025 - ACM CCS 2025
 - Pool: A practical OT-based OPRF from learning with rounding - October 2025 - ACM CCS 2025
 - Towards verifiable FHE in practice: Proving correct execution of TFHE's bootstrapping using plonky2 [[ePrint version](https://ia.cr/2024/451)] - October 2025 - ACM CCS 2025
@@ -278,7 +281,6 @@ Research papers and publications by the Zama team sorted by date
 - [Simplified adaptively secure threshold BLS signatures](https://doi.org/10.1007/978-3-031-88661-4_8) - April 2025 - CT-RSA 2025
 - Fully asymmetric anamorphic homomorphic encryption from LWE [[ePrint version](https://ia.cr/2025/328)] - February 2025 - ePrint Archive
 - Error-simulatable sanitization for TFHE and applications [[ePrint version](https://ia.cr/2025/275)] - February 2025 - ePrint Archive
-- Bootstrapping (T)FHE ciphertexts via automorphisms: Closing the gap between binary and Gaussian keys [[ePrint version](https://ia.cr/2025/163)] - February 2025 - ePrint Archive
 - [Prime number generation and RSA keys](https://doi.org/10.1002/9781394351930.ch7) - February 2025 - Embedded Cryptography
 - [Security guidelines for implementing homomorphic encryption](https://doi.org/10.62056/anxra69p1) - January 2025 - Communications in Cryptology
 - [Differential fault analysis](https://doi.org/10.1007/978-3-030-71522-9_1707) ‍‍‍- January 2025 - Encyclopedia of Cryptography, Security and Privacy
@@ -332,7 +334,6 @@ Research papers and publications by the Zama team sorted by date
 - Secure branching program evaluation [[ePrint version](https://ia.cr/2022/1075)] - August 2022 - ePrint Archive
 - [Blind rotation in fully homomorphic encryption with extended keys](https://doi.org/10.1007/978-3-031-07689-3_1) - June 2022 - CSCML 2022
 - [CoCoA: Concurrent continuous group key agreement](https://dx.doi.org/10.1007/978-3-031-07085-3_28) [[ePrint version](https://ia.cr/2022/251)] - May 2022 - Eurocrypt 2022
-- Towards globally optimized hybrid homomorphic encryption: Featuring the Elisabeth stream cipher [[ePrint version](https://ia.cr/2022/180)] - February 2022 - ePrint Archive
 - [A pairing-free signature scheme from correlation intractable hash function and strong Diffie-Hellman assumption](https://doi.org/10.1007/978-3-030-95312-6_2) [[ePrint version](https://ia.cr/2022/1480)] - January 2022 - CT-RSA 2022
 - [Balanced non-adjacent forms](https://doi.org/10.1007/978-3-030-92078-4_19) [[ePrint version](https://ia.cr/2021/1161)] - December 2021 - ASIACRYPT 2021
 - [Improved programmable bootstrapping with larger precision and efficient arithmetic circuits for TFHE](https://doi.org/10.1007/978-3-030-92078-4_23) [[ePrint version](https://ia.cr/2021/729)] - December 2021 - ASIACRYPT 2021
