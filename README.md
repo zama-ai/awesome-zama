@@ -266,14 +266,15 @@ Research papers and publications by the Zama team sorted by date
 - Bootstrapping (T)FHE ciphertexts via automorphisms: Closing the gap between binary and Gaussian keys [[ePrint version](https://ia.cr/2025/163)] - December 2025 - ASIACRYPT 2025
 - Anamorphic signatures with dictator & recipient unforgeability for long messages - December 2025 - ASIACRYPT 2025
 - Accelerating TFHE with sorted bootstrapping techniques - December 2025 - ASIACRYPT 2025
+- Efficient fuzzy labeled PSI from vector ring-OLE - November 2025 - CANS 2025
 - Fast homomorphic evaluation of LWR-based PRFs [[ePrint version](https://ia.cr/2024/665)] - October 2025 - ACM CCS 2025
 - Pool: A practical OT-based OPRF from learning with rounding - October 2025 - ACM CCS 2025
 - Towards verifiable FHE in practice: Proving correct execution of TFHE's bootstrapping using plonky2 [[ePrint version](https://ia.cr/2024/451)] - October 2025 - ACM CCS 2025
 - Sharing the mask: TFHE bootstrapping on packed message - September 2025 - CHES 2025
 - [TFHE gets real: An efficient and flexible homomorphic floating point arithmetic](https://doi.org/10.46586/tches.v2025.i2.126-162) [[ePrint version](https://ia.cr/2025/257)] - September 2025 - CHES 2025
-- Row reduction techniques for n-party garbling [[ePrint version](https://ia.cr/2025/829)] - August 2025 - CRYPTO 2025
-- Transistor: A TFHE-friendly stream cipher [[ePrint version](https://ia.cr/2025/282)] - August 2025 - CRYPTO 2025
-- Faster VOLEitH signatures from all-but-one vector commitment and half-tree [[ePrint version](https://ia.cr/2024/097)] - July 2025 - ACISP 2025
+- [Row reduction techniques for n-party garbling](https://doi.org/10.1007/978-3-032-01884-7_17) [[ePrint version](https://ia.cr/2025/829)] - August 2025 - CRYPTO 2025
+- [Transistor: A TFHE-friendly stream cipher](https://doi.org/10.1007/978-3-032-01901-1_17) [[ePrint version](https://ia.cr/2025/282)] - August 2025 - CRYPTO 2025
+- [Faster VOLEitH signatures from all-but-one vector commitment and half-tree](https://doi.org/10.1007/978-981-96-9095-4_11) [[ePrint version](https://ia.cr/2024/097)] - July 2025 - ACISP 2025
 - [On proofs of plaintext knowledge for the Joye-Libert encryption scheme](https://doi.org/10.1007/978-3-031-95764-2_11) - June 2025 - ACNS 2025
 - [Drifting towards better error probabilities in fully homomorphic encryption schemes](https://doi.org/10.1007/978-3-031-91101-9_7) [[ePrint version](https://ia.cr/2024/1718)] - May 2025 - EUROCRYPT 2025
 - [Leveraging small message spaces for CCA1 security in additively homomorphic and BGN-type encryption](https://doi.org/10.1007/978-3-031-91124-8_2) [[ePrint version](https://ia.cr/2024/920)] - May 2025 - EUROCRYPT 2025
