@@ -1,4 +1,4 @@
-# Supporting Guide to Zama AI GitHub Organization
+# Supporting Guide to Zama AI
 
 The guide as a central hub, and sequences content across repos for assimilation: start with "why FHE matters," move to "core tools," then "applications," and end with "advanced engagement." Each section includes:
 
