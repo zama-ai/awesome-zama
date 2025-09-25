@@ -56,7 +56,7 @@ Overview: Compiles Python code to FHE circuits—bridges high-level programming 
 
 #### Key Files
 - [`concrete/README.md`](https://github.com/zama-ai/concrete/blob/main/README.md): Quickstart, examples.
-- No deep MDs in partial crawl; see [docs.zama.ai/concrete](https://docs.zama.ai/concrete) for full guides.
+- See [docs.zama.ai/concrete](https://docs.zama.ai/concrete) for full guides.
 
 #### Learning Path
 1. Install via README (pip install concrete-compiler).
@@ -145,4 +145,7 @@ For deepening knowledge and contributing. Includes papers, talks, and incentives
 - **Search Tip**: GitHub org search for keywords (e.g., "tutorial") to find buried MDs.
 - **External Complements**: Repos link to [docs.zama.ai](https://docs.zama.ai/) for polished guides (e.g., FHEVM Solidity overview).
 
-This guide builds knowledge sequentially: concepts → tools → apps → community. Revisit for projects like an FHEVM dApp. For mainnet updates (as of Sep 2025), check [Zama blog](https://www.zama.ai/post). Happy encrypting!
+This guide builds knowledge sequentially: concepts → tools → apps → community. Revisit for projects like an FHEVM dApp. For mainnet updates, check [Zama blog](https://www.zama.ai/post).
+
+
+Happy encrypting!
