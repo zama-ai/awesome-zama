@@ -74,7 +74,7 @@ Tutorials by the Zama team sorted by date
 - [Dark market application using TFHE-rs](https://www.zama.ai/post/dark-market-tfhe-rs) - July 2023
 - [Regular expression engine with TFHE-rs](https://www.zama.ai/post/regex-engine-tfhe-rs) - June 2023
 
-### Concrete 
+### Concrete
 - [[Video tutorial] Integrate Python FHE modules in Rust using Concrete](https://www.zama.ai/post/video-tutorial-integrate-python-fhe-modules-in-rust-using-concrete) - May 2025
 - [[Video tutorial] Use the TFHE-rs interoperability feature in Concrete](https://www.zama.ai/post/video-tutorial-use-the-tfhe-rs-interoperability-feature-in-concrete) - October 2024
 - [[Video tutorial] Implement GPU acceleration in FHE using Concrete](https://www.zama.ai/post/video-tutorial-implement-gpu-acceleration-in-fhe-using-concrete) - July 2024
@@ -383,11 +383,11 @@ Talks, posters, and presentations by Zama team sorted by date
 - Introducing the Zama confidential blockchain protocol, a cross-chain protocol for confidential smart contracts using FHE - June 2025 - EthCC 8
 - [Unlocking regulated use cases for privacy: Preserving stablecoins](https://streameth.org/stable_summit/watch?session=668a76d16c180915b827aa38) - July 2024 - Stable Summit
 - [Threshold key generation and decryption for FHEVM Chains](https://www.youtube.com/watch?v=upKFexrGoUE) - July 2024 - EthCC 7
-- [Decentralized AI: Safeguarding privacy with FHE ](https://www.youtube.com/watch?v=a6dQQSaEtJM) - July 2024 - EthCC 7 
+- [Decentralized AI: Safeguarding privacy with FHE ](https://www.youtube.com/watch?v=a6dQQSaEtJM) - July 2024 - EthCC 7
 - [FHE on Ethereum](https://www.youtube.com/watch?v=WngC5cvV_fc) July 2024 - EthCC 7
 - [Privacy-preserving machine learning](data/AgoraCloudBruxelles2024.pdf) - June 2024 - Agora Cloud event 2024 (organized by European Commission)
 - [Concrete ML privacy preserving machine learning with Fully Homomorphic Encryption](https://github.com/zama-ai/awesome-zama/blob/main/data/ConcreteMLPresentationZamaMeetupZurich2024.pdf) - May 2024 - Zama Meetup in Zurich (co-located with Eurocrypt 2024)
-- [The Zama FHEVM: Confidential smart contracts using FHE + ZK + MPC](https://github.com/zama-ai/awesome-zama/blob/main/data/FHEVMPresentationZamaMeetupZurich2024.pdf) - May 2024 - Zama Meetup in Zurich (co-located with Eurocrypt 2024)
+- [The Zama FHEVM: Confidential smart contracts using FHE + ZK + MPC](https://github.com/zama-ai/awesome-zama/blob/main/data/fhEVMPresentationZamaMeetupZurich2024.pdf) - May 2024 - Zama Meetup in Zurich (co-located with Eurocrypt 2024)
 - [Privacy-preserving ML with Fully Homomorphic Encryption (Video)](https://www.youtube.com/watch?v=g1Zlu63TP0Y) - May 2024 - Google TechTalks
 - [Privacy-preserving ML with Fully Homomorphic Encryption](https://github.com/zama-ai/awesome-zama/blob/main/data/PPMLMIT2024.pdf) - May 2024 - MIT & Google
 

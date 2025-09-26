@@ -1,0 +1,8 @@
+dirs:
+  - ./
+aliveStatusCodes:
+  - 200
+ignorePatterns:
+  - pattern: '^https://stackoverflow.com/.*$'
+  - pattern: '^https://doi.org/.*$'
+useGitIgnore: true
