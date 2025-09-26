@@ -266,11 +266,13 @@ Research papers and publications by the Zama team sorted by date
 - Bootstrapping (T)FHE ciphertexts via automorphisms: Closing the gap between binary and Gaussian keys [[ePrint version](https://ia.cr/2025/163)] - December 2025 - ASIACRYPT 2025
 - Anamorphic signatures with dictator & recipient unforgeability for long messages - December 2025 - ASIACRYPT 2025
 - Accelerating TFHE with sorted bootstrapping techniques - December 2025 - ASIACRYPT 2025
+- Approximate CRT-based gadget decomposition for fully homomorphic encryption [[ePrint version](https://ia.cr/2024/909)] - November 2025 - IWSEC 2025
 - Efficient fuzzy labeled PSI from vector ring-OLE - November 2025 - CANS 2025
 - Fast homomorphic evaluation of LWR-based PRFs [[ePrint version](https://ia.cr/2024/665)] - October 2025 - ACM CCS 2025
 - Pool: A practical OT-based OPRF from learning with rounding - October 2025 - ACM CCS 2025
 - Towards verifiable FHE in practice: Proving correct execution of TFHE's bootstrapping using plonky2 [[ePrint version](https://ia.cr/2024/451)] - October 2025 - ACM CCS 2025
-- Sharing the mask: TFHE bootstrapping on packed message - September 2025 - CHES 2025
+- Error-simulatable sanitization for TFHE and applications [[ePrint version](https://ia.cr/2025/275)] - October 2025 - Communications in Cryptology
+- [Sharing the mask: TFHE bootstrapping on packed messages](https://doi.org/10.46586/tches.v2025.i4.925-971) - September 2025 - CHES 2025
 - [TFHE gets real: An efficient and flexible homomorphic floating point arithmetic](https://doi.org/10.46586/tches.v2025.i2.126-162) [[ePrint version](https://ia.cr/2025/257)] - September 2025 - CHES 2025
 - [Row reduction techniques for n-party garbling](https://doi.org/10.1007/978-3-032-01884-7_17) [[ePrint version](https://ia.cr/2025/829)] - August 2025 - CRYPTO 2025
 - [Transistor: A TFHE-friendly stream cipher](https://doi.org/10.1007/978-3-032-01901-1_17) [[ePrint version](https://ia.cr/2025/282)] - August 2025 - CRYPTO 2025
@@ -281,7 +283,6 @@ Research papers and publications by the Zama team sorted by date
 - Threshold (fully) homomorphic encryption [[ePrint version](https://ia.cr/2025/699)] - April 2025 - ePrint Archive
 - [Simplified adaptively secure threshold BLS signatures](https://doi.org/10.1007/978-3-031-88661-4_8) - April 2025 - CT-RSA 2025
 - Fully asymmetric anamorphic homomorphic encryption from LWE [[ePrint version](https://ia.cr/2025/328)] - February 2025 - ePrint Archive
-- Error-simulatable sanitization for TFHE and applications [[ePrint version](https://ia.cr/2025/275)] - February 2025 - ePrint Archive
 - [Prime number generation and RSA keys](https://doi.org/10.1002/9781394351930.ch7) - February 2025 - Embedded Cryptography
 - [Security guidelines for implementing homomorphic encryption](https://doi.org/10.62056/anxra69p1) - January 2025 - Communications in Cryptology
 - [Differential fault analysis](https://doi.org/10.1007/978-3-030-71522-9_1707) ‍‍‍- January 2025 - Encyclopedia of Cryptography, Security and Privacy
@@ -293,7 +294,6 @@ Research papers and publications by the Zama team sorted by date
 - [Panacea: Non-interactive and stateless oblivious RAM](https://doi.org/10.1109/EuroSP60621.2024.00049) - July 2024 - EuroS&P 2024
 - What have SNARGs ever done for FHE? [[ePrint version](https://ia.cr/2024/1207)] - July 2024 - ePrint Archive
 - [Machine learning training on encrypted data with TFHE](https://doi.org/10.1145/3643651.3659891) [[arXiv version](https://arxiv.org/abs/2401.16136)] - June 2024 - IWSPA 2024
-- Approximate CRT-based gadget decomposition and application to TFHE blind rotation [[ePrint version](https://ia.cr/2024/909)] - June 2024 - ePrint Archive
 - [Lightweight asynchronous verifiable secret sharing with optimal resilience](https://doi.org/10.1007/s00145-024-09505-6) [[ePrint version](https://ia.cr/2023/536)] - ‍June 2024 - Journal of Cryptology
 - [Crypto dark matter on the torus: Oblivious PRFs from shallow PRFs and TFHE](https://doi.org/10.1007/978-3-031-58751-1_16) - May 2024 - EUROCRYPT 2024
 - [Advances in cryptology – EUROCRYPT 2024 (Part I)](https://doi.org/10.1007/978-3-031-58716-0) [(Part II)](https://doi.org/10.1007/978-3-031-58723-8) [(Part III)](https://doi.org/10.1007/978-3-031-58734-4) [(Part IV)](https://doi.org/10.1007/978-3-031-58737-5) [(Part V)](https://doi.org/10.1007/978-3-031-58740-5) [(Part VI)](https://doi.org/10.1007/978-3-031-58751-1) [(Part VII)](https://doi.org/10.1007/978-3-031-58754-2) - May 2024 - EUROCRYPT 2024
