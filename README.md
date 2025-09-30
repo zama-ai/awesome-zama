@@ -124,6 +124,9 @@ Tutorials by the Zama team sorted by date
 ### Product releases
 Zama's blog posts sorted by date
 
+### Awesome Zama Community (Build By Community)
+- [Personal Zama AI Tutor for Onboarding, Exploring, Learning & Building on ZAMA](https://github.com/Atunde-SS/zama-ai-tutor.git)
+
 #### Zama product release round‑ups
 
 - [Zama Product Releases – July 2025](https://www.zama.ai/post/zama-product-releases-july-2025) – Jul 16 2025
