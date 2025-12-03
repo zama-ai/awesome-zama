@@ -201,6 +201,7 @@ Zama's blog posts sorted by date
 
 
 ### Bounty Program
+- [Zama Bounty Program Season 10: beginner-friendly "Hello FHEVM" tutorial bounty](https://www.zama.ai/post/zama-bounty-program-season-10-create-a-hello-fhevm-tutorial) - September 2025
 - [Zama Bounty Program Season 9: Build a privacy‑preserving DCA bot](https://www.zama.ai/post/zama-bounty-program-season-9) – Jul 25 2025
 - [Announcing the first recipients of the Zama Cryptanalysis Grants](https://www.zama.ai/post/announcing-the-zama-cryptanalysis-grants) - June 2025
 - [Zama Bounty Program Season 8](https://www.zama.ai/post/zama-bounty-program-season-8) - March 2025
