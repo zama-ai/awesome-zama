@@ -16,6 +16,7 @@
   - [Concrete](#concrete)
   - [Concrete ML](#concrete-ml)
   - [fhEVM](#fhevm)
+  - - [FHEVM tutorials and templates](#fhevm-tutorials-and-templates)
   - [Hardware](#hardware)
   - [Product releases](#product-releases)
     - [Zama product release round‑ups](#zama-product-release-roundups)
@@ -117,6 +118,12 @@ Tutorials by the Zama team sorted by date
 - [Onchain blind auctions using FHE](https://www.zama.ai/post/on-chain-blind-auctions-using-homomorphic-encryption) - July 2023
 - [Confidential ERC-20 tokens using Homomorphic Encryption and the fhEVM](https://www.zama.ai/post/confidential-erc-20-tokens-using-homomorphic-encryption) - June 2023
 - [Private smart contract using FHE](https://www.zama.ai/post/private-smart-contracts-using-homomorphic-encryption) - May 2023
+
+### FHEVM tutorials and templates
+
+- Official “Using a template” guide for fhEVM web applications (React + SDK).
+- fhEVM React template for building frontend dApps on top of fhEVM.
+- fhEVM Hardhat template for writing and testing fhEVM-enabled Solidity contracts.
 
  ### Hardware
  - [[Video Tutorial] Introducing Zama’s Hardware Accelerator for FHE - HPU on FPGA](https://www.zama.ai/post/video-tutorial-introducing-zamas-hardware-accelerator-for-fhe-hpu-on-fpga)
