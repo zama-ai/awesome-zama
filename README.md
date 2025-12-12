@@ -43,6 +43,7 @@ Zama's FHE libraries and solutions
 
 ## White papers
 White papers by Zama sorted by date
+- [Zama Confidential Blockchain Protocol Litepaper](https://docs.zama.org/protocol/zama-protocol-litepaper) Overview of the Zama Protocol for confidential smart contracts on existing L1s and L2s. - July 2025
 - [FHEVM Litepaper](https://docs.zama.ai/protocol/zama-protocol-litepaper): Litepaper about the cross-chain protocol for smart contracts. - June 2025
 - [FHEVM whitepaper](https://github.com/zama-ai/fhevm/blob/main/fhevm-whitepaper.pdf): Whitepaper about the cross-chain protocol for smart contracts. - June 2025
 - [TFHE-rs: A Practical Handbook First Edition](https://github.com/zama-ai/tfhe-rs-handbook/blob/main/tfhe-rs-handbook.pdf) - February 2025
