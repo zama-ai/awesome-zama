@@ -310,7 +310,7 @@ Research papers and publications by the Zama team sorted by date
 - [MPC with delayed parties over star-like networks](https://doi.org/10.1007/978-981-99-8721-4_6) [[ePrint version](https://ia.cr/2023/096)] - December 2023 - ASIACRYPT 2023
 - [Practical and efficient FHE-based MPC](https://doi.org/10.1007/978-3-031-47818-5_14) [[ePrint version](https://ia.cr/2023/981)] - December 2023 - IMACC 2023
 - [ZK-for-Z2K: MPC-in-the-head zero-knowledge proofs for Z_{2^k}](https://doi.org/10.1007/978-3-031-47818-5_8) [[ePrint version](https://ia.cr/2023/1057)] - December 2023 - IMACC 2023
-- [Multiparty computation: To secure privacy, do the math](https://dl.acm.org/doi/10.1145/3639448) - November 2023 - ACM Queue
+- [Multiparty computation: To secure privacy, do the math](https://doi.org/10.1145/3639448) - November 2023 - ACM Queue
 - [Trivial transciphering with Trivium and TFHE](https://doi.org/10.1145/3605759.3625255) [[ePrint version](https://ia.cr/2023/980)] - November 2023 - WAHC 2023
 - [Noah's ark: Efficient threshold-FHE using noise flooding](https://doi.org/10.1145/3605759.3625259) [[ePrint version](https://ia.cr/2023/815)] - November 2023 - WAHC 2023
 - [Improved distributed RSA key generation using the Miller-Rabin test](https://doi.org/10.1145/3576915.3623163) - November 2023 - ACM CCS 2023
@@ -354,6 +354,14 @@ Research papers and publications by the Zama team sorted by date
 ## Talks, posters, and presentations
 Talks, posters, and presentations by Zama team sorted by date
 ### Peer-reviewed
+- Randomization in FHE and TFHE - March 2026 - FHE.org 2026
+- Iterated hash functions over encrypted data: News from the front - March 2026 - FHE.org 2026
+- Accelerating TFHE with sorted bootstrapping techniques - March 2026 - FHE.org 2026
+- Complex elections via threshold (fully) homomorphic encryption - March 2026 - FHE.org 2026
+- Sub-millisecond TFHE bootstrapping on GPU - March 2026 - FHE.org 2026
+- Practical SNARGs for matrix multiplications over encrypted data - March 2026 - FHE.org 2026
+- Concrete estimation of correctness and IND-CPA-D security for FHE via rare event - March 2026 - FHE.org 2026
+- Let’s talk: How TFHE became practical - March 2026 - FHE.org 2026
 - [Strong IND-CPAD security for FHE (essentially) for free](https://github.com/user-attachments/files/19464405/1545_JOYE.pdf) - ‍‍March 2025 - FHE.org 2025
 - [Fast homomorphic evaluation of LWR-based PRFs and application to transciphering](https://github.com/user-attachments/files/19668511/poster1.pdf) - ‍‍March 2025 - FHE.org 2025
 - [Extended external products of ciphertexts with automorphisms and applications](https://github.com/user-attachments/files/19668524/poster2-1.pdf) - ‍‍March 2025 - FHE.org 2025
