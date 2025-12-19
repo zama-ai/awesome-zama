@@ -69,7 +69,7 @@ Tutorials by the Zama team sorted by date
 - [[Video tutorial] Perform array and tensor operations on encrypted data using TFHE-rs](https://www.zama.ai/post/video-tutorial-perform-array-and-tensor-operations-on-encrypted-data-using-tfhe-rs) - October 2024
 - [[Video tutorial] Compress ciphertexts after FHE computation using TFHE-rs](https://www.zama.ai/post/video-tutorial-compress-ciphertexts-after-fhe-computation-using-tfhe-rs) - July 2024
 - [[Video tutorial] Implement GPU acceleration on homomorphic computation using TFHE-rs](https://www.zama.ai/post/video-tutorial-implement-gpu-acceleration-on-homomorphic-computation-using-tfhe-rs) - May 2024
-- [[Video tutorial] Implement signed integers using TFHE-rs](https://www.zama.ai/post/video-tutorial-implement-signed-integers-ssing-tfhe-rs) - November 2023
+- [[Video tutorial] Implement signed integers using TFHE-rs](https://www.youtube.com/watch?v=O0aGj_xUo40) - November 2023
 - [Boolean SHA256 using TFHE-rs](https://www.zama.ai/post/boolean-sha256-tfhe-rs) - July 2023
 - [Dark market application using TFHE-rs](https://www.zama.ai/post/dark-market-tfhe-rs) - July 2023
 - [Regular expression engine with TFHE-rs](https://www.zama.ai/post/regex-engine-tfhe-rs) - June 2023
@@ -263,37 +263,40 @@ Zama's blog posts sorted by date
 ## Research papers and publications
 Research papers and publications by the Zama team sorted by date
 
-- Bootstrapping (T)FHE ciphertexts via automorphisms: Closing the gap between binary and Gaussian keys [[ePrint version](https://ia.cr/2025/163)] - December 2025 - ASIACRYPT 2025
-- Anamorphic signatures with dictator & recipient unforgeability for long messages - December 2025 - ASIACRYPT 2025
-- Accelerating TFHE with sorted bootstrapping techniques - December 2025 - ASIACRYPT 2025
-- Approximate CRT-based gadget decomposition for fully homomorphic encryption [[ePrint version](https://ia.cr/2024/909)] - November 2025 - IWSEC 2025
-- Efficient fuzzy labeled PSI from vector ring-OLE - November 2025 - CANS 2025
-- Fast homomorphic evaluation of LWR-based PRFs [[ePrint version](https://ia.cr/2024/665)] - October 2025 - ACM CCS 2025
-- Pool: A practical OT-based OPRF from learning with rounding - October 2025 - ACM CCS 2025
-- Towards verifiable FHE in practice: Proving correct execution of TFHE's bootstrapping using plonky2 [[ePrint version](https://ia.cr/2024/451)] - October 2025 - ACM CCS 2025
-- Error-simulatable sanitization for TFHE and applications [[ePrint version](https://ia.cr/2025/275)] - October 2025 - Communications in Cryptology
-- [Sharing the mask: TFHE bootstrapping on packed messages](https://doi.org/10.46586/tches.v2025.i4.925-971) - September 2025 - CHES 2025
+- [Bootstrapping (T)FHE ciphertexts via automorphisms: Closing the gap between binary and Gaussian keys](https://doi.org/10.1007/978-981-95-5122-4_1) [[ePrint version](https://ia.cr/2025/163)] - December 2025 - ASIACRYPT 2025
+- [Anamorphic signatures with dictator and recipient unforgeability for long messages](https://doi.org/10.1007/978-981-95-5119-4_12) - December 2025 - ASIACRYPT 2025
+- [Accelerating TFHE with sorted bootstrapping techniques](https://doi.org/10.1007/978-981-95-5122-4_3) [[ePrint version](https://ia.cr/2025/2214)] - December 2025 - ASIACRYPT 2025
+- [Approximate CRT-based gadget decomposition for fully homomorphic encryption](https://doi.org/10.1007/978-981-95-4674-9_3) [[ePrint version](https://ia.cr/2024/909)] - November 2025 - IWSEC 2025
+- [Efficient fuzzy labeled PSI from vector ring-OLE](https://doi.org/10.1007/978-981-95-4434-9_8) [[ePrint version](https://ia.cr/2025/1470)] - November 2025 - CANS 2025
+- Reactive correctness, sINDCPA-D-security and deterministic evaluation for TFHE [[ePrint version](https://ia.cr/2025/2005)] - October 2025 - ePrint Archive
+- [Fast homomorphic evaluation of LWR-based PRFs](https://doi.org/10.1145/3719027.3765177) [[ePrint version](https://ia.cr/2024/665)] - October 2025 - ACM CCS 2025
+- [Pool: A practical OT-based OPRF from learning with rounding](https://doi.org/10.1145/3719027.3765054) [[ePrint version](https://ia.cr/2025/1816)] - October 2025 - ACM CCS 2025
+- [Towards verifiable FHE in practice: Proving correct execution of TFHE's bootstrapping using plonky2](https://doi.org/10.1145/3719027.3765097) [[ePrint version](https://ia.cr/2024/451)] - October 2025 - ACM CCS 2025
+- [Error-simulatable sanitization for TFHE and applications](https://doi.org/10.62056/a0lmpgxq) [[ePrint version](https://ia.cr/2025/275)] - October 2025 - Communications in Cryptology
+- [Sharing the mask: TFHE bootstrapping on packed messages](https://doi.org/10.46586/tches.v2025.i4.925-971) [[ePrint version](https://ia.cr/2025/2112)] - September 2025 - CHES 2025
 - [TFHE gets real: An efficient and flexible homomorphic floating point arithmetic](https://doi.org/10.46586/tches.v2025.i2.126-162) [[ePrint version](https://ia.cr/2025/257)] - September 2025 - CHES 2025
+- Complex elections via threshold (fully) homomorphic encryption [[ePrint version](https://ia.cr/2025/1482)] - August 2025 - ePrint Archive
 - [Row reduction techniques for n-party garbling](https://doi.org/10.1007/978-3-032-01884-7_17) [[ePrint version](https://ia.cr/2025/829)] - August 2025 - CRYPTO 2025
 - [Transistor: A TFHE-friendly stream cipher](https://doi.org/10.1007/978-3-032-01901-1_17) [[ePrint version](https://ia.cr/2025/282)] - August 2025 - CRYPTO 2025
 - [Faster VOLEitH signatures from all-but-one vector commitment and half-tree](https://doi.org/10.1007/978-981-96-9095-4_11) [[ePrint version](https://ia.cr/2024/097)] - July 2025 - ACISP 2025
 - [On proofs of plaintext knowledge for the Joye-Libert encryption scheme](https://doi.org/10.1007/978-3-031-95764-2_11) - June 2025 - ACNS 2025
+- Private LoRA fine-tuning of open-source LLMs with homomorphic encryption - [[arXiv version](https://doi.org/10.48550/arXiv.2505.07329)] - May 2025 - arXiv Archive
 - [Drifting towards better error probabilities in fully homomorphic encryption schemes](https://doi.org/10.1007/978-3-031-91101-9_7) [[ePrint version](https://ia.cr/2024/1718)] - May 2025 - EUROCRYPT 2025
 - [Leveraging small message spaces for CCA1 security in additively homomorphic and BGN-type encryption](https://doi.org/10.1007/978-3-031-91124-8_2) [[ePrint version](https://ia.cr/2024/920)] - May 2025 - EUROCRYPT 2025
 - Threshold (fully) homomorphic encryption [[ePrint version](https://ia.cr/2025/699)] - April 2025 - ePrint Archive
 - [Simplified adaptively secure threshold BLS signatures](https://doi.org/10.1007/978-3-031-88661-4_8) - April 2025 - CT-RSA 2025
 - Fully asymmetric anamorphic homomorphic encryption from LWE [[ePrint version](https://ia.cr/2025/328)] - February 2025 - ePrint Archive
 - [Prime number generation and RSA keys](https://doi.org/10.1002/9781394351930.ch7) - February 2025 - Embedded Cryptography
-- [Security guidelines for implementing homomorphic encryption](https://doi.org/10.62056/anxra69p1) - January 2025 - Communications in Cryptology
+- [Security guidelines for implementing homomorphic encryption](https://doi.org/10.62056/anxra69p1) [[ePrint version](https://ia.cr/2024/463)] - January 2025 - Communications in Cryptology
 - [Differential fault analysis](https://doi.org/10.1007/978-3-030-71522-9_1707) ‍‍‍- January 2025 - Encyclopedia of Cryptography, Security and Privacy
 - [Updatable privacy-preserving blueprints](https://doi.org/10.1007/978-981-96-0875-1_4) [[ePrint version](https://ia.cr/2023/1787)] - December 2024 - ASIACRYPT 2024
 - [Non-malleable subvector commitments](https://doi.org/10.1007/978-981-96-0891-1_1) - December 2024 - ASIACRYPT 2024
-- [New secret keys for enhanced performance in (T)FHE]() [[ePrint version](https://ia.cr/2023/979)] - October 2024 - ACM CCS 2024
+- [New secret keys for enhanced performance in (T)FHE](https://doi.org/10.1145/3658644.3670376) [[ePrint version](https://ia.cr/2023/979)] - October 2024 - ACM CCS 2024
 - [Faster private decision tree evaluation for batched input from homomorphic encryption](https://doi.org/10.1007/978-3-031-71073-5_1) [[ePrint version](https://ia.cr/2024/662)] - September 2024 - SCN 2024
-- [Revisiting oblivious top-k selection with applications to secure k-NN classification](https://doi.org/10.1007/978-3-031-82852-2_1) - August 2024 - SAC 2024
+- [Revisiting oblivious top-k selection with applications to secure k-NN classification](https://doi.org/10.1007/978-3-031-82852-2_1) [[ePrint version](https://ia.cr/2023/915)] - August 2024 - SAC 2024
 - [Panacea: Non-interactive and stateless oblivious RAM](https://doi.org/10.1109/EuroSP60621.2024.00049) - July 2024 - EuroS&P 2024
 - What have SNARGs ever done for FHE? [[ePrint version](https://ia.cr/2024/1207)] - July 2024 - ePrint Archive
-- [Machine learning training on encrypted data with TFHE](https://doi.org/10.1145/3643651.3659891) [[arXiv version](https://arxiv.org/abs/2401.16136)] - June 2024 - IWSPA 2024
+- [Machine learning training on encrypted data with TFHE](https://doi.org/10.1145/3643651.3659891) [[arXiv version](https://doi.org/10.48550/arXiv.2401.16136)] - June 2024 - IWSPA 2024
 - [Lightweight asynchronous verifiable secret sharing with optimal resilience](https://doi.org/10.1007/s00145-024-09505-6) [[ePrint version](https://ia.cr/2023/536)] - ‍June 2024 - Journal of Cryptology
 - [Crypto dark matter on the torus: Oblivious PRFs from shallow PRFs and TFHE](https://doi.org/10.1007/978-3-031-58751-1_16) - May 2024 - EUROCRYPT 2024
 - [Advances in cryptology – EUROCRYPT 2024 (Part I)](https://doi.org/10.1007/978-3-031-58716-0) [(Part II)](https://doi.org/10.1007/978-3-031-58723-8) [(Part III)](https://doi.org/10.1007/978-3-031-58734-4) [(Part IV)](https://doi.org/10.1007/978-3-031-58737-5) [(Part V)](https://doi.org/10.1007/978-3-031-58740-5) [(Part VI)](https://doi.org/10.1007/978-3-031-58751-1) [(Part VII)](https://doi.org/10.1007/978-3-031-58754-2) - May 2024 - EUROCRYPT 2024
@@ -303,7 +306,7 @@ Research papers and publications by the Zama team sorted by date
 - [Vector commitments with proofs of smallness: Short range proofs and more](https://doi.org/10.1007/978-3-031-57722-2_2) [[ePrint version](https://ia.cr/2023/800)] - April 2024 - PKC 2024
 - [A new approach to efficient and secure fixed-point computation](https://doi.org/10.1007/978-3-031-54770-6_3) [[ePrint version](https://ia.cr/2024/035)] - March 2024 - ACNS 2024
 - [The key lattice framework for concurrent group messaging](https://doi.org/10.1007/978-3-031-54773-7_6) [[ePrint version](https://ia.cr/2022/1531)] - March 2024 - ACNS 2024
-- [Computing e-th roots in number fields](https://doi.org/10.1137/1.9781611977929.16) [[arXiv version](https://arxiv.org/abs/2305.17425)] - January 2024 - ALENEX 2024
+- [Computing e-th roots in number fields](https://doi.org/10.1137/1.9781611977929.16) [[arXiv version](https://doi.org/10.48550/arXiv.2305.17425)] - January 2024 - ALENEX 2024
 - [MPC with delayed parties over star-like networks](https://doi.org/10.1007/978-981-99-8721-4_6) [[ePrint version](https://ia.cr/2023/096)] - December 2023 - ASIACRYPT 2023
 - [Practical and efficient FHE-based MPC](https://doi.org/10.1007/978-3-031-47818-5_14) [[ePrint version](https://ia.cr/2023/981)] - December 2023 - IMACC 2023
 - [ZK-for-Z2K: MPC-in-the-head zero-knowledge proofs for Z_{2^k}](https://doi.org/10.1007/978-3-031-47818-5_8) [[ePrint version](https://ia.cr/2023/1057)] - December 2023 - IMACC 2023
