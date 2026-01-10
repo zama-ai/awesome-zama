@@ -228,6 +228,7 @@ Zama's blog posts sorted by date
 
 ### Engineering articles
 
+- [Zama Developer Hub](https://www.zama.ai/developer-hub) – Central hub for FHEVM and FHE developer resources, including tutorials, examples, and SDK guides.
 - [Building encrypted iOS apps using Fully Homomorphic Encryption](https://www.zama.ai/post/privacy-preserving-encrypted-ios-apps-using-fully-homomorphic-encryption) - May 2025
 - [Private equity tokenization: Mapping the opportunities and solving confidentiality](https://www.zama.ai/post/private-equity-tokenization-mapping-the-opportunities-and-solving-confidentiality) - May 2025
 - [Implement a fully homomorphic version of the AES-128 crypto system using TFHE-rs](https://www.zama.ai/post/implement-fhe-aes-128-tfhe-rs) - April 2025
