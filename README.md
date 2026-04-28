@@ -360,20 +360,20 @@ Research papers and publications by the Zama team sorted by date
 ## Talks, posters, and presentations
 Talks, posters, and presentations by Zama team sorted by date
 ### Peer-reviewed
-- Randomization in FHE and TFHE - March 2026 - FHE.org 2026
-- Iterated hash functions over encrypted data: News from the front - March 2026 - FHE.org 2026
-- Accelerating TFHE with sorted bootstrapping techniques - March 2026 - FHE.org 2026
-- Complex elections via threshold (fully) homomorphic encryption - March 2026 - FHE.org 2026
-- Sub-millisecond TFHE bootstrapping on GPU - March 2026 - FHE.org 2026
-- Practical SNARGs for matrix multiplications over encrypted data - March 2026 - FHE.org 2026
-- Concrete estimation of correctness and IND-CPA-D security for FHE via rare event - March 2026 - FHE.org 2026
-- Let’s talk: How TFHE became practical - March 2026 - FHE.org 2026
+- [Randomization in FHE and TFHE](https://fhe.org/conferences/conference-2026/resources/slides/1325_Smart.pdf) - March 2026 - FHE.org 2026
+- [Iterated hash functions over encrypted data: News from the front](https://fhe.org/conferences/conference-2026/resources/slides/1350_Joye.pdf) - March 2026 - FHE.org 2026
+- [Accelerating TFHE with sorted bootstrapping techniques](https://fhe.org/conferences/conference-2026/resources/slides/1300_Bergerat.pdf) - March 2026 - FHE.org 2026
+- [Complex elections via threshold (fully) homomorphic encryption](https://fhe.org/conferences/conference-2026/resources/posters/%5B02%5D%20-%20Complex%20Elections%20via%20Threshold%20(Fully)%20Homomorphic%20Encryption.pdf) - March 2026 - FHE.org 2026
+- [Sub-millisecond TFHE bootstrapping on GPU](https://fhe.org/conferences/conference-2026/resources/posters/%5B07%5D%20-%20Sub-Millisecond%20TFHE%20Bootstrapping%20on%20GPU.pdf) - March 2026 - FHE.org 2026
+- [Practical SNARGs for matrix multiplications over encrypted data](https://fhe.org/conferences/conference-2026/resources/posters/%5B11%5D%20-%20Practical%20SNARGs%20for%20Matrix%20Multiplications%20over%20Encrypted%20Data.pdf) - March 2026 - FHE.org 2026
+- [Concrete estimation of correctness and IND-CPA-D security for FHE via rare event](https://fhe.org/conferences/conference-2026/resources/posters/%5B14%5D%20-%20Concrete%20Estimation%20of%20Correctness%20and%20IND-CPA-D%20Security%20for%20FHE%20via%20Rare%20Event%20Simulation.pdf) - March 2026 - FHE.org 2026
+- [Let’s talk: How TFHE became practical](https://fhe.org/conferences/conference-2026/resources/posters/%5B22%5D%20-%20Let%E2%80%99s%20Talk_%20How%20TFHE%20Became%20Practical.pdf) - March 2026 - FHE.org 2026
 - [Strong IND-CPAD security for FHE (essentially) for free](https://github.com/user-attachments/files/19464405/1545_JOYE.pdf) - ‍‍March 2025 - FHE.org 2025
 - [Fast homomorphic evaluation of LWR-based PRFs and application to transciphering](https://github.com/user-attachments/files/19668511/poster1.pdf) - ‍‍March 2025 - FHE.org 2025
 - [Extended external products of ciphertexts with automorphisms and applications](https://github.com/user-attachments/files/19668524/poster2-1.pdf) - ‍‍March 2025 - FHE.org 2025
-- Practical robust MPC for Galois rings - March 2025 - TPMPC & RWMPC 2025
+- Practical robust MPC for Galois rings [[video](https://vimeo.com/1076576731/23b0af5730)] - March 2025 - TPMPC & RWMPC 2025
 - [Towards verifiable FHE in practice](https://eprint.iacr.org/2024/451) - October 2024 - zkSummit12
-- Advanced FHE and MPC protocols for the blockchain - June 2024 - TPMPC 2024
+- Advanced FHE and MPC protocols for the blockchain [[video](https://www.youtube.com/watch?v=VmSubk7s-zs)] - June 2024 - TPMPC 2024
 - [IP protection & privacy in LLM: Leveraging Fully Homomorphic Encryption](data/RSA2024.pdf) [[video](https://www.youtube.com/watch?v=lmIgGD8csy0)] - May 2024 - RSA Conference 2024
 - [Advanced FHE protocols for the blockchain](https://iacr.org/submit/files/slides/2024/rwc/rwc2024/5/slides.pptx) - ‍‍March 2024 - RWC 2024
 - [Revisiting oblivious top-k selection with applications to secure k-NN classification](https://github.com/FHE-org/fhe-org.github.io/files/14896282/1635-Geelen.pdf) - ‍‍March 2024 - FHE.org 2024
