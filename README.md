@@ -264,9 +264,9 @@ Zama's blog posts sorted by date
 Research papers and publications by the Zama team sorted by date
 
 - Snake-eye resistant and robust PKE from (ring-)LWE with small secrets - August 2026 - SAC 2026
-- Boolean arithmetic over 𝔽₂ from group commutators [[ePrint version](https://ia.cr/2026/701)] - June 2026 - WAIFI 2026
-- Fully asymmetric anamorphic homomorphic encryption from LWE [[ePrint version](https://ia.cr/2025/328)] - May 2026 - EUROCRYPT 2026
-- Reactive correctness, sINDCPA-D-security and deterministic evaluation for TFHE [[ePrint version](https://ia.cr/2025/2005)] - April 2026 - Communications in Cryptology
+- [Boolean arithmetic over 𝔽₂ from group commutators](https://doi.org/10.1007/978-3-032-27574-5_15) [[ePrint version](https://ia.cr/2026/701)] - June 2026 - WAIFI 2026
+- [Fully asymmetric anamorphic homomorphic encryption from LWE](https://doi.org/10.1007/978-3-032-25330-9_21) [[ePrint version](https://ia.cr/2025/328)] - May 2026 - EUROCRYPT 2026
+- [Reactive correctness, sINDCPA-D-security and deterministic evaluation for TFHE](https://doi.org/10.62056/aksdkmol) [[ePrint version](https://ia.cr/2025/2005)] - April 2026 - Communications in Cryptology
 - Concrete estimation of correctness and IND-CPA-D security for FHE via rare event simulation [[ePrint version](https://ia.cr/2026/610)] - March 2026 - ePrint Archive
 - Hash function constructions from lightweight block ciphers for fully homomorphic encryption [[ePrint version](https://ia.cr/2026/309)] - February 2026 - ePrint Archive
 - Faster short pairing-based NIZK proofs for ring LWE ciphertexts [[ePrint version](https://ia.cr/2026/033)] - January 2026 - ePrint Archive
@@ -360,6 +360,7 @@ Research papers and publications by the Zama team sorted by date
 ## Talks, posters, and presentations
 Talks, posters, and presentations by Zama team sorted by date
 ### Peer-reviewed
+- Protecting high-value assets using robust MPC - May 2026 - TPMPC 2026
 - [Randomization in FHE and TFHE](https://fhe.org/conferences/conference-2026/resources/slides/1325_Smart.pdf) - March 2026 - FHE.org 2026
 - [Iterated hash functions over encrypted data: News from the front](https://fhe.org/conferences/conference-2026/resources/slides/1350_Joye.pdf) - March 2026 - FHE.org 2026
 - [Accelerating TFHE with sorted bootstrapping techniques](https://fhe.org/conferences/conference-2026/resources/slides/1300_Bergerat.pdf) - March 2026 - FHE.org 2026
@@ -368,6 +369,7 @@ Talks, posters, and presentations by Zama team sorted by date
 - [Practical SNARGs for matrix multiplications over encrypted data](https://fhe.org/conferences/conference-2026/resources/posters/%5B11%5D%20-%20Practical%20SNARGs%20for%20Matrix%20Multiplications%20over%20Encrypted%20Data.pdf) - March 2026 - FHE.org 2026
 - [Concrete estimation of correctness and IND-CPA-D security for FHE via rare event](https://fhe.org/conferences/conference-2026/resources/posters/%5B14%5D%20-%20Concrete%20Estimation%20of%20Correctness%20and%20IND-CPA-D%20Security%20for%20FHE%20via%20Rare%20Event%20Simulation.pdf) - March 2026 - FHE.org 2026
 - [Let’s talk: How TFHE became practical](https://fhe.org/conferences/conference-2026/resources/posters/%5B22%5D%20-%20Let%E2%80%99s%20Talk_%20How%20TFHE%20Became%20Practical.pdf) - March 2026 - FHE.org 2026
+- [TFHE (FHE), ZHEnith (ZK) and Nexus (MPC)](https://csrc.nist.gov/csrc/media/presentations/2026/mpts2026-2b3/images-media/mpts2026-2b3-slides-zama-fhe-smart.pdf) - January 2026 - MPTS 2026
 - [Strong IND-CPAD security for FHE (essentially) for free](https://github.com/user-attachments/files/19464405/1545_JOYE.pdf) - ‍‍March 2025 - FHE.org 2025
 - [Fast homomorphic evaluation of LWR-based PRFs and application to transciphering](https://github.com/user-attachments/files/19668511/poster1.pdf) - ‍‍March 2025 - FHE.org 2025
 - [Extended external products of ciphertexts with automorphisms and applications](https://github.com/user-attachments/files/19668524/poster2-1.pdf) - ‍‍March 2025 - FHE.org 2025
