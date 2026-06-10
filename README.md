@@ -264,6 +264,7 @@ Zama's blog posts sorted by date
 Research papers and publications by the Zama team sorted by date
 
 - Snake-eye resistant and robust PKE from (ring-)LWE with small secrets - August 2026 - SAC 2026
+- Verifiable bootstrapping from lattice-based folding [[ePrint version](https://ia.cr/2026/1127)] - June 2026 - ePrint Archive
 - [Boolean arithmetic over 𝔽₂ from group commutators](https://doi.org/10.1007/978-3-032-27574-5_15) [[ePrint version](https://ia.cr/2026/701)] - June 2026 - WAIFI 2026
 - [Fully asymmetric anamorphic homomorphic encryption from LWE](https://doi.org/10.1007/978-3-032-25330-9_21) [[ePrint version](https://ia.cr/2025/328)] - May 2026 - EUROCRYPT 2026
 - [Reactive correctness, sINDCPA-D-security and deterministic evaluation for TFHE](https://doi.org/10.62056/aksdkmol) [[ePrint version](https://ia.cr/2025/2005)] - April 2026 - Communications in Cryptology
@@ -272,7 +273,7 @@ Research papers and publications by the Zama team sorted by date
 - Faster short pairing-based NIZK proofs for ring LWE ciphertexts [[ePrint version](https://ia.cr/2026/033)] - January 2026 - ePrint Archive
 - Practical SNARGs for matrix multiplications over encrypted data [[ePrint version](https://ia.cr/2026/027)] - January 2026 - ePrint Archive
 - [Bootstrapping (T)FHE ciphertexts via automorphisms: Closing the gap between binary and Gaussian keys](https://doi.org/10.1007/978-981-95-5122-4_1) [[ePrint version](https://ia.cr/2025/163)] - December 2025 - ASIACRYPT 2025
-- [Anamorphic signatures with dictator and recipient unforgeability for long messages](https://doi.org/10.1007/978-981-95-5119-4_12) - December 2025 - ASIACRYPT 2025
+- [Anamorphic signatures with dictator and recipient unforgeability for long messages](https://doi.org/10.1007/978-981-95-5119-4_12) [[ePrint version](https://ia.cr/2025/2312)] - December 2025 - ASIACRYPT 2025
 - [Accelerating TFHE with sorted bootstrapping techniques](https://doi.org/10.1007/978-981-95-5122-4_3) [[ePrint version](https://ia.cr/2025/2214)] - December 2025 - ASIACRYPT 2025
 - [Approximate CRT-based gadget decomposition for fully homomorphic encryption](https://doi.org/10.1007/978-981-95-4674-9_3) [[ePrint version](https://ia.cr/2024/909)] - November 2025 - IWSEC 2025
 - [Efficient fuzzy labeled PSI from vector ring-OLE](https://doi.org/10.1007/978-981-95-4434-9_8) [[ePrint version](https://ia.cr/2025/1470)] - November 2025 - CANS 2025
