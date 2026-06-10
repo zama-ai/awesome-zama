@@ -64,6 +64,7 @@ Demos by Zama's Concrete ML sorted by date
 Tutorials by the Zama team sorted by date
 
 ### TFHE-rs
+- [Homomorphic case changing on ASCII string | TFHE-rs](https://docs.zama.ai/tfhe-rs/1.2/tutorials/ascii_fhe_string) - Tutorial demonstrating how to build your own data type representing an ASCII string in FHE, implementing `to_lower` and `to_upper`. *(TFHE-rs v0.11 strings feature)*
 - [[Video tutorial] Introducing Zama’s hardware accelerator for FHE - HPU on FPGA](https://www.zama.ai/post/video-tutorial-introducing-zamas-hardware-accelerator-for-fhe-hpu-on-fpga) - June 2025
 - [[Video tutorial] Improving multiple-GPU throughput using TFHE-rs](https://www.zama.ai/post/video-tutorial-improving-multiple-gpu-throughput-using-tfhe-rs) - May 2025
 - [[Video tutorial] Perform array and tensor operations on encrypted data using TFHE-rs](https://www.zama.ai/post/video-tutorial-perform-array-and-tensor-operations-on-encrypted-data-using-tfhe-rs) - October 2024
@@ -90,6 +91,7 @@ Tutorials by the Zama team sorted by date
 - [Encrypted search using fully homomorphic encryption](https://www.zama.ai/post/encrypted-search-using-fully-homomorphic-encryption) - February 2022
 
 ### Concrete ML
+- [Step-by-step Guide | Concrete ML Deep Learning](https://docs.zama.ai/concrete-ml/1.2/deep-learning/fhe_friendly_models) - Guide to converting a PyTorch neural network into its FHE-friendly, quantized counterpart. *(Concrete ML v1.2 docs)*
 - [[Video tutorial] Fine-tune LLM models on encrypted data using Concrete ML](https://www.zama.ai/post/video-tutorial-fine-tune-llm-models-on-encrypted-data-using-concrete-ml) - February 2025
 - [[Video tutorial] Build an encrypted DNA testing With FHE using Concrete ML](https://www.zama.ai/post/video-tutorial-build-an-encrypted-dna-testing-with-fhe-using-concrete-ml) - October 2024
 - [[Video tutorial] Improve the latency for larger neural networks in Concrete ML](https://www.zama.ai/post/video-tutorial-improve-the-latency-for-larger-neural-networks-in-concrete-ml) - July 2024
@@ -213,6 +215,8 @@ Zama's blog posts sorted by date
 - [Launching the Zama Bounty Program with over €500,000 in prizes](https://www.zama.ai/post/launching-the-zama-bounty-program) - November 2022
 
 ### Announcements
+- [Zama Creator Program Season 4 is Live](https://www.zama.org/post/zama-creator-program-season-4) – November 7 2025  
+- [Zama Forms Strategic Partnership with Conduit to Expand Confidential Smart Contracts](https://www.bitget.com/news/detail/12560604889129) – July 31 2025  
 - [Zama Partners with Conduit to Scale Confidential Smart Contracts](https://www.zama.ai/post/zama-partners-with-conduit-to-scale-confidential-smart-contracts)
 - [Zama Partners with OpenZeppelin to Bring Confidential Smart Contracts to DeFi and Digital Assets](https://www.zama.ai/post/zama-partners-with-openzeppelin-to-bring-confidential-smart-contracts-to-defi-and-digital-assets)
 - [Announcing Our Series B and the Zama Confidential Blockchain Protocol](https://www.zama.ai/post/announcing-the-zama-confidential-blockchain-protocol)
