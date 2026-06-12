@@ -373,12 +373,20 @@ Zama's blog posts sorted by date
 ### Research Papers and Publications
 Research papers and publications by the Zama team sorted by date
 
+- Snake-eye resistant and robust PKE from (ring-)LWE with small secrets - August 2026 - SAC 2026
+- Verifiable bootstrapping from lattice-based folding [[ePrint version](https://ia.cr/2026/1127)] - June 2026 - ePrint Archive
+- [Boolean arithmetic over 𝔽₂ from group commutators](https://doi.org/10.1007/978-3-032-27574-5_15) [[ePrint version](https://ia.cr/2026/701)] - June 2026 - WAIFI 2026
+- [Fully asymmetric anamorphic homomorphic encryption from LWE](https://doi.org/10.1007/978-3-032-25330-9_21) [[ePrint version](https://ia.cr/2025/328)] - May 2026 - EUROCRYPT 2026
+- [Reactive correctness, sINDCPA-D-security and deterministic evaluation for TFHE](https://doi.org/10.62056/aksdkmol) [[ePrint version](https://ia.cr/2025/2005)] - April 2026 - Communications in Cryptology
+- Concrete estimation of correctness and IND-CPA-D security for FHE via rare event simulation [[ePrint version](https://ia.cr/2026/610)] - March 2026 - ePrint Archive
+- Hash function constructions from lightweight block ciphers for fully homomorphic encryption [[ePrint version](https://ia.cr/2026/309)] - February 2026 - ePrint Archive
+- Faster short pairing-based NIZK proofs for ring LWE ciphertexts [[ePrint version](https://ia.cr/2026/033)] - January 2026 - ePrint Archive
+- Practical SNARGs for matrix multiplications over encrypted data [[ePrint version](https://ia.cr/2026/027)] - January 2026 - ePrint Archive
 - [Bootstrapping (T)FHE ciphertexts via automorphisms: Closing the gap between binary and Gaussian keys](https://doi.org/10.1007/978-981-95-5122-4_1) [[ePrint version](https://ia.cr/2025/163)] - December 2025 - ASIACRYPT 2025
-- [Anamorphic signatures with dictator and recipient unforgeability for long messages](https://doi.org/10.1007/978-981-95-5119-4_12) - December 2025 - ASIACRYPT 2025
+- [Anamorphic signatures with dictator and recipient unforgeability for long messages](https://doi.org/10.1007/978-981-95-5119-4_12) [[ePrint version](https://ia.cr/2025/2312)] - December 2025 - ASIACRYPT 2025
 - [Accelerating TFHE with sorted bootstrapping techniques](https://doi.org/10.1007/978-981-95-5122-4_3) [[ePrint version](https://ia.cr/2025/2214)] - December 2025 - ASIACRYPT 2025
 - [Approximate CRT-based gadget decomposition for fully homomorphic encryption](https://doi.org/10.1007/978-981-95-4674-9_3) [[ePrint version](https://ia.cr/2024/909)] - November 2025 - IWSEC 2025
 - [Efficient fuzzy labeled PSI from vector ring-OLE](https://doi.org/10.1007/978-981-95-4434-9_8) [[ePrint version](https://ia.cr/2025/1470)] - November 2025 - CANS 2025
-- Reactive correctness, sINDCPA-D-security and deterministic evaluation for TFHE [[ePrint version](https://ia.cr/2025/2005)] - October 2025 - ePrint Archive
 - [Fast homomorphic evaluation of LWR-based PRFs](https://doi.org/10.1145/3719027.3765177) [[ePrint version](https://ia.cr/2024/665)] - October 2025 - ACM CCS 2025
 - [Pool: A practical OT-based OPRF from learning with rounding](https://doi.org/10.1145/3719027.3765054) [[ePrint version](https://ia.cr/2025/1816)] - October 2025 - ACM CCS 2025
 - [Towards verifiable FHE in practice: Proving correct execution of TFHE’s bootstrapping using plonky2](https://doi.org/10.1145/3719027.3765097) [[ePrint version](https://ia.cr/2024/451)] - October 2025 - ACM CCS 2025
@@ -395,7 +403,6 @@ Research papers and publications by the Zama team sorted by date
 - [Leveraging small message spaces for CCA1 security in additively homomorphic and BGN-type encryption](https://doi.org/10.1007/978-3-031-91124-8_2) [[ePrint version](https://ia.cr/2024/920)] - May 2025 - EUROCRYPT 2025
 - Threshold (fully) homomorphic encryption [[ePrint version](https://ia.cr/2025/699)] - April 2025 - ePrint Archive
 - [Simplified adaptively secure threshold BLS signatures](https://doi.org/10.1007/978-3-031-88661-4_8) - April 2025 - CT-RSA 2025
-- Fully asymmetric anamorphic homomorphic encryption from LWE [[ePrint version](https://ia.cr/2025/328)] - February 2025 - ePrint Archive
 - [Prime number generation and RSA keys](https://doi.org/10.1002/9781394351930.ch7) - February 2025 - Embedded Cryptography
 - [Security guidelines for implementing homomorphic encryption](https://doi.org/10.62056/anxra69p1) [[ePrint version](https://ia.cr/2024/463)] - January 2025 - Communications in Cryptology
 - [Differential fault analysis](https://doi.org/10.1007/978-3-030-71522-9_1707) ‍‍‍- January 2025 - Encyclopedia of Cryptography, Security and Privacy
@@ -418,8 +425,8 @@ Research papers and publications by the Zama team sorted by date
 - [The key lattice framework for concurrent group messaging](https://doi.org/10.1007/978-3-031-54773-7_6) [[ePrint version](https://ia.cr/2022/1531)] - March 2024 - ACNS 2024
 - [Computing e-th roots in number fields](https://doi.org/10.1137/1.9781611977929.16) [[arXiv version](https://doi.org/10.48550/arXiv.2305.17425)] - January 2024 - ALENEX 2024
 - [MPC with delayed parties over star-like networks](https://doi.org/10.1007/978-981-99-8721-4_6) [[ePrint version](https://ia.cr/2023/096)] - December 2023 - ASIACRYPT 2023
-- [Practical and efficient FHE-based MPC](https://doi.org/10.1007/978-3-031-47818-5_14) [[ePrint version](https://ia.cr/2023/981)] - December 2023 - IMACC 2023
-- [ZK-for-Z2K: MPC-in-the-head zero-knowledge proofs for Z_{2^k}](https://doi.org/10.1007/978-3-031-47818-5_8) [[ePrint version](https://ia.cr/2023/1057)] - December 2023 - IMACC 2023
+- [Practical and efficient FHE-based MPC](https://doi.org/10.1007/978-3-031-47818-5_14) [[ePrint version](https://ia.cr/2023/981)] - December 2023 - IMACC 2023
+- [ZK-for-Z2K: MPC-in-the-head zero-knowledge proofs for ℤ₂ᵏ](https://doi.org/10.1007/978-3-031-47818-5_8) [[ePrint version](https://ia.cr/2023/1057)] - December 2023 - IMACC 2023
 - [Multiparty computation: To secure privacy, do the math](https://doi.org/10.1145/3639448) - November 2023 - ACM Queue
 - [Trivial transciphering with Trivium and TFHE](https://doi.org/10.1145/3605759.3625255) [[ePrint version](https://ia.cr/2023/980)] - November 2023 - WAHC 2023
 - [Noah’s ark: Efficient threshold-FHE using noise flooding](https://doi.org/10.1145/3605759.3625259) [[ePrint version](https://ia.cr/2023/815)] - November 2023 - WAHC 2023
@@ -460,24 +467,25 @@ Research papers and publications by the Zama team sorted by date
 - [CONCRETE: Concrete operates on ciphertexts rapidly by extending TfhE](https://doi.org/10.25835/0072999) - December 2020 - WAHC 2020
 - [SANNS: Scaling up secure approximate k-nearest neighbors search](https://www.usenix.org/conference/usenixsecurity20/presentation/chen-hao) - August 2020 - USENIX 2020
 
-### Talks, Posters and Presentations
-Talks, posters, and presentations by the Zama team sorted by date
-
-#### Peer-reviewed
-- Randomization in FHE and TFHE - March 2026 - FHE.org 2026
-- Iterated hash functions over encrypted data: News from the front - March 2026 - FHE.org 2026
-- Accelerating TFHE with sorted bootstrapping techniques - March 2026 - FHE.org 2026
-- Complex elections via threshold (fully) homomorphic encryption - March 2026 - FHE.org 2026
-- Sub-millisecond TFHE bootstrapping on GPU - March 2026 - FHE.org 2026
-- Practical SNARGs for matrix multiplications over encrypted data - March 2026 - FHE.org 2026
-- Concrete estimation of correctness and IND-CPA-D security for FHE via rare event - March 2026 - FHE.org 2026
-- Let’s talk: How TFHE became practical - March 2026 - FHE.org 2026
+## Talks, posters, and presentations
+Talks, posters, and presentations by Zama team sorted by date
+### Peer-reviewed
+- Protecting high-value assets using robust MPC - May 2026 - TPMPC 2026
+- [Randomization in FHE and TFHE](https://fhe.org/conferences/conference-2026/resources/slides/1325_Smart.pdf) - March 2026 - FHE.org 2026
+- [Iterated hash functions over encrypted data: News from the front](https://fhe.org/conferences/conference-2026/resources/slides/1350_Joye.pdf) - March 2026 - FHE.org 2026
+- [Accelerating TFHE with sorted bootstrapping techniques](https://fhe.org/conferences/conference-2026/resources/slides/1300_Bergerat.pdf) - March 2026 - FHE.org 2026
+- [Complex elections via threshold (fully) homomorphic encryption](https://fhe.org/conferences/conference-2026/resources/posters/%5B02%5D%20-%20Complex%20Elections%20via%20Threshold%20(Fully)%20Homomorphic%20Encryption.pdf) - March 2026 - FHE.org 2026
+- [Sub-millisecond TFHE bootstrapping on GPU](https://fhe.org/conferences/conference-2026/resources/posters/%5B07%5D%20-%20Sub-Millisecond%20TFHE%20Bootstrapping%20on%20GPU.pdf) - March 2026 - FHE.org 2026
+- [Practical SNARGs for matrix multiplications over encrypted data](https://fhe.org/conferences/conference-2026/resources/posters/%5B11%5D%20-%20Practical%20SNARGs%20for%20Matrix%20Multiplications%20over%20Encrypted%20Data.pdf) - March 2026 - FHE.org 2026
+- [Concrete estimation of correctness and IND-CPA-D security for FHE via rare event](https://fhe.org/conferences/conference-2026/resources/posters/%5B14%5D%20-%20Concrete%20Estimation%20of%20Correctness%20and%20IND-CPA-D%20Security%20for%20FHE%20via%20Rare%20Event%20Simulation.pdf) - March 2026 - FHE.org 2026
+- [Let’s talk: How TFHE became practical](https://fhe.org/conferences/conference-2026/resources/posters/%5B22%5D%20-%20Let%E2%80%99s%20Talk_%20How%20TFHE%20Became%20Practical.pdf) - March 2026 - FHE.org 2026
+- [TFHE (FHE), ZHEnith (ZK) and Nexus (MPC)](https://csrc.nist.gov/csrc/media/presentations/2026/mpts2026-2b3/images-media/mpts2026-2b3-slides-zama-fhe-smart.pdf) - January 2026 - MPTS 2026
 - [Strong IND-CPAD security for FHE (essentially) for free](https://github.com/user-attachments/files/19464405/1545_JOYE.pdf) - ‍‍March 2025 - FHE.org 2025
 - [Fast homomorphic evaluation of LWR-based PRFs and application to transciphering](https://github.com/user-attachments/files/19668511/poster1.pdf) - ‍‍March 2025 - FHE.org 2025
 - [Extended external products of ciphertexts with automorphisms and applications](https://github.com/user-attachments/files/19668524/poster2-1.pdf) - ‍‍March 2025 - FHE.org 2025
-- Practical robust MPC for Galois rings - March 2025 - TPMPC & RWMPC 2025
+- Practical robust MPC for Galois rings [[video](https://vimeo.com/1076576731/23b0af5730)] - March 2025 - TPMPC & RWMPC 2025
 - [Towards verifiable FHE in practice](https://eprint.iacr.org/2024/451) - October 2024 - zkSummit12
-- Advanced FHE and MPC protocols for the blockchain - June 2024 - TPMPC 2024
+- Advanced FHE and MPC protocols for the blockchain [[video](https://www.youtube.com/watch?v=VmSubk7s-zs)] - June 2024 - TPMPC 2024
 - [IP protection & privacy in LLM: Leveraging Fully Homomorphic Encryption](data/RSA2024.pdf) [[video](https://www.youtube.com/watch?v=lmIgGD8csy0)] - May 2024 - RSA Conference 2024
 - [Advanced FHE protocols for the blockchain](https://iacr.org/submit/files/slides/2024/rwc/rwc2024/5/slides.pptx) - ‍‍March 2024 - RWC 2024
 - [Revisiting oblivious top-k selection with applications to secure k-NN classification](https://github.com/FHE-org/fhe-org.github.io/files/14896282/1635-Geelen.pdf) - ‍‍March 2024 - FHE.org 2024
