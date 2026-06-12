@@ -188,7 +188,6 @@ $ZAMA token, company, and community news, sorted by date
 - [Dark market application using TFHE-rs](https://www.zama.ai/post/dark-market-tfhe-rs) - July 2023
 - [Regular expression engine with TFHE-rs](https://www.zama.ai/post/regex-engine-tfhe-rs) - June 2023
 
----
 
 ### Hardware Acceleration
 - [HPU Deepdive: How FHE Operations Run on the Homomorphic Processor](https://www.zama.org/post/hpu-deepdive-how-fhe-operations-run-on-the-homomorphic-processor) - October 2025
@@ -196,7 +195,6 @@ $ZAMA token, company, and community news, sorted by date
 - [[Video Tutorial] Introducing Zama's Hardware Accelerator for FHE - HPU on FPGA](https://www.zama.ai/post/video-tutorial-introducing-zamas-hardware-accelerator-for-fhe-hpu-on-fpga) - June 5, 2025
 - [Announcing HPU on FPGA: The First Open-source Hardware Accelerator for FHE](https://www.zama.ai/post/announcing-hpu-on-fpga-the-first-open-source-hardware-accelerator-for-fhe) - May 2025
 
----
 
 ### Engineering Articles
 Sorted by date, most recent first
@@ -234,7 +232,6 @@ Sorted by date, most recent first
 - [A homomorphic FPGA implementation of the Intel 4004 — Part 1](https://www.zama.ai/post/homomorphic-fpga-implementation-of-the-intel-4004-part-1) - November 2021
 - [People should not care about privacy](https://www.zama.ai/post/people-should-not-care-about-privacy) - August 2021
 
----
 
 ### Research Papers and Publications
 Research papers and publications by the Zama team sorted by date
@@ -333,7 +330,6 @@ Research papers and publications by the Zama team sorted by date
 - [CONCRETE: Concrete operates on ciphertexts rapidly by extending TfhE](https://doi.org/10.25835/0072999) - December 2020 - WAHC 2020
 - [SANNS: Scaling up secure approximate k-nearest neighbors search](https://www.usenix.org/conference/usenixsecurity20/presentation/chen-hao) - August 2020 - USENIX 2020
 
----
 
 ### Talks, Posters and Presentations
 Talks, posters, and presentations by Zama team sorted by date
@@ -389,12 +385,28 @@ Talks, posters, and presentations by Zama team sorted by date
 - [Privacy-preserving ML with Fully Homomorphic Encryption (Video)](https://www.youtube.com/watch?v=g1Zlu63TP0Y) - May 2024 - Google TechTalks
 - [Privacy-preserving ML with Fully Homomorphic Encryption](https://github.com/zama-ai/awesome-zama/blob/main/data/PPMLMIT2024.pdf) - May 2024 - MIT & Google
 
----
 
-## Archive
+# Archive
 *Superseded libraries, demos, and old protocol versions — kept for reference.*
+## Past Developer/Bounty Programs (pre-Mainnet)
+- [Zama Bounty Program](https://github.com/zama-ai/bounty-program): The original bounty program for Zama's open source libraries (pre-Mainnet Developer Program). More than €500,000 awarded in prizes across 10 seasons.
+- [Developer Program December 2025: Join the Pre-Mainnet Builder Cohort](https://www.zama.org/post/developer-program-december-2025-join-the-pre-mainnet-builder-cohort) - December 2025
+- [Bounty Track December 2025: Build The FHEVM Example Hub](https://www.zama.org/post/bounty-track-december-2025-build-the-fhevm-example-hub) - December 2025
+- [Bounty Track October 2025: Build an Universal FHEVM SDK](https://www.zama.org/post/developer-program-bounty-track-october-2025-build-an-universal-fhevm-sdk) - October 2025
+- [Zama Bounty Program Season 10: Create a "Hello FHEVM" Tutorial](https://www.zama.org/post/zama-bounty-program-season-10-create-a-hello-fhevm-tutorial) – Sep 16 2025
+- [Launching the Zama Developer Program](https://www.zama.org/post/launching-the-zama-developer-program-to-support-developers-interested-in-building-the-next-blockchain-primitive-with-fhe) - September 2025
+- [Zama Bounty Program Season 9: Build a privacy‑preserving DCA bot](https://www.zama.ai/post/zama-bounty-program-season-9) – Jul 25 2025
+- [Announcing the first recipients of the Zama Cryptanalysis Grants](https://www.zama.ai/post/announcing-the-zama-cryptanalysis-grants) - June 2025
+- [Zama Bounty Program Season 8](https://www.zama.ai/post/zama-bounty-program-season-8) - March 2025
+- [Zama Bounty Program Season 7](https://www.zama.ai/post/zama-bounty-program-season-7) - December 2024
+- [Zama Bounty Program Season 6](https://www.zama.ai/post/zama-bounty-program-season-6) - June 2024
+- [Introducing the Zama Grant Program and launching the Zama Bounty Program season 5](https://www.zama.ai/post/introducing-the-zama-grant-program-and-launching-the-zama-bounty-program-season-5) - February 2024
+- [Zama Bounty Program Season 4: New Bounties Available](https://www.zama.ai/post/launching-the-zama-bounty-program-season-4) - September 2023
+- [Zama Bounty Program Season 3](https://www.zama.ai/post/zama-bounty-program-season-3) - May 2023
+- [Zama Bounty Program Season 2](https://www.zama.ai/post/zama-bounty-program-season-2) - February 2023
+- [Launching the Zama Bounty Program with over €500,000 in prizes](https://www.zama.ai/post/launching-the-zama-bounty-program) - November 2022
 
-### Concrete
+## Concrete
 > Concrete is Zama's TFHE compiler that converts Python programs into FHE equivalents. Actively maintained, but no longer the primary developer entry point — TFHE-rs and fhEVM are the current focus.
 
 **Repository**
@@ -437,9 +449,8 @@ Talks, posters, and presentations by Zama team sorted by date
 - [The Game of Life: Rebooted](https://www.zama.ai/post/the-game-of-life-rebooted-with-concrete-v0-2) - August 2022
 - [Encrypted search using fully homomorphic encryption](https://www.zama.ai/post/encrypted-search-using-fully-homomorphic-encryption) - February 2022
 
----
 
-### Concrete ML
+## Concrete ML
 > Privacy-preserving ML framework built on top of Concrete, with bindings to traditional ML frameworks.
 
 **Repository**
@@ -479,9 +490,9 @@ Talks, posters, and presentations by Zama team sorted by date
 - [Sentiment analysis over encrypted data](https://huggingface.co/blog/sentiment-analysis-fhe) - November 2022
 - [Titanic competition with privacy-preserving machine learning](https://www.zama.ai/post/titanic-competition-with-privacy-preserving-machine-learning-using-concrete-ml) - August 2022
 
----
 
-### FHEVM (<0.6)
+
+## FHEVM (<0.6)
 > Older fhEVM release announcements, superseded by v0.6 and the current FHEVM monorepo/protocol docs above.
 
 - [fhEVM v0.5: Enhanced Security and Efficiency for Encrypted Data](https://www.zama.ai/post/fhevm-v0-5-enhanced-security-and-efficiency-for-encrypted-data) – Jul 5 2024
