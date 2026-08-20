@@ -137,7 +137,7 @@ $ZAMA token, company, and community news, sorted by date
 - [Zama Builder Story #2 - The Builder Behind 12+ Confidential Apps](https://www.zama.org/post/zama-builder-story-2-the-builder-behind-12-confidential-apps) - August 2026
 - [Zama Newsletter: Confidential RFQ Private Beta, Shielded Report Q2, 1,000 TPS, and More](https://www.zama.org/post/zama-newsletter-july-recap-confidential-rfq-shielded-q2-1000tps) - August 2026
 - [Zama Newsletter: Confidential DeFi is live, $ZAMA listed on Uphold, Developer Program Mainnet Season 3, and more](https://www.zama.org/post/zama-newsletter-june-2026-recap-confidential-defi-listing-and-dev-program) - July 2026
-- [Dev Program Season 3, Zama acquiring TokenOps, Confidential DeFi and much more](https://www.zama.org/post/developer-program-season-3-zama-acquiring-tokenops-confidential-defi-and-much-more) - June 2026
+- [Dev Program Season 3, Zama acquiring TokenOps, Confidential DeFi and much more](https://www.zama.org/post/zama-newsletter-june-2026-recap-confidential-defi-listing-and-dev-program) - June 2026
 - [Zama Builder Stories #1 - Five Years With FHE](https://www.zama.org/post/zama-builder-stories-1---five-years-with-fhe) - May 2026
 - [Shielded report, Dfns brings encrypted transactions to 400+ enterprise clients, new SDK and more](https://www.zama.org/post/shielded-report-dfns-partnership-and-new-zama-sdk) - May 2026
 - [Becoming the confidentiality layer for the T-REX Ledger, executing the first confidential OTC trade onchain, presenting at FHE.org 2026, and more](https://www.zama.org/post/update-trex-rwa-partnership-ecosystem-and-more) - April 2026
