@@ -81,7 +81,9 @@
 ### Protocol Applications
 Official live applications built on the Zama Protocol
 
-- [Portfolio](https://portfolio.zama.org/): View and manage your confidential token holdings, staking positions, and rewards across the protocol in one dashboard
+- [Zama App](https://app.zama.org/): The easiest way to use confidential tokens — shield your assets and manage encrypted balances and transfers
+- [Confidential Vault](https://app.zama.org/earn): Deposit into confidential yield-earning vaults, starting with the Steakhouse Confidential Prime USDC vault on Morpho, while keeping your positions shielded onchain
+- [Confidential RFQ](https://app.zama.org/swap): Trade tokens onchain without revealing size, asset, or direction (private beta)
 - [Staking](https://staking.zama.org/): Stake $ZAMA to Genesis operators to help secure the network and earn staking rewards
 - [Bridging](https://bridge.mainnet.zama.org/): Bridge $ZAMA between supported chains
 - [Auction](https://auction.zama.org/): The Zama Public Auction app
@@ -96,10 +98,11 @@ Official live applications built on the Zama Protocol
 ### Product & Engineering Announcements
 Protocol- and engineering-related releases and technical updates, sorted by date
 
+- [Reaching 1,000 confidential ERC-7984 transfers per second on GPU](https://www.zama.org/post/1000-tps-confidential-transfers-gpu-zama-protocol) - July 2026
+- [Announcing Zama Confidential RFQ: trade onchain without revealing size, asset or direction](https://www.zama.org/post/announcing-zama-confidential-rfq-private-beta) - July 2026
 - [The freeze on Zama's cUSDC contract has been lifted and all systems are back to normal](https://www.zama.org/post/the-freeze-on-zamas-cusdc-contract-has-been-lifted-and-all-systems-are-back-to-normal) - June 2026
-- [Shielded report, Dfns brings encrypted transactions to 400+ enterprise clients, new SDK and more](https://www.zama.org/post/shielded-report-dfns-partnership-and-new-zama-sdk) - May 2026
+- [Zama Protocol Update: New SDK, Delegated Decryption, Developer Tooling, and Protocol Apps](https://www.zama.org/post/zama-protocol-update-new-sdk-delegated-decryption-developer-tooling-and-protocol-apps) - May 2026
 - [ERC-7984: The Confidential Token Standard Explained](https://www.zama.org/post/erc-7984-the-confidential-token-standard-explained) - February 2026
-- [More than 30% of $ZAMA circulating supply staked, the Zama Portfolio app, and FHE.org receiving support from Apple, AWS, Google and more](https://www.zama.org/post/more-than-30-of-zama-circulating-supply-staked-the-zama-portfol--fhe-org-receiving-support-from-apple-aws-google-and-more) - March 2026
 - [Zama Protocol Testnet Update: MPC Partners, Better Performance, Audits and New Features](https://www.zama.org/post/zama-protocol-testnet-update-mpc-partners-better-performance-audits-and-new-features) - November 2025
 - [Announcing HPU on FPGA: The first open-source hardware accelerator for FHE](https://www.zama.ai/post/announcing-hpu-on-fpga-the-first-open-source-hardware-accelerator-for-fhe) - May 2025
 - [Introducing Zama's Threshold Key Management System (TKMS)](https://www.zama.ai/post/introducing-zama-threshold-key-management-system-tkms) - April 2025
@@ -113,6 +116,11 @@ Protocol- and engineering-related releases and technical updates, sorted by date
 
 #### Partnerships
 Key ecosystem and integration partnerships, sorted by date
+- [Zama Partners with Hypernative to Extend Compliance by Design with Continuous Onchain Monitoring](https://www.zama.org/post/zama-partners-with-hypernative-to-extend-compliance-by-design-with-continuous-onchain-monitoring) - August 2026
+- [Building confidentiality into capital markets standards: CMTAT Confidential launches on the Zama Protocol](https://www.zama.org/post/cmtat-confidential-launches-on-the-zama-protocol) - July 2026
+- [Zama Partners with Elliptic to Make Confidential Finance Compliant by Design](https://www.zama.org/post/zama-partners-with-elliptic-to-make-confidential-finance-compliant-by-design) - July 2026
+- [Steakhouse Confidential Prime USDC Vault on Morpho: Now Live](https://www.zama.org/post/steakhouse-confidential-prime-usdc-vault-on-morpho-deposits-now-live) - June 2026
+- [The First DeFi Yield Venue for Confidential USDC (cUSDC) in Partnership with Morpho and Steakhouse Financial](https://www.zama.org/post/morpho-zama-steakhouse-launch-confidential-usdc-vault) - June 2026
 - [Zama Acquires TokenOps: Confidential & Fully Compliant Token Distributions, Airdrops, and Vesting](https://www.zama.org/post/zama-acquires-tokenops-confidential-compliant-token-distributions-airdrops-vesting) - May 2026
 - [Dfns and Zama Partner to Unlock Institutional Liquidity on Public Blockchains Through Confidential Wallet Infrastructure](https://www.zama.org/post/dfns-and-zama-partner-to-unlock-institutional-liquidity-on-public-blockchains-through-confidential-wallet-infrastructure) - April 2026
 - [The Confidentiality Layer: Bringing Institutional Trade Execution to Ethereum with GSR](https://www.zama.org/post/the-confidentiality-layer-bringing-institutional-trade-execution-to-ethereum-with-gsr) - March 2026
@@ -125,10 +133,16 @@ Key ecosystem and integration partnerships, sorted by date
 
 #### Other Announcements
 $ZAMA token, company, and community news, sorted by date
-- [Dev Program Season 3, Zama acquiring TokenOps, Confidential DeFi and much more](https://www.zama.org/post/developer-program-season-3-zama-acquiring-tokenops-confidential-defi-and-much-more) - June 2026
+- [$ZAMA Is Now Available on Revolut](https://www.zama.org/post/zama-is-now-available-on-revolut) - August 2026
+- [Zama Builder Story #2 - The Builder Behind 12+ Confidential Apps](https://www.zama.org/post/zama-builder-story-2-the-builder-behind-12-confidential-apps) - August 2026
+- [Zama Newsletter: Confidential RFQ Private Beta, Shielded Report Q2, 1,000 TPS, and More](https://www.zama.org/post/zama-newsletter-july-recap-confidential-rfq-shielded-q2-1000tps) - August 2026
+- [Zama Newsletter: Confidential DeFi is live, $ZAMA listed on Uphold, Developer Program Mainnet Season 3, and more](https://www.zama.org/post/zama-newsletter-june-2026-recap-confidential-defi-listing-and-dev-program) - July 2026
+- [Dev Program Season 3, Zama acquiring TokenOps, Confidential DeFi and much more](https://www.zama.org/post/zama-newsletter-june-2026-recap-confidential-defi-listing-and-dev-program) - June 2026
 - [Zama Builder Stories #1 - Five Years With FHE](https://www.zama.org/post/zama-builder-stories-1---five-years-with-fhe) - May 2026
 - [Shielded report, Dfns brings encrypted transactions to 400+ enterprise clients, new SDK and more](https://www.zama.org/post/shielded-report-dfns-partnership-and-new-zama-sdk) - May 2026
+- [Becoming the confidentiality layer for the T-REX Ledger, executing the first confidential OTC trade onchain, presenting at FHE.org 2026, and more](https://www.zama.org/post/update-trex-rwa-partnership-ecosystem-and-more) - April 2026
 - [Zama at FHE.org 2026: Eight Contributions from Taipei](https://www.zama.org/post/zama-at-fhe-org-2026-eight-contributions-from-taipei) - March 2026
+- [More than 30% of $ZAMA circulating supply staked, the Zama Portfolio app, and FHE.org receiving support from Apple, AWS, Google and more](https://www.zama.org/post/more-than-30-of-zama-circulating-supply-staked-the-zama-portfol--fhe-org-receiving-support-from-apple-aws-google-and-more) - March 2026
 - [$ZAMA Token Launch](https://www.zama.org/post/zama-token-launch) - February 2026
 - [Stake $ZAMA](https://www.zama.org/post/stake-zama-token) - February 2026
 - [The Zama Public Auction: $118M Committed for the First Encrypted ICO on Ethereum](https://www.zama.org/post/118m-committed-for-the-first-encrypted-ico-on-ethereum) - January 2026
@@ -143,14 +157,16 @@ $ZAMA token, company, and community news, sorted by date
 [Zama Developer Programs](https://www.zama.org/developer-hub#developer-program) support builders at every stage, from experimentation to production-ready projects, with rewards in cUSDT. [Apply here →](https://www.zama.org/developer-hub#developer-program)
 
 **Seasons**
+- [Zama Developer Program Mainnet Season 4: From Infrastructure to Applications](https://www.zama.org/post/zama-developer-program-mainnet-season-4) - July 2026
 - [Zama Developer Program Mainnet Season 3: Composable Privacy Is the Key](https://www.zama.org/post/zama-developer-program-mainnet-season-3-composable-privacy-is-the-key) - May 2026
 - [Zama Developer Program Mainnet Season 2: Confidential Finance Is The Next Frontier](https://www.zama.org/post/zama-developer-program-mainnet-season-2-confidential-finance-is-the-next-frontier) - April 2026
 - [Zama Developer Program Mainnet Season 1: Building For The Long Game](https://www.zama.org/post/zama-developer-program-mainnet-season1-building-for-the-long-game) - February 2026
 
 **Winners announcement**
 
+- [Announcing the Developer Program Mainnet Season 3 Winners](https://www.zama.org/post/announcing-the-developer-program-mainnet-season-3-winners) - July 2026
 - [Announcing the Developer Program Mainnet Season 2 Winners](https://www.zama.org/post/announcing-the-developer-program-mainnet-season-2-winners) - 2026
-- [Announcing the Developer Program Mainnet Season 1 Winners](https://www.zama.org/post/announcing-the-developer-program-mainnet-season-1-winners) - 2026
+- [Announcing the Developer Program Mainnet Season 1 Winners](https://www.zama.org/post/announcing-the-developer-program-mainnet-season-1-winners) - April 2026
 
 ### Reports
 - [Shielded Report](https://www.zama.org/shielded): Quarterly report on confidential onchain finance — institutional adoption, confidential stablecoins, and FHE-powered DeFi activity
@@ -172,8 +188,8 @@ $ZAMA token, company, and community news, sorted by date
 - [TFHE‑rs v0.8: Encrypted Arrays and Improved Multi‑GPU Support](https://www.zama.ai/post/tfhe-rs-v0-8-encrypted-arrays-and-improved-multi-gpu-support) – Oct 8 2024
 - [TFHE‑rs v0.7: Ciphertext Compression, Multi‑GPU Support and More](https://www.zama.ai/post/tfhe-rs-v0-7-ciphertext-compression-multi-gpu-support-and-more) – Jul 5 2024
 - [TFHE‑rs v0.5: Detecting Overflows, Running on GPU and More](https://www.zama.ai/post/tfhe-rs-v0-5) – Jan 22 2024
-- [TFHE‑rs v0.4: Zero‑Knowledge Support and Signed Integer Arithmetic](https://www.zama.ai/post/fhevm-v0-4) – Oct 18 2023
-- [TFHE‑rs v0.3: Faster Homomorphic Operations and Encrypted Tensors](https://www.zama.ai/post/fhevm-v0-3) – Jul 26 2023
+- [TFHE‑rs v0.4.0: Signed Integers and Encrypted Conditionals](https://www.zama.org/post/releasing-tfhe-rs-v0-4-0) – Oct 18 2023
+- [TFHE‑rs v0.3.0: Faster Operations, Wider API, Shorter Keys](https://www.zama.org/post/releasing-tfhe-rs-v0-3-0) – Jul 25 2023
 - [Announcing TFHE‑rs v0.2.0](https://www.zama.ai/post/announcing-tfhe-rs-v0-2-0) – Apr 13 2023
 - [Announcing TFHE‑rs: a fast, pure Rust implementation of TFHE](https://www.zama.ai/post/announcing-tfhe-rs) – Jan 12 2023
 
@@ -199,6 +215,8 @@ $ZAMA token, company, and community news, sorted by date
 ### Engineering Articles
 Sorted by date, most recent first
 
+- [Reaching 1,000 confidential ERC-7984 transfers per second on GPU](https://www.zama.org/post/1000-tps-confidential-transfers-gpu-zama-protocol) - July 2026
+- [AsyncWrapper: an anonymous on-ramp to confidentiality with non-custodial deposit screening](https://www.zama.org/post/asyncwrapper-an-anonymous-on-ramp-to-confidentiality-with-non-custodial-deposit-screening) - July 2026
 - [ERC-7984: The Confidential Token Standard Explained](https://www.zama.org/post/erc-7984-the-confidential-token-standard-explained) - February 2026
 - [Advancing Cryptography at Zama: Highlights from ASIACRYPT 2025](https://www.zama.org/post/advancing-cryptography-at-zama-highlights-from-asiacrypt-2025) - December 2025
 - [Building encrypted iOS apps using Fully Homomorphic Encryption](https://www.zama.ai/post/privacy-preserving-encrypted-ios-apps-using-fully-homomorphic-encryption) - May 2025
