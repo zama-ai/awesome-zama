@@ -81,7 +81,9 @@
 ### Protocol Applications
 Official live applications built on the Zama Protocol
 
-- [Portfolio](https://portfolio.zama.org/): View and manage your confidential token holdings, staking positions, and rewards across the protocol in one dashboard
+- [Zama App](https://app.zama.org/): The easiest way to use confidential tokens — shield your assets and manage encrypted balances and transfers
+- [Confidential Vault](https://app.zama.org/earn): Deposit into confidential yield-earning vaults, starting with the Steakhouse Confidential Prime USDC vault on Morpho, while keeping your positions shielded onchain
+- [Confidential RFQ](https://app.zama.org/swap): Trade tokens onchain without revealing size, asset, or direction (private beta)
 - [Staking](https://staking.zama.org/): Stake $ZAMA to Genesis operators to help secure the network and earn staking rewards
 - [Bridging](https://bridge.mainnet.zama.org/): Bridge $ZAMA between supported chains
 - [Auction](https://auction.zama.org/): The Zama Public Auction app
