@@ -133,6 +133,7 @@ Key ecosystem and integration partnerships, sorted by date
 
 #### Other Announcements
 $ZAMA token, company, and community news, sorted by date
+- [Zama Newsletter: $ZAMA on Revolut, $40M in the Confidential Vault, Hypernative Partnership, and More](https://www.zama.org/post/zama-newsletter-august-recap-zama-on-revolut-40m-in-the-confidential-vault-hypernative-partnership-and-more) - September 2026
 - [$ZAMA Is Now Available on Revolut](https://www.zama.org/post/zama-is-now-available-on-revolut) - August 2026
 - [Zama Builder Story #2 - The Builder Behind 12+ Confidential Apps](https://www.zama.org/post/zama-builder-story-2-the-builder-behind-12-confidential-apps) - August 2026
 - [Zama Newsletter: Confidential RFQ Private Beta, Shielded Report Q2, 1,000 TPS, and More](https://www.zama.org/post/zama-newsletter-july-recap-confidential-rfq-shielded-q2-1000tps) - August 2026
