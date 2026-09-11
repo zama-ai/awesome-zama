@@ -254,6 +254,8 @@ Sorted by date, most recent first
 ### Research Papers and Publications
 Research papers and publications by the Zama team sorted by date
 
+- Blind verifiable delay functions - December 2026 - ASIACRYPT 2026
+- SPoCK: Sequential proofs of complete knowledge - December 2026 - ASIACRYPT 2026
 - Snake-eye resistant and robust PKE from (ring-)LWE with small secrets - August 2026 - SAC 2026
 - Verifiable bootstrapping from lattice-based folding [[ePrint version](https://ia.cr/2026/1127)] - June 2026 - ePrint Archive
 - [Boolean arithmetic over 𝔽₂ from group commutators](https://doi.org/10.1007/978-3-032-27574-5_15) [[ePrint version](https://ia.cr/2026/701)] - June 2026 - WAIFI 2026
