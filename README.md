@@ -82,8 +82,8 @@
 Official live applications built on the Zama Protocol
 
 - [Zama App](https://app.zama.org/): The easiest way to use confidential tokens — shield your assets and manage encrypted balances and transfers
-- [Confidential Vault](https://app.zama.org/earn): Deposit into confidential yield-earning vaults, starting with the Steakhouse Confidential Prime USDC vault on Morpho, while keeping your positions shielded onchain
-- [Confidential RFQ](https://app.zama.org/swap): Trade tokens onchain without revealing size, asset, or direction (private beta)
+- [Confidential Vault](https://app.zama.org/earn): Deposit into 16 confidential yield-earning vaults across five curators and five asset classes, deployed on Morpho, while keeping your positions shielded onchain
+- [Confidential RFQ](https://app.zama.org/swap): Trade tokens onchain without revealing size, asset, or direction
 - [Staking](https://staking.zama.org/): Stake $ZAMA to Genesis operators to help secure the network and earn staking rewards
 - [Bridging](https://bridge.mainnet.zama.org/): Bridge $ZAMA between supported chains
 - [Auction](https://auction.zama.org/): The Zama Public Auction app
@@ -98,6 +98,7 @@ Official live applications built on the Zama Protocol
 ### Product & Engineering Announcements
 Protocol- and engineering-related releases and technical updates, sorted by date
 
+- [Confidential DeFi at Scale](https://www.zama.org/post/confidential-defi-at-scale) - September 2026
 - [Reaching 1,000 confidential ERC-7984 transfers per second on GPU](https://www.zama.org/post/1000-tps-confidential-transfers-gpu-zama-protocol) - July 2026
 - [Announcing Zama Confidential RFQ: trade onchain without revealing size, asset or direction](https://www.zama.org/post/announcing-zama-confidential-rfq-private-beta) - July 2026
 - [The freeze on Zama's cUSDC contract has been lifted and all systems are back to normal](https://www.zama.org/post/the-freeze-on-zamas-cusdc-contract-has-been-lifted-and-all-systems-are-back-to-normal) - June 2026
@@ -116,6 +117,7 @@ Protocol- and engineering-related releases and technical updates, sorted by date
 
 #### Partnerships
 Key ecosystem and integration partnerships, sorted by date
+- [Confidential Incentives for DeFi with Zama and Merkl](https://www.zama.org/post/confidential-incentives-for-defi-with-zama-and-merkl) - September 2026
 - [Zama Partners with Hypernative to Extend Compliance by Design with Continuous Onchain Monitoring](https://www.zama.org/post/zama-partners-with-hypernative-to-extend-compliance-by-design-with-continuous-onchain-monitoring) - August 2026
 - [Building confidentiality into capital markets standards: CMTAT Confidential launches on the Zama Protocol](https://www.zama.org/post/cmtat-confidential-launches-on-the-zama-protocol) - July 2026
 - [Zama Partners with Elliptic to Make Confidential Finance Compliant by Design](https://www.zama.org/post/zama-partners-with-elliptic-to-make-confidential-finance-compliant-by-design) - July 2026
