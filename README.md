@@ -257,15 +257,17 @@ Sorted by date, most recent first
 ### Research Papers and Publications
 Research papers and publications by the Zama team sorted by date
 
+- Practical adaptor signatures for NP from online/offline NIZK [[ePrint version](https://ia.cr/2026/2155)] - December 2026 - ASIACRYPT 2026
+- Improved multi-party distributed point functions from oblivious tensor evaluation [[ePrint version](https://ia.cr/2026/1942)] - December 2026 - ASIACRYPT 2026
 - Blind verifiable delay functions - December 2026 - ASIACRYPT 2026
 - SPoCK: Sequential proofs of complete knowledge - December 2026 - ASIACRYPT 2026
+- Hash function constructions from lightweight block ciphers for fully homomorphic encryption [[ePrint version](https://ia.cr/2026/309)] - November 2026 - WAHC 2026
 - Snake-eye resistant and robust PKE from (ring-)LWE with small secrets - August 2026 - SAC 2026
 - Verifiable bootstrapping from lattice-based folding [[ePrint version](https://ia.cr/2026/1127)] - June 2026 - ePrint Archive
 - [Boolean arithmetic over 𝔽₂ from group commutators](https://doi.org/10.1007/978-3-032-27574-5_15) [[ePrint version](https://ia.cr/2026/701)] - June 2026 - WAIFI 2026
 - [Fully asymmetric anamorphic homomorphic encryption from LWE](https://doi.org/10.1007/978-3-032-25330-9_21) [[ePrint version](https://ia.cr/2025/328)] - May 2026 - EUROCRYPT 2026
 - [Reactive correctness, sINDCPA-D-security and deterministic evaluation for TFHE](https://doi.org/10.62056/aksdkmol) [[ePrint version](https://ia.cr/2025/2005)] - April 2026 - Communications in Cryptology
 - Concrete estimation of correctness and IND-CPA-D security for FHE via rare event simulation [[ePrint version](https://ia.cr/2026/610)] - March 2026 - ePrint Archive
-- Hash function constructions from lightweight block ciphers for fully homomorphic encryption [[ePrint version](https://ia.cr/2026/309)] - February 2026 - ePrint Archive
 - Faster short pairing-based NIZK proofs for ring LWE ciphertexts [[ePrint version](https://ia.cr/2026/033)] - January 2026 - ePrint Archive
 - Practical SNARGs for matrix multiplications over encrypted data [[ePrint version](https://ia.cr/2026/027)] - January 2026 - ePrint Archive
 - [Bootstrapping (T)FHE ciphertexts via automorphisms: Closing the gap between binary and Gaussian keys](https://doi.org/10.1007/978-981-95-5122-4_1) [[ePrint version](https://ia.cr/2025/163)] - December 2025 - ASIACRYPT 2025
