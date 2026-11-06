@@ -117,6 +117,8 @@ Protocol- and engineering-related releases and technical updates, sorted by date
 
 #### Partnerships
 Key ecosystem and integration partnerships, sorted by date
+- [Confidential Tokens Are Now Live in Zerion Wallet](https://www.zama.org/post/confidential-tokens-are-now-live-in-zerion-wallet) - October 2026
+- [Confidential Rewards with Merkl Are Now Available to Claim](https://www.zama.org/post/confidential-rewards-with-merkl-are-now-available-to-claim) - October 2026
 - [Confidential Incentives for DeFi with Zama and Merkl](https://www.zama.org/post/confidential-incentives-for-defi-with-zama-and-merkl) - September 2026
 - [Zama Partners with Hypernative to Extend Compliance by Design with Continuous Onchain Monitoring](https://www.zama.org/post/zama-partners-with-hypernative-to-extend-compliance-by-design-with-continuous-onchain-monitoring) - August 2026
 - [Building confidentiality into capital markets standards: CMTAT Confidential launches on the Zama Protocol](https://www.zama.org/post/cmtat-confidential-launches-on-the-zama-protocol) - July 2026
@@ -135,6 +137,12 @@ Key ecosystem and integration partnerships, sorted by date
 
 #### Other Announcements
 $ZAMA token, company, and community news, sorted by date
+- [Zama Newsletter: Shielded Q3, $100M+ in Confidential Vaults, Confidential Tokens Across DeFi, and More](https://www.zama.org/post/zama-newsletter-october-recap) - November 2026
+- [Confidential Vaults: The Missing Layer for Institutional Capital in DeFi](https://www.zama.org/post/confidential-vaults-missing-layer-institutional-capital-defi) - October 2026
+- [Zama Newsletter: Confidential DeFi at Scale, the DefiLlama Report, $ZAMA on Solana, and More](https://www.zama.org/post/zama-newsletter-september-recap-confidential-defi-at-scale-the-defillama-report-zama-on-solana-and-more) - October 2026
+- [$ZAMA Is Now Trading on Solana via Sunrise](https://www.zama.org/post/zama-is-now-trading-on-solana-via-sunrise) - September 2026
+- [Why Curators Are Betting on Confidential Yield](https://www.zama.org/post/why-curators-are-betting-on-confidential-yield-wintermutes-igor-igamberdiev-and-rand-hindi-in-conversation) - September 2026
+- [The Real Reason Institutions Need Onchain Privacy (Rand Hindi on The Roll Up Show)](https://www.zama.org/post/the-real-reason-institutions-need-onchain-privacy-a-conversation-with-zama-ceo-rand-hindi-on-the-rollup) - September 2026
 - [Zama Newsletter: $ZAMA on Revolut, $40M in the Confidential Vault, Hypernative Partnership, and More](https://www.zama.org/post/zama-newsletter-august-recap-zama-on-revolut-40m-in-the-confidential-vault-hypernative-partnership-and-more) - September 2026
 - [$ZAMA Is Now Available on Revolut](https://www.zama.org/post/zama-is-now-available-on-revolut) - August 2026
 - [Zama Builder Story #2 - The Builder Behind 12+ Confidential Apps](https://www.zama.org/post/zama-builder-story-2-the-builder-behind-12-confidential-apps) - August 2026
@@ -167,6 +175,7 @@ $ZAMA token, company, and community news, sorted by date
 
 **Winners announcement**
 
+- [Announcing the Developer Program Mainnet Season 4 Winners](https://www.zama.org/post/announcing-the-developer-program-mainnet-season-4-winners) - September 2026
 - [Announcing the Developer Program Mainnet Season 3 Winners](https://www.zama.org/post/announcing-the-developer-program-mainnet-season-3-winners) - July 2026
 - [Announcing the Developer Program Mainnet Season 2 Winners](https://www.zama.org/post/announcing-the-developer-program-mainnet-season-2-winners) - 2026
 - [Announcing the Developer Program Mainnet Season 1 Winners](https://www.zama.org/post/announcing-the-developer-program-mainnet-season-1-winners) - April 2026
