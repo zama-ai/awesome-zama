@@ -117,6 +117,8 @@ Protocol- and engineering-related releases and technical updates, sorted by date
 
 #### Partnerships
 Key ecosystem and integration partnerships, sorted by date
+- [Confidential yield is now available for Plume, NUVA, and Yuzu vaults, bringing institutional RWA and private credit strategies to the Zama ecosystem](https://www.zama.org/post/confidential-yield-is-now-available-for-plume-nuva-and-yuzu) - November 2026
+- [Yield.xyz Integrates Zama Confidential Vaults, Bringing Confidential Yield to More Applications](https://www.zama.org/post/yield-xyz-integrates-zama-confidential-vaults-bringing-confidential-yield-to-more-applications) - November 2026
 - [Confidential Tokens Are Now Live in Zerion Wallet](https://www.zama.org/post/confidential-tokens-are-now-live-in-zerion-wallet) - October 2026
 - [Confidential Rewards with Merkl Are Now Available to Claim](https://www.zama.org/post/confidential-rewards-with-merkl-are-now-available-to-claim) - October 2026
 - [Confidential Incentives for DeFi with Zama and Merkl](https://www.zama.org/post/confidential-incentives-for-defi-with-zama-and-merkl) - September 2026
@@ -137,6 +139,10 @@ Key ecosystem and integration partnerships, sorted by date
 
 #### Other Announcements
 $ZAMA token, company, and community news, sorted by date
+- [Bitcoin, Yield, and Onchain Confidentiality (BiT Global’s Nadia Song and Rand Hindi in Conversation)](https://www.zama.org/post/bitcoin-yield-and-onchain-confidentiality) - November 2026
+- [Confidential Yield for Every Wallet (Yield.xyz's Sebastian Faria and Rand Hindi in Conversation)](https://www.zama.org/post/confidential-yield-for-every-wallet-yield-xyzs-sebastian-faria-and-rand-hindi-in-conversation) - November 2026
+- [Bringing the British Pound Onchain with Confidentiality](https://www.zama.org/post/bringing-the-british-pound-onchain-with-confidentiality-tgbps-benoit-marzouk-and-rand-hindi-in-conversation) - November 2026
+- [The Best Privacy Is Invisible at the Interface](https://www.zama.org/post/the-best-privacy-is-invisible-at-the-interface) - November 2026
 - [Zama Newsletter: Shielded Q3, $100M+ in Confidential Vaults, Confidential Tokens Across DeFi, and More](https://www.zama.org/post/zama-newsletter-october-recap) - November 2026
 - [Confidential Vaults: The Missing Layer for Institutional Capital in DeFi](https://www.zama.org/post/confidential-vaults-missing-layer-institutional-capital-defi) - October 2026
 - [Zama Newsletter: Confidential DeFi at Scale, the DefiLlama Report, $ZAMA on Solana, and More](https://www.zama.org/post/zama-newsletter-september-recap-confidential-defi-at-scale-the-defillama-report-zama-on-solana-and-more) - October 2026
@@ -168,6 +174,7 @@ $ZAMA token, company, and community news, sorted by date
 [Zama Developer Programs](https://www.zama.org/developer-hub#developer-program) support builders at every stage, from experimentation to production-ready projects, with rewards in cUSDT. [Apply here →](https://www.zama.org/developer-hub#developer-program)
 
 **Seasons**
+- [Zama Developer Program Mainnet Season 5: Games That Couldn't Exist Before](https://www.zama.org/post/zama-developer-program-mainnet-season-5-confidential-gaming) - November 2026
 - [Zama Developer Program Mainnet Season 4: From Infrastructure to Applications](https://www.zama.org/post/zama-developer-program-mainnet-season-4) - July 2026
 - [Zama Developer Program Mainnet Season 3: Composable Privacy Is the Key](https://www.zama.org/post/zama-developer-program-mainnet-season-3-composable-privacy-is-the-key) - May 2026
 - [Zama Developer Program Mainnet Season 2: Confidential Finance Is The Next Frontier](https://www.zama.org/post/zama-developer-program-mainnet-season-2-confidential-finance-is-the-next-frontier) - April 2026
